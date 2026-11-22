@@ -1,0 +1,13 @@
+ControlSet,CacheEntryPosition,Path,LastModifiedTimeUTC,Executed,Duplicate,SourceFile
+1,0,C:\Windows\system32\mstsc.exe,2025-10-14 03:22:51,NA,False,C:\Windows\System32\config\SYSTEM
+1,1,C:\Windows\system32\NLTEST.EXE,2025-10-14 03:21:40,NA,False,C:\Windows\System32\config\SYSTEM
+1,2,C:\Windows\system32\net1.exe,2025-10-14 03:21:39,NA,False,C:\Windows\System32\config\SYSTEM
+1,3,C:\Windows\system32\net.exe,2025-10-14 03:21:39,NA,False,C:\Windows\System32\config\SYSTEM
+1,4,C:\Windows\system32\whoami.exe,2025-10-14 03:21:44,NA,False,C:\Windows\System32\config\SYSTEM
+1,5,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,2025-10-14 03:20:12,NA,False,C:\Windows\System32\config\SYSTEM
+1,6,C:\Windows\system32\rundll32.exe,2025-10-14 03:20:58,NA,False,C:\Windows\System32\config\SYSTEM
+1,7,E:\KAPE\kape.exe,2025-09-30 14:02:11,NA,False,C:\Windows\System32\config\SYSTEM
+1,8,C:\Windows\system32\w32tm.exe,2025-10-14 03:22:03,NA,False,C:\Windows\System32\config\SYSTEM
+1,9,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2026-02-12 01:20:44,NA,False,C:\Windows\System32\config\SYSTEM
+1,10,C:\Program Files\PrintVendor\PVStatus\PVStatusMon.exe,2025-06-03 08:50:02,NA,False,C:\Windows\System32\config\SYSTEM
+1,11,C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe,2025-12-18 22:15:40,NA,False,C:\Windows\System32\config\SYSTEM

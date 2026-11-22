@@ -1,0 +1,8 @@
+[Unit]
+Description=restic backup of FS01 and DC01
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/restic-backup.sh
+Nice=10

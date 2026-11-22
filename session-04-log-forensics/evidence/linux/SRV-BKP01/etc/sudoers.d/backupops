@@ -1,0 +1,2 @@
+# Backup operators manage the restic jobs
+%backupops ALL=(ALL:ALL) ALL

@@ -1,0 +1,44 @@
+# local.rules — Session 3: turn two network findings into detections
+#
+# Run with:   ./suricata-offline.sh evidence/ws-fin-07_2026-03-10_0835-0920.pcap
+#
+# Rule anatomy:   action proto  src_net  src_port -> dst_net  dst_port  ( options; )
+# $HOME_NET / $EXTERNAL_NET come from /etc/suricata/suricata.yaml (10.0.0.0/8 is inside by default).
+# Custom rules use sid >= 1000000. Bump rev every time you edit a rule.
+#
+# Sticky buffers: a keyword like tls.sni or http.uri SELECTS a field; the
+# content: that follows is matched inside that field only. That is what makes
+# these rules cheap and precise compared to grepping the whole packet.
+
+# --- 1. Worked example (already complete) -----------------------------------
+# A DNS query for the look-alike supplier domain from the phishing email.
+# endswith anchors the match to the end of the name, so a look-alike of the
+# look-alike (e.g. "...example.com.evil") does not match.
+alert dns $HOME_NET any -> any any (msg:"CERES phishing domain resolved"; \
+    dns.query; content:"ceres-fornecedores.example.com"; nocase; endswith; \
+    classtype:policy-violation; sid:1000001; rev:1;)
+
+# --- 2. YOUR TURN: the C2, from the TLS ClientHello ----------------------------
+# Replace __SNI__ with the server name the implant sends (you found it with
+# pcap-triage.sh, section tls). Use the full name, as sent. Keep nocase (DNS
+# names are case-insensitive) and endswith (the SNI must END with your name).
+alert tls $HOME_NET any -> $EXTERNAL_NET any (msg:"CERES C2 TLS SNI"; \
+    flow:established,to_server; \
+    tls.sni; content:"__SNI__"; nocase; endswith; \
+    classtype:trojan-activity; sid:1000002; rev:1;)
+
+# --- 3. YOUR TURN: the initial-access download ---------------------------------
+# Replace __URI__ with the path of the file Edge fetched over plain HTTP
+# (pcap-triage.sh, section http). Path only, no host.
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"CERES phishing archive download"; \
+    flow:established,to_server; \
+    http.method; content:"GET"; \
+    http.uri; content:"__URI__"; endswith; \
+    classtype:trojan-activity; sid:1000003; rev:1;)
+
+# --- 4. Go further (optional) ---------------------------------------------------
+# A self-signed certificate whose subject is the SNI the client asked for.
+# Hint: tls.cert_subject and tls.cert_issuer are sticky buffers too. Write a
+# rule that fires on the C2 certificate and NOT on the printer vendor's.
+# Explain in your report why this rule would be noisy on a real network.
+# alert tls $EXTERNAL_NET 443 -> $HOME_NET any (msg:"CERES ..."; flow:established,to_client; ...; sid:1000004; rev:1;)

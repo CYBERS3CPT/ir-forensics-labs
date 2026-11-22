@@ -1,0 +1,94 @@
+Received: from DB9PR02MB7741.eurprd02.prod.mail.example.net (2001:db8:6:1::14) by
+ DB9PR02MB7741.eurprd02.prod.mail.example.net with HTTPS; Tue, 10 Mar 2026 08:12:04 +0000
+Received: from AM6P193CA0021.EURP193.PROD.mail.example.net (2001:db8:6:2::21) by
+ DB9PR02MB7741.eurprd02.prod.mail.example.net (2001:db8:6:1::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8722.20; Tue, 10 Mar 2026 08:12:03 +0000
+Received: from AM4PEPF00025F98.EURPRD83.prod.mail.example.net
+ (2001:db8:6:3::5) by AM6P193CA0021.outlook.mail.example.net
+ (2001:db8:6:2::21) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8722.20 via Frontend Transport; Tue, 10 Mar 2026 08:12:03 +0000
+Authentication-Results: spf=pass (sender IP is 203.0.113.45)
+ smtp.mailfrom=ceres-fornecedores.example.com; dkim=pass (signature was verified)
+ header.d=ceres-fornecedores.example.com;dmarc=pass action=none
+ header.from=ceres-fornecedores.example.com;compauth=pass reason=100
+Received-SPF: Pass (protection.mail.example.net: domain of
+ ceres-fornecedores.example.com designates 203.0.113.45 as permitted sender)
+ receiver=protection.mail.example.net; client-ip=203.0.113.45;
+ helo=mail.ceres-fornecedores.example.com; pr=C
+Received: from mail.ceres-fornecedores.example.com (203.0.113.45) by
+ AM4PEPF00025F98.mail.protection.mail.example.net (10.167.16.7) with Microsoft SMTP
+ Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.8722.18 via
+ Frontend Transport; Tue, 10 Mar 2026 08:12:02 +0000
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by mail.ceres-fornecedores.example.com (Postfix) with ESMTPSA id 4F2A19C0
+	for <m.antunes@ceres-alimentar.example.com>; Tue, 10 Mar 2026 08:11:58 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=ceres-fornecedores.example.com; s=mail; t=1773130318;
+	h=from:reply-to:to:subject:date:message-id;
+	bh=DEa2c75GgwxIZxnWfkBY0CO6Q1k5SJ0rPw16N1fjuiM=;
+	b=/HR45CaRgSRsM4twK/Gzg7GEO6zReH2jMJV+RGfdR1NA4ZJyo5vDCWn4CXUkrE/z
+	 Kz7le1zHW3tZpS+2W7zABvx0eOQmkYEkbDOLcCvxs4OxhDus0Xh9ozCVfkRn3UdT
+	 QOGScqObwwlp+Al1JKxP8ys+5Xtcx1t7WaUvtlu8wAb8dHjkJpGBJGwzi3Ar8bOD
+From: =?UTF-8?B?QWdybyBUw6JtZWdhIOKAlCBGYXR1cmHDp8Ojbw==?= <faturacao@ceres-fornecedores.example.com>
+Reply-To: agrotamega.faturas@freemail.example.net
+To: Marta Antunes <m.antunes@ceres-alimentar.example.com>
+Subject: =?UTF-8?B?RmF0dXJhIHBlbmRlbnRlIEZUIDIwMjYvMTE4NyDigJQgMi7CuiBhdmlzbw==?=
+Date: Tue, 10 Mar 2026 08:11:58 +0000
+Message-ID: <577FE5D8.774785.20260310081158@mail.ceres-fornecedores.example.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_058b67544eed35c8914379697adb9cf9"
+Return-Path: faturacao@ceres-fornecedores.example.com
+X-MS-Exchange-Organization-ExpirationStartTime: 10 Mar 2026 08:12:04.000 (UTC)
+X-MS-Exchange-Organization-Network-Message-Id: ef8c9d65-5219-561a-aa97-6205086d9ede
+X-MS-Exchange-Organization-AuthSource: AM4PEPF00025F98.EURPRD83.prod.mail.example.net
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-SCL: 1
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-Forefront-Antispam-Report: CIP:203.0.113.45;CTRY:;LANG:pt;SCL:1;SRV:;IPV:NLI;SFV:NSPM;
+ H:mail.ceres-fornecedores.example.com;PTR:mail.ceres-fornecedores.example.com;CAT:NONE;
+ SFS:(13230040)(4636009)(69100299015)(8096899003);DIR:INB;
+X-Microsoft-Antispam: BCL:0;ARA:13230040|4636009|69100299015|8096899003;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 10 Mar 2026 08:12:04.000 (UTC)
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.1830512
+
+This is a multi-part message in MIME format.
+
+--b1_058b67544eed35c8914379697adb9cf9
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+RXhtYS4gU3JhLiBNYXJ0YSBBbnR1bmVzLAoKVmVyaWZpY2Ftb3MgcXVlIGEgZmF0dXJhIEZUIDIw
+MjYvMTE4NywgdmVuY2lkYSBhIDI3LzAyLzIwMjYsIGNvbnRpbnVhIHBvciBsaXF1aWRhci4KVHJh
+dGEtc2UgZG8gMi7CuiBhdmlzby4gUGFyYSBldml0YXIgYSBzdXNwZW5zw6NvIGRhcyBlbnRyZWdh
+cyBlIGEgYXBsaWNhw6fDo28gZGUganVyb3MKZGUgbW9yYSwgc29saWNpdGFtb3MgYSByZWd1bGFy
+aXphw6fDo28gYXTDqSBhbyBmaW5hbCBkbyBkaWEgZGUgaG9qZS4KCkEgZmF0dXJhIGUgbyBleHRy
+YXRvIGRlIGNvbnRhIGNvcnJlbnRlIGVzdMOjbyBkaXNwb27DrXZlaXMgYXF1aToKaHR0cDovL2Zh
+dHVyYXMuY2VyZXMtZm9ybmVjZWRvcmVzLmV4YW1wbGUuY29tL0ZUMjAyNl8xMTg3LnppcAoKQ2Fz
+byBvIHBhZ2FtZW50byBqw6EgdGVuaGEgc2lkbyBlZmV0dWFkbywgcG9yIGZhdm9yIGVudmllIG8g
+Y29tcHJvdmF0aXZvIGVtIHJlc3Bvc3RhCmEgZXN0ZSBlbWFpbC4KCkNvbSBvcyBtZWxob3JlcyBj
+dW1wcmltZW50b3MsCkRlcGFydGFtZW50byBkZSBGYXR1cmHDp8OjbwpBZ3JvIFTDom1lZ2EsIExk
+YS4K
+
+--b1_058b67544eed35c8914379697adb9cf9
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGJvZHkgc3R5bGU9ImZvbnQtZmFtaWx5OkNhbGlicmksQXJpYWwsc2Fucy1zZXJpZjtm
+b250LXNpemU6MTFwdCI+PHA+RXhtYS4gU3JhLiBNYXJ0YSBBbnR1bmVzLDwvcD48cD5WZXJpZmlj
+YW1vcyBxdWUgYSBmYXR1cmEgPGI+RlQgMjAyNi8xMTg3PC9iPiwgdmVuY2lkYSBhIDI3LzAyLzIw
+MjYsIGNvbnRpbnVhIHBvciBsaXF1aWRhci48YnI+VHJhdGEtc2UgZG8gPGI+Mi7CuiBhdmlzbzwv
+Yj4uIFBhcmEgZXZpdGFyIGEgc3VzcGVuc8OjbyBkYXMgZW50cmVnYXMgZSBhIGFwbGljYcOnw6Nv
+IGRlIGp1cm9zIGRlIG1vcmEsIHNvbGljaXRhbW9zIGEgcmVndWxhcml6YcOnw6NvIGF0w6kgYW8g
+ZmluYWwgZG8gZGlhIGRlIGhvamUuPC9wPjxwPkZhdHVyYSBlIGV4dHJhdG8gZGUgY29udGEgY29y
+cmVudGU6IDxhIGhyZWY9Imh0dHA6Ly9mYXR1cmFzLmNlcmVzLWZvcm5lY2Vkb3Jlcy5leGFtcGxl
+LmNvbS9GVDIwMjZfMTE4Ny56aXAiPkZUMjAyNl8xMTg3LnBkZjwvYT48L3A+PHA+Q2FzbyBvIHBh
+Z2FtZW50byBqw6EgdGVuaGEgc2lkbyBlZmV0dWFkbywgcG9yIGZhdm9yIGVudmllIG8gY29tcHJv
+dmF0aXZvIGVtIHJlc3Bvc3RhIGEgZXN0ZSBlbWFpbC48L3A+PHA+Q29tIG9zIG1lbGhvcmVzIGN1
+bXByaW1lbnRvcyw8YnI+RGVwYXJ0YW1lbnRvIGRlIEZhdHVyYcOnw6NvPGJyPjxiPkFncm8gVMOi
+bWVnYSwgTGRhLjwvYj48L3A+PC9ib2R5PjwvaHRtbD4=
+
+--b1_058b67544eed35c8914379697adb9cf9--

@@ -1,0 +1,30 @@
+title: RDP session to a server from the workstation subnet
+id: s04-lsm-rdp-from-ws
+status: test
+description: |
+  TerminalServices-LocalSessionManager 21 (logon) and 25 (reconnect) carry the
+  user and the client address. This channel is not the Security log: it
+  survives a Security clear.
+references:
+  - https://attack.mitre.org/techniques/T1021/001/
+tags:
+  - attack.lateral-movement
+  - attack.t1021.001
+logsource:
+  product: windows
+  service: terminalservices-localsessionmanager
+detection:
+  selection:
+    EventID:
+      - 21
+      - 25
+    Address|cidr: '10.20.30.0/24'
+  selection_server:
+    Computer|startswith:
+      - 'FS'
+      - 'DC'
+      - 'SRV'
+  condition: selection and selection_server
+falsepositives:
+  - Administrators from their workstations — which ones are admin workstations?
+level: medium

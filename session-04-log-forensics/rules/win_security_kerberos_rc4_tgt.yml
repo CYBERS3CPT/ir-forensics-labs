@@ -1,0 +1,27 @@
+title: Kerberos TGT issued with RC4 encryption
+id: s04-sec-krb-rc4-tgt
+status: test
+description: |
+  In a domain where clients use AES, a TGT encrypted with RC4 (0x17) means the
+  client asked for RC4 — legacy devices do, and so do tools that turn a
+  stolen NT hash into a ticket (overpass-the-hash).
+references:
+  - https://attack.mitre.org/techniques/T1550/002/
+  - https://attack.mitre.org/techniques/T1558/
+tags:
+  - attack.lateral-movement
+  - attack.t1550.002
+logsource:
+  product: windows
+  service: security
+detection:
+  selection:
+    EventID: 4768
+    TicketEncryptionType: '0x17'
+    Status: '0x0'
+  filter_machine:
+    TargetUserName|endswith: '$'
+  condition: selection and not filter_machine
+falsepositives:
+  - Old printers, scanners and NAS boxes that only speak RC4 (list them by account and IP)
+level: medium

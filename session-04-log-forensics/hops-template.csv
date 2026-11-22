@@ -1,0 +1,12 @@
+# One row per step of the attack, in time order. Lines starting with # are ignored.
+# utc        true UTC, corrected, with seconds and a trailing Z
+# technique  one or more ATT&CK IDs separated by ;   (T1021.001;T1078.002)
+# credential the account used and how the attacker had it, or -
+# evidence   one or more references separated by ;
+#              Windows:  FILE.jsonl#EventRecordID          e.g. DC01_Security.jsonl#48301999
+#              text log: HOST/var/log/FILE:LINE            e.g. SRV-BKP01/var/log/syslog:12
+#              wtmp:     HOST/var/log/wtmp@BYTEOFFSET      (the @offset wtmp-read.py --raw prints)
+#              other:    ext:what-and-where                (not checked; e.g. ext:S3 conn.log uid C...)
+# Delete the EXAMPLE row before you hand it in.
+step,utc,from_host,to_host,action,technique,credential,evidence
+0,2026-03-10T08:12:04Z,mail,WS-FIN-07,EXAMPLE - phishing email delivered (from Session 1),T1566.002,-,ext:S1 message trace

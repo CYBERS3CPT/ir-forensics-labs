@@ -1,0 +1,12 @@
+Name,Extension,EntryNumber,SequenceNumber,ParentEntryNumber,ParentSequenceNumber,ParentPath,UpdateSequenceNumber,UpdateTimestamp,UpdateReasons,FileAttributes,OffsetToData,SourceFile
+FT2026_1187.zip,.zip,107252,2,88411,1,.\Users\m.antunes\Downloads,81204441611,2026-03-10 08:45:56.1724820,FileCreate,Archive,1204000,C:\$Extend\$J
+FT2026_1187.zip:Zone.Identifier,.Identifier,107252,2,88411,1,.\Users\m.antunes\Downloads,81204442007,2026-03-10 08:45:57.1477982,NamedDataExtend|StreamChange|Close,Archive,1204096,C:\$Extend\$J
+FT2026_1187.zip,.zip,107252,2,88411,1,.\Users\m.antunes\Downloads,81204442406,2026-03-10 08:45:57.9848226,DataExtend|FileCreate|Close,Archive,1204192,C:\$Extend\$J
+Temp1_FT2026_1187.zip,.zip,107260,1,88131,1,.\Users\m.antunes\AppData\Local\Temp,81204442714,2026-03-10 08:47:27.8436061,FileCreate|Close,Directory,1204288,C:\$Extend\$J
+FT2026_1187.pdf.lnk,.lnk,107261,1,107260,1,.\Users\m.antunes\AppData\Local\Temp\Temp1_FT2026_1187.zip,81204443163,2026-03-10 08:47:27.9504852,DataExtend|FileCreate|Close,Archive,1204384,C:\$Extend\$J
+upd.dll,.dll,107263,1,88131,1,.\Users\m.antunes\AppData\Local\Temp,81204443470,2026-03-10 08:47:35.4568696,FileCreate,Archive,1204480,C:\$Extend\$J
+upd.dll,.dll,107263,1,88131,1,.\Users\m.antunes\AppData\Local\Temp,81204443885,2026-03-10 08:47:42.5680652,DataExtend|FileCreate|Close,Archive,1204576,C:\$Extend\$J
+lsass.dmp,.dmp,107274,1,452,1,.\Users\Public,81204444207,2026-03-10 11:07:10.7045261,FileCreate,Archive,1204672,C:\$Extend\$J
+lsass.dmp,.dmp,107274,1,452,1,.\Users\Public,81204444632,2026-03-10 11:07:18.3278682,DataExtend|FileCreate|Close,Archive,1204768,C:\$Extend\$J
+lsass.dmp,.dmp,107274,1,452,1,.\Users\Public,81204444957,2026-03-10 11:08:47.6508552,FileDelete|Close,Archive,1204864,C:\$Extend\$J
+Default.rdp,.rdp,107288,1,88502,1,.\Users\m.antunes\Documents,81204445300,2026-03-10 11:35:08.7578943,DataExtend|FileCreate|Close,Archive,1204960,C:\$Extend\$J

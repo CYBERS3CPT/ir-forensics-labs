@@ -1,0 +1,8 @@
+root:x:0:
+sudo:x:27:jpires,steixeira
+utmp:x:43:
+crontab:x:107:
+backupops:x:1010:bkpadmin,jpires
+bkpadmin:x:1001:
+jpires:x:1002:
+steixeira:x:1003:

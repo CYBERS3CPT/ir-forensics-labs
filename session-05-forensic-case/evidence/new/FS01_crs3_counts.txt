@@ -1,0 +1,45 @@
+**********************
+Windows PowerShell transcript start
+Start time: 20260312094410
+Username: CERES\s.teixeira
+RunAs User: CERES\s.teixeira
+Machine: FS01 (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 6120
+**********************
+PS C:\> # FS01 console session, network isolated. Read-only counts for the panel firm.
+PS C:\> foreach ($s in 'Finance','HR','Logistica') {
+>>   $enc  = (Get-ChildItem "D:\Shares\$s" -Recurse -File -Filter *.crs3 -ErrorAction SilentlyContinue).Count
+>>   $note = (Get-ChildItem "D:\Shares\$s" -Recurse -File -Filter LEIA-ME_CRS3.txt -ErrorAction SilentlyContinue).Count
+>>   $left = (Get-ChildItem "D:\Shares\$s" -Recurse -File -Force -ErrorAction SilentlyContinue | ? { $_.Extension -ne '.crs3' -and $_.Name -ne 'LEIA-ME_CRS3.txt' }).Count
+>>   [pscustomobject]@{Share=$s; Encrypted=$enc; Notes=$note; NotEncrypted=$left} }
+
+Share     Encrypted Notes NotEncrypted
+-----     --------- ----- ------------
+Finance       61337   101          412
+HR            23412    52          153
+Logistica     99268    58          529
+
+PS C:\> # total encrypted: 184017
+PS C:\> Get-ChildItem D:\Shares -Recurse -File -Force | ? { $_.Extension -ne '.crs3' -and $_.Name -ne 'LEIA-ME_CRS3.txt' } | Group-Object Extension | Sort-Object Count -Desc | Select Count,Name
+
+Count Name
+----- ----
+  611 .ini
+  298 .db
+  147 .lnk
+   38 .tmp
+
+PS C:\> Get-Date -Format o; (Get-Date).ToUniversalTime().ToString('o')
+2026-03-12T09:51:37.4415230+00:00
+2026-03-12T09:51:37.4425270Z
+PS C:\> w32tm /stripchart /computer:10.20.10.10 /samples:1 /dataonly
+Tracking 10.20.10.10 [10.20.10.10:123].
+Collecting 1 samples.
+The current time is 12/03/2026 09:51:39.
+09:51:39, +00.0004113s
+PS C:\> # NOTE: FS01 is isolated but DC01 reachable on the management VLAN (port Gi1/0/48).
+**********************
+Windows PowerShell transcript end
+End time: 20260312095142
+**********************

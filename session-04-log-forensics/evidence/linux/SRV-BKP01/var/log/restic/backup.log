@@ -1,0 +1,55 @@
+2026-03-01T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-01T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-01T01:40:55Z fs01: snapshot 957c1140 saved (files: new 253, changed 717, unmodified 182432; added 1.296 GiB)
+2026-03-01T01:43:48Z dc01: snapshot bdddf568 saved (system state export; added 288.7 MiB)
+2026-03-01T01:43:51Z == done, exit 0
+2026-03-02T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-02T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-02T01:39:41Z fs01: snapshot b258096e saved (files: new 391, changed 623, unmodified 183628; added 1.583 GiB)
+2026-03-02T01:42:42Z dc01: snapshot 1541115d saved (system state export; added 253.3 MiB)
+2026-03-02T01:42:45Z == done, exit 0
+2026-03-03T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-03T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-03T01:42:32Z fs01: snapshot 97e99a57 saved (files: new 214, changed 1829, unmodified 181698; added 1.144 GiB)
+2026-03-03T01:45:34Z dc01: snapshot 5930d50c saved (system state export; added 375.8 MiB)
+2026-03-03T01:45:37Z == done, exit 0
+2026-03-04T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-04T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-04T01:43:54Z fs01: snapshot 8a67e372 saved (files: new 147, changed 792, unmodified 181130; added 1.068 GiB)
+2026-03-04T01:47:51Z dc01: snapshot fb0b3a91 saved (system state export; added 371.5 MiB)
+2026-03-04T01:47:54Z == done, exit 0
+2026-03-05T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-05T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-05T01:40:55Z fs01: snapshot 3ea7b0ec saved (files: new 171, changed 2154, unmodified 181388; added 1.244 GiB)
+2026-03-05T01:44:15Z dc01: snapshot 573cf5e1 saved (system state export; added 302.0 MiB)
+2026-03-05T01:44:18Z == done, exit 0
+2026-03-06T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-06T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-06T01:41:10Z fs01: snapshot 78ac82e0 saved (files: new 251, changed 1601, unmodified 182312; added 0.663 GiB)
+2026-03-06T01:43:53Z dc01: snapshot e7c143ff saved (system state export; added 265.4 MiB)
+2026-03-06T01:43:56Z == done, exit 0
+2026-03-07T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-07T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-07T01:42:19Z fs01: snapshot 2cf7aea0 saved (files: new 111, changed 1135, unmodified 183275; added 1.206 GiB)
+2026-03-07T01:44:42Z dc01: snapshot 187a54f7 saved (system state export; added 258.4 MiB)
+2026-03-07T01:44:45Z == done, exit 0
+2026-03-08T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-08T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-08T01:40:38Z fs01: snapshot 543b9ab1 saved (files: new 85, changed 892, unmodified 182033; added 0.665 GiB)
+2026-03-08T01:42:47Z dc01: snapshot 9b476b90 saved (system state export; added 358.7 MiB)
+2026-03-08T01:42:50Z == done, exit 0
+2026-03-09T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-09T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-09T01:40:06Z fs01: snapshot 0f02ed6f saved (files: new 186, changed 2152, unmodified 182921; added 0.671 GiB)
+2026-03-09T01:42:40Z dc01: snapshot 06fcd069 saved (system state export; added 276.6 MiB)
+2026-03-09T01:42:43Z == done, exit 0
+2026-03-10T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-10T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-10T01:39:07Z fs01: snapshot 7696bde5 saved (files: new 247, changed 821, unmodified 181504; added 0.619 GiB)
+2026-03-10T01:42:36Z dc01: snapshot bb8e3652 saved (system state export; added 326.9 MiB)
+2026-03-10T01:42:39Z == done, exit 0
+2026-03-11T01:30:00Z == restic backup start (fs01, dc01)
+2026-03-11T01:30:02Z fs01: mounting //10.20.10.20/Finance,HR,Logistica read-only
+2026-03-11T01:42:05Z fs01: snapshot f2c84b53 saved (files: new 160, changed 2032, unmodified 182919; added 0.946 GiB)
+2026-03-11T01:45:27Z dc01: snapshot bcf54fbd saved (system state export; added 261.5 MiB)
+2026-03-11T01:45:30Z == done, exit 0

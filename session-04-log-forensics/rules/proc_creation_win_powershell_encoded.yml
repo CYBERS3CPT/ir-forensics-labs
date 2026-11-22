@@ -1,0 +1,28 @@
+title: PowerShell with an encoded command line
+id: s04-proc-ps-encoded
+status: test
+description: |
+  -EncodedCommand (and its abbreviations) hides the script from anyone reading
+  the command line. Attackers use it to dodge quoting and casual inspection;
+  so do some management agents. Decode it before you decide.
+references:
+  - https://attack.mitre.org/techniques/T1059/001/
+tags:
+  - attack.execution
+  - attack.t1059.001
+logsource:
+  product: windows
+  category: process_creation
+detection:
+  selection_img:
+    Image|endswith: '\powershell.exe'
+  selection_enc:
+    CommandLine|contains:
+      - ' -enc '
+      - ' -EncodedCommand '
+      - ' -ec '
+      - ' -e '
+  condition: selection_img and selection_enc
+falsepositives:
+  - Management and inventory agents that wrap their scripts in -EncodedCommand
+level: high

@@ -1,0 +1,22 @@
+title: Windows event log cleared
+id: s04-log-cleared
+status: test
+description: |
+  1102 in the Security log ("The audit log was cleared") and 104 in the System
+  log (any other log cleared). The clearing event survives the clear, and
+  names who did it.
+references:
+  - https://attack.mitre.org/techniques/T1070/001/
+tags:
+  - attack.defense-evasion
+  - attack.t1070.001
+logsource:
+  product: windows
+  service: security
+detection:
+  selection:
+    EventID: 1102
+  condition: selection
+falsepositives:
+  - Rebuilding a lab machine. On a production server, never routine.
+level: high

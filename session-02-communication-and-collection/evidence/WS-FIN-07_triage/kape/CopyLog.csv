@@ -1,0 +1,14 @@
+CopiedTimestamp,SourceFile,DestinationFile,FileSize,SourceFileSha1,DeferredCopy,CreatedOnUtc,ModifiedOnUtc,LastAccessedOnUtc,CopyDuration
+2026-03-11 12:20:18.0749934,C:\Windows\prefetch\POWERSHELL.EXE-7BFE5E95.pf,E:\EXH-WSFIN07-01\tout\C\Windows\prefetch\POWERSHELL.EXE-7BFE5E95.pf,14232,7023bf0acf833370dc38b3659bd69e4fb51b7383,False,,,,00:00:00.0749934
+2026-03-11 12:20:18.2940885,C:\Windows\prefetch\RUNDLL32.EXE-AACF1D8D.pf,E:\EXH-WSFIN07-01\tout\C\Windows\prefetch\RUNDLL32.EXE-AACF1D8D.pf,9874,b4a94defa51e22b49ed6a07c51f04550b36dae64,False,,,,00:00:00.9817773
+2026-03-11 12:20:18.9817773,C:\Windows\prefetch\RUNDLL32.EXE-E34E5A79.pf,E:\EXH-WSFIN07-01\tout\C\Windows\prefetch\RUNDLL32.EXE-E34E5A79.pf,8120,2a5e273220f324226f3024af2ce1e41e4ca2a17e,False,,,,00:00:00.2940885
+2026-03-11 12:20:19.5397134,C:\Windows\prefetch\MSTSC.EXE-90DD4E9E.pf,E:\EXH-WSFIN07-01\tout\C\Windows\prefetch\MSTSC.EXE-90DD4E9E.pf,21004,54b2fe2636f5a86318667a2a27fb798923e843d2,False,,,,00:00:00.5397134
+2026-03-11 12:20:47.3189358,C:\Windows\AppCompat\Programs\Amcache.hve,E:\EXH-WSFIN07-01\tout\C\Windows\AppCompat\Programs\Amcache.hve,3407872,84ee22bbb14e25d6fb9a8f7fbdc429f92088350a,True,,,,00:00:00.3189358
+2026-03-11 12:21:32.5992856,C:\Users\m.antunes\AppData\Roaming\Microsoft\Windows\Recent\FT2026_1187.zip.lnk,E:\EXH-WSFIN07-01\tout\C\Users\m.antunes\AppData\Roaming\Microsoft\Windows\Recent\FT2026_1187.zip.lnk,1046,4e2b7c8411f22b01e0adaabe7f613a2e7dd53a9c,False,,,,00:00:00.5992856
+2026-03-11 12:21:32.6787923,C:\Users\m.antunes\AppData\Local\Temp\Temp1_FT2026_1187.zip\FT2026_1187.pdf.lnk,E:\EXH-WSFIN07-01\tout\C\Users\m.antunes\AppData\Local\Temp\Temp1_FT2026_1187.zip\FT2026_1187.pdf.lnk,155,66a4bdbaca9abb37a85edbcf52dadf6c8fde6e18,False,,,,00:00:00.6787923
+2026-03-11 12:21:57.5548070,C:\Users\m.antunes\AppData\Local\Microsoft\Edge\User Data\Default\History,E:\EXH-WSFIN07-01\tout\C\Users\m.antunes\AppData\Local\Microsoft\Edge\User Data\Default\History,53248,a185e84ad4376194e1739c304b376a07a3b227f6,False,,,,00:00:00.5548070
+2026-03-11 12:28:21.4150100,C:\$MFT,E:\EXH-WSFIN07-01\tout\C\$MFT,312475648,9619eb14eb89808e53a2749f21a9abb28fe1640b,True,,,,00:00:00.4150100
+2026-03-11 12:28:23.1250090,C:\$Extend\$UsnJrnl:$J,E:\EXH-WSFIN07-01\tout\C\$Extend\$UsnJrnl:$J,41943040,b846f31d1a385269dad6997996954a3cec2780f3,True,,,,00:00:00.1250090
+2026-03-11 12:28:24.0677431,C:\Users\m.antunes\NTUSER.DAT,E:\EXH-WSFIN07-01\tout\C\Users\m.antunes\NTUSER.DAT,6291456,309a0c0493da4acd319ee6aa51af431b7edcbf03,True,,,,00:00:00.0677431
+2026-03-11 12:28:25.6524932,C:\Windows\System32\config\SYSTEM,E:\EXH-WSFIN07-01\tout\C\Windows\System32\config\SYSTEM,18874368,66c8f2492bbdbd7f9b582fa79abd57605cf28fc9,True,,,,00:00:00.6524932
+2026-03-11 12:28:26.6901347,C:\Windows\System32\config\SOFTWARE,E:\EXH-WSFIN07-01\tout\C\Windows\System32\config\SOFTWARE,92274688,82ae2b592b4d69763a9428b729f1ad253e677413,True,,,,00:00:00.6901347

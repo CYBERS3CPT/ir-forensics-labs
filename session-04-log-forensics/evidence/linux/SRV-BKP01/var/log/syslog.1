@@ -1,0 +1,56 @@
+Mar 10 00:17:01 SRV-BKP01 CRON[195756]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 00:47:56 SRV-BKP01 systemd[1]: Starting Rotate log files...
+Mar 10 00:47:58 SRV-BKP01 systemd[1]: logrotate.service: Deactivated successfully.
+Mar 10 00:48:19 SRV-BKP01 systemd[1]: Finished Rotate log files.
+Mar 10 01:17:01 SRV-BKP01 CRON[196656]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 01:30:00 SRV-BKP01 systemd[1]: Starting restic backup of FS01 and DC01...
+Mar 10 01:30:02 SRV-BKP01 restic-backup.sh[196850]: mounting //10.20.10.20/Finance,HR,Logistica read-only on /mnt/fs01
+Mar 10 01:39:07 SRV-BKP01 restic-backup.sh[196850]: fs01: snapshot 7696bde5 saved
+Mar 10 01:42:36 SRV-BKP01 restic-backup.sh[196850]: dc01: snapshot bb8e3652 saved
+Mar 10 01:42:39 SRV-BKP01 systemd[1]: restic-backup.service: Deactivated successfully.
+Mar 10 01:42:39 SRV-BKP01 systemd[1]: Finished restic backup of FS01 and DC01.
+Mar 10 01:42:39 SRV-BKP01 systemd[1]: restic-backup.service: Consumed 6min 43.606s CPU time.
+Mar 10 02:17:01 SRV-BKP01 CRON[197556]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 03:17:01 SRV-BKP01 CRON[198456]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 04:17:01 SRV-BKP01 CRON[199356]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 05:17:01 SRV-BKP01 CRON[200256]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 06:17:01 SRV-BKP01 CRON[201156]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 06:25:01 SRV-BKP01 CRON[201276]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Mar 10 06:30:01 SRV-BKP01 CRON[201351]: (bkpadmin) CMD (/usr/local/bin/restic-check.sh >> /var/log/restic/check.log 2>&1)
+Mar 10 06:46:12 SRV-BKP01 systemd[1]: Starting Daily apt upgrade and clean activities...
+Mar 10 06:46:18 SRV-BKP01 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+Mar 10 06:46:32 SRV-BKP01 systemd[1]: Finished Daily apt upgrade and clean activities.
+Mar 10 07:17:01 SRV-BKP01 CRON[202056]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 08:17:01 SRV-BKP01 CRON[202956]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 09:17:01 SRV-BKP01 CRON[203856]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 09:18:40 SRV-BKP01 systemd[1]: Starting Message of the Day...
+Mar 10 09:18:57 SRV-BKP01 systemd[1]: motd-news.service: Deactivated successfully.
+Mar 10 09:19:04 SRV-BKP01 systemd[1]: Finished Message of the Day.
+Mar 10 09:47:31 SRV-BKP01 systemd[1]: Created slice User Slice of UID 1002.
+Mar 10 09:47:31 SRV-BKP01 systemd[1]: Starting User Runtime Directory /run/user/1002...
+Mar 10 09:47:31 SRV-BKP01 systemd[1]: Finished User Runtime Directory /run/user/1002.
+Mar 10 09:47:31 SRV-BKP01 systemd[1]: Starting User Manager for UID 1002...
+Mar 10 09:47:31 SRV-BKP01 systemd[1]: Started User Manager for UID 1002.
+Mar 10 09:47:31 SRV-BKP01 systemd[1]: Started Session 66 of User jpires.
+Mar 10 10:03:12 SRV-BKP01 systemd[1]: session-66.scope: Deactivated successfully.
+Mar 10 10:03:22 SRV-BKP01 systemd[1]: Stopping User Manager for UID 1002...
+Mar 10 10:03:22 SRV-BKP01 systemd[1]: user@1002.service: Deactivated successfully.
+Mar 10 10:03:22 SRV-BKP01 systemd[1]: Stopped User Manager for UID 1002.
+Mar 10 10:03:22 SRV-BKP01 systemd[1]: Removed slice User Slice of UID 1002.
+Mar 10 10:17:01 SRV-BKP01 CRON[204756]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 11:17:01 SRV-BKP01 CRON[205656]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 12:17:01 SRV-BKP01 CRON[206556]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 13:17:01 SRV-BKP01 CRON[207456]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 14:12:20 SRV-BKP01 systemd[1]: Starting Cleanup of Temporary Directories...
+Mar 10 14:12:24 SRV-BKP01 systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+Mar 10 14:12:41 SRV-BKP01 systemd[1]: Finished Cleanup of Temporary Directories.
+Mar 10 14:17:01 SRV-BKP01 CRON[208356]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 15:17:01 SRV-BKP01 CRON[209256]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 16:17:01 SRV-BKP01 CRON[210156]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 17:17:01 SRV-BKP01 CRON[211056]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 18:17:01 SRV-BKP01 CRON[211956]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 19:17:01 SRV-BKP01 CRON[212856]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 20:17:01 SRV-BKP01 CRON[213756]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 21:17:01 SRV-BKP01 CRON[214656]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 22:17:01 SRV-BKP01 CRON[215556]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 10 23:17:01 SRV-BKP01 CRON[216456]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)

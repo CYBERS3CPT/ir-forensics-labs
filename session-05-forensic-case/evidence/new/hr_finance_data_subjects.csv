@@ -1,0 +1,7 @@
+ref,category,data_elements,data_subjects,gdpr_art9,share,in_fin7z,notes
+HR-01,Current employees,name; address; NIF; NISS; IBAN; salary and deductions; job title; start date,404,no,HR,yes,payroll 2024-2026
+HR-02,Former employees (left 2024-2026),name; address; NIF; NISS; IBAN; salary; leaving date,27,no,HR,yes,still in payroll files of the period
+HR-03,Employees with sick-leave medical certificates,name; NISS; certificate (dates of incapacity; issuing doctor; in some cases diagnosis code),37,yes (health data),HR,yes,subset of HR-01/HR-02; folder Atestados
+FIN-01,Supplier contact persons (suppliers that are companies),name; professional email; professional phone,554,no,Finance,yes,count = supplier records; one contact per record
+FIN-02,Suppliers that are sole traders (natural persons),name; NIF; IBAN; address; invoices,58,no,Finance,yes,natural persons: GDPR applies to the IBAN and NIF
+LOG-01,Customer delivery contacts (retail / HoReCa sites),name; site phone; delivery notes,1900,no,Logistica,no,"encrypted (availability) - Logistica was not in the archive; one contact per site, approximate"

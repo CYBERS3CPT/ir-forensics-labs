@@ -1,0 +1,1020 @@
+Name,Extension,EntryNumber,SequenceNumber,ParentEntryNumber,ParentSequenceNumber,ParentPath,UpdateSequenceNumber,UpdateTimestamp,UpdateReasons,FileAttributes,OffsetToData,SourceFile
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884276736,2026-03-10 10:02:53.2233117,DataExtend,Archive,0x0012A0F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884276912,2026-03-10 10:02:53.2233917,DataExtend|Close,Archive,0x0012A1A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884277088,2026-03-10 10:04:05.1861286,DataExtend,Archive,0x0012A250,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884277200,2026-03-10 10:04:05.1862086,DataExtend|Close,Archive,0x0012A2C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884277312,2026-03-10 10:05:38.8309901,DataExtend,Archive,0x0012A330,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884277424,2026-03-10 10:05:38.8310701,DataExtend|Close,Archive,0x0012A3A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884277536,2026-03-10 10:05:56.4346764,DataExtend,Archive,0x0012A410,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884277664,2026-03-10 10:05:56.4347564,DataExtend|Close,Archive,0x0012A490,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884277792,2026-03-10 10:10:28.6935458,DataExtend,Archive,0x0012A510,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884277968,2026-03-10 10:10:28.6936258,DataExtend|Close,Archive,0x0012A5C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F56773B0.tmp,.tmp,90024,1,5120,1,.\Windows\Temp,31884278144,2026-03-10 10:15:12.0710190,FileCreate,Archive,0x0012A670,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F56773B0.tmp,.tmp,90024,1,5120,1,.\Windows\Temp,31884278256,2026-03-10 10:15:12.0711390,DataExtend|FileCreate,Archive,0x0012A6E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F56773B0.tmp,.tmp,90024,1,5120,1,.\Windows\Temp,31884278368,2026-03-10 10:15:12.0712590,DataExtend|FileCreate|Close,Archive,0x0012A750,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884278480,2026-03-10 10:15:20.4180905,DataExtend,Archive,0x0012A7C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884278592,2026-03-10 10:15:20.4181705,DataExtend|Close,Archive,0x0012A830,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884278704,2026-03-10 10:15:43.0769224,DataExtend,Archive,0x0012A8A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884278832,2026-03-10 10:15:43.0770024,DataExtend|Close,Archive,0x0012A920,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F56773B0.tmp,.tmp,90024,1,5120,1,.\Windows\Temp,31884278960,2026-03-10 10:15:56.4865966,FileDelete|Close,Archive|Temporary,0x0012A9A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884279072,2026-03-10 10:16:39.5040695,DataExtend,Archive,0x0012AA10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884279248,2026-03-10 10:16:39.5041495,DataExtend|Close,Archive,0x0012AAC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884279424,2026-03-10 10:22:26.4589353,DataExtend,Archive,0x0012AB70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884279600,2026-03-10 10:22:26.4590153,DataExtend|Close,Archive,0x0012AC20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884279776,2026-03-10 10:24:21.5091874,DataExtend,Archive,0x0012ACD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884279888,2026-03-10 10:24:21.5092674,DataExtend|Close,Archive,0x0012AD40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884280000,2026-03-10 10:28:28.8954788,DataExtend,Archive,0x0012ADB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884280128,2026-03-10 10:28:28.8955588,DataExtend|Close,Archive,0x0012AE30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884280256,2026-03-10 10:29:50.1713922,DataExtend,Archive,0x0012AEB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884280432,2026-03-10 10:29:50.1714722,DataExtend|Close,Archive,0x0012AF60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884280608,2026-03-10 10:31:07.0868208,DataExtend,Archive,0x0012B010,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884280720,2026-03-10 10:31:07.0869008,DataExtend|Close,Archive,0x0012B080,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884280832,2026-03-10 10:39:10.6951479,DataExtend,Archive,0x0012B0F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884281008,2026-03-10 10:39:10.6952279,DataExtend|Close,Archive,0x0012B1A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884281184,2026-03-10 10:39:13.2664094,DataExtend,Archive,0x0012B250,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884281296,2026-03-10 10:39:13.2664894,DataExtend|Close,Archive,0x0012B2C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884281408,2026-03-10 10:42:17.4189944,DataExtend,Archive,0x0012B330,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884281536,2026-03-10 10:42:17.4190744,DataExtend|Close,Archive,0x0012B3B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884281664,2026-03-10 10:43:16.5687643,DataExtend,Archive,0x0012B430,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884281776,2026-03-10 10:43:16.5688443,DataExtend|Close,Archive,0x0012B4A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884281888,2026-03-10 10:45:02.5320648,DataExtend,Archive,0x0012B510,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884282064,2026-03-10 10:45:02.5321448,DataExtend|Close,Archive,0x0012B5C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD38191C.tmp,.tmp,90020,1,5120,1,.\Windows\Temp,31884282240,2026-03-10 10:52:11.4859268,FileCreate,Archive,0x0012B670,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD38191C.tmp,.tmp,90020,1,5120,1,.\Windows\Temp,31884282352,2026-03-10 10:52:11.4860468,DataExtend|FileCreate,Archive,0x0012B6E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD38191C.tmp,.tmp,90020,1,5120,1,.\Windows\Temp,31884282464,2026-03-10 10:52:11.4861668,DataExtend|FileCreate|Close,Archive,0x0012B750,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD38191C.tmp,.tmp,90020,1,5120,1,.\Windows\Temp,31884282576,2026-03-10 10:52:39.3690583,FileDelete|Close,Archive|Temporary,0x0012B7C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884282688,2026-03-10 10:52:49.3189474,DataExtend,Archive,0x0012B830,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884282864,2026-03-10 10:52:49.3190274,DataExtend|Close,Archive,0x0012B8E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884283040,2026-03-10 10:53:45.0010928,DataExtend,Archive,0x0012B990,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884283152,2026-03-10 10:53:45.0011728,DataExtend|Close,Archive,0x0012BA00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884283264,2026-03-10 10:56:11.0382025,DataExtend,Archive,0x0012BA70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884283392,2026-03-10 10:56:11.0382825,DataExtend|Close,Archive,0x0012BAF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884283520,2026-03-10 10:58:55.0679972,DataExtend,Archive,0x0012BB70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884283696,2026-03-10 10:58:55.0680772,DataExtend|Close,Archive,0x0012BC20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884283872,2026-03-10 11:03:53.9853016,DataExtend,Archive,0x0012BCD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884283984,2026-03-10 11:03:53.9853816,DataExtend|Close,Archive,0x0012BD40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884284096,2026-03-10 11:04:14.1470606,DataExtend,Archive,0x0012BDB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884284272,2026-03-10 11:04:14.1471406,DataExtend|Close,Archive,0x0012BE60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884284448,2026-03-10 11:04:48.8527851,DataExtend,Archive,0x0012BF10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884284552,2026-03-10 11:04:48.8528651,DataExtend|Close,Archive,0x0012BF78,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD01DF57.tmp,.tmp,90015,1,5120,1,.\Windows\Temp,31884284656,2026-03-10 11:06:38.0006509,FileCreate,Archive,0x0012BFE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD01DF57.tmp,.tmp,90015,1,5120,1,.\Windows\Temp,31884284768,2026-03-10 11:06:38.0007709,DataExtend|FileCreate,Archive,0x0012C050,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD01DF57.tmp,.tmp,90015,1,5120,1,.\Windows\Temp,31884284880,2026-03-10 11:06:38.0008909,DataExtend|FileCreate|Close,Archive,0x0012C0C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD01DF57.tmp,.tmp,90015,1,5120,1,.\Windows\Temp,31884284992,2026-03-10 11:07:21.0204688,FileDelete|Close,Archive|Temporary,0x0012C130,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884285104,2026-03-10 11:09:35.7595311,DataExtend,Archive,0x0012C1A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884285216,2026-03-10 11:09:35.7596111,DataExtend|Close,Archive,0x0012C210,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884285328,2026-03-10 11:10:15.3644638,DataExtend,Archive,0x0012C280,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884285504,2026-03-10 11:10:15.3645438,DataExtend|Close,Archive,0x0012C330,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884285680,2026-03-10 11:13:53.8374159,DataExtend,Archive,0x0012C3E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884285808,2026-03-10 11:13:53.8374959,DataExtend|Close,Archive,0x0012C460,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+634F9B94.tmp,.tmp,90019,1,5120,1,.\Windows\Temp,31884285936,2026-03-10 11:15:19.3766445,FileCreate,Archive,0x0012C4E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+634F9B94.tmp,.tmp,90019,1,5120,1,.\Windows\Temp,31884286048,2026-03-10 11:15:19.3767645,DataExtend|FileCreate,Archive,0x0012C550,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+634F9B94.tmp,.tmp,90019,1,5120,1,.\Windows\Temp,31884286160,2026-03-10 11:15:19.3768845,DataExtend|FileCreate|Close,Archive,0x0012C5C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+634F9B94.tmp,.tmp,90019,1,5120,1,.\Windows\Temp,31884286272,2026-03-10 11:15:47.0697944,FileDelete|Close,Archive|Temporary,0x0012C630,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884286384,2026-03-10 11:15:50.0558195,DataExtend,Archive,0x0012C6A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884286560,2026-03-10 11:15:50.0558995,DataExtend|Close,Archive,0x0012C750,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884286736,2026-03-10 11:16:41.8548959,DataExtend,Archive,0x0012C800,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884286848,2026-03-10 11:16:41.8549759,DataExtend|Close,Archive,0x0012C870,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7A8445EB.tmp,.tmp,90003,1,5120,1,.\Windows\Temp,31884286960,2026-03-10 11:19:51.2427561,FileCreate,Archive,0x0012C8E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7A8445EB.tmp,.tmp,90003,1,5120,1,.\Windows\Temp,31884287072,2026-03-10 11:19:51.2428761,DataExtend|FileCreate,Archive,0x0012C950,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7A8445EB.tmp,.tmp,90003,1,5120,1,.\Windows\Temp,31884287184,2026-03-10 11:19:51.2429961,DataExtend|FileCreate|Close,Archive,0x0012C9C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7A8445EB.tmp,.tmp,90003,1,5120,1,.\Windows\Temp,31884287296,2026-03-10 11:20:36.1978043,FileDelete|Close,Archive|Temporary,0x0012CA30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+48A471D8.tmp,.tmp,90014,1,5120,1,.\Windows\Temp,31884287408,2026-03-10 11:22:55.0777950,FileCreate,Archive,0x0012CAA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+48A471D8.tmp,.tmp,90014,1,5120,1,.\Windows\Temp,31884287520,2026-03-10 11:22:55.0779150,DataExtend|FileCreate,Archive,0x0012CB10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+48A471D8.tmp,.tmp,90014,1,5120,1,.\Windows\Temp,31884287632,2026-03-10 11:22:55.0780350,DataExtend|FileCreate|Close,Archive,0x0012CB80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884287744,2026-03-10 11:23:01.5419824,DataExtend,Archive,0x0012CBF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884287976,2026-03-10 11:23:01.5420624,DataExtend|Close,Archive,0x0012CCD8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+48A471D8.tmp,.tmp,90014,1,5120,1,.\Windows\Temp,31884288208,2026-03-10 11:23:18.0262084,FileDelete|Close,Archive|Temporary,0x0012CDC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884288320,2026-03-10 11:25:36.3929838,DataExtend,Archive,0x0012CE30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884288496,2026-03-10 11:25:36.3930638,DataExtend|Close,Archive,0x0012CEE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884288672,2026-03-10 11:26:16.8048655,DataExtend,Archive,0x0012CF90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884288784,2026-03-10 11:26:16.8049455,DataExtend|Close,Archive,0x0012D000,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884288896,2026-03-10 11:30:41.0855683,DataExtend,Archive,0x0012D070,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884289072,2026-03-10 11:30:41.0856483,DataExtend|Close,Archive,0x0012D120,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+NTUSER.DAT,.DAT,77306,4,77301,4,.\Users\j.pires,31884289248,2026-03-10 11:30:52.0410777,DataOverwrite|Close,Archive|Hidden,0x0012D1D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884289360,2026-03-10 11:31:56.9893303,DataExtend,Archive,0x0012D240,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884289488,2026-03-10 11:31:56.9894103,DataExtend|Close,Archive,0x0012D2C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Admin,,88214,3,1043,1,.\PerfLogs,31884289616,2026-03-10 11:34:02.1204512,FileCreate,Directory,0x0012D340,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Admin,,88214,3,1043,1,.\PerfLogs,31884289720,2026-03-10 11:34:02.1208830,FileCreate|Close,Directory,0x0012D3A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7za.exe,.exe,88215,2,88214,3,.\PerfLogs\Admin,31884289824,2026-03-10 11:34:02.7197412,FileCreate,Archive,0x0012D410,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7za.exe,.exe,88215,2,88214,3,.\PerfLogs\Admin,31884289928,2026-03-10 11:34:02.7198612,DataExtend|FileCreate,Archive,0x0012D478,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7za.exe,.exe,88215,2,88214,3,.\PerfLogs\Admin,31884290032,2026-03-10 11:34:02.7199812,DataExtend|FileCreate|BasicInfoChange,Archive,0x0012D4E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7za.exe,.exe,88215,2,88214,3,.\PerfLogs\Admin,31884290136,2026-03-10 11:34:02.7200312,DataExtend|FileCreate|BasicInfoChange|Close,Archive,0x0012D548,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+rcl.exe,.exe,88216,2,88214,3,.\PerfLogs\Admin,31884290240,2026-03-10 11:34:04.8117870,FileCreate,Archive,0x0012D5B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+rcl.exe,.exe,88216,2,88214,3,.\PerfLogs\Admin,31884290344,2026-03-10 11:34:04.8119070,DataExtend|FileCreate,Archive,0x0012D618,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+rcl.exe,.exe,88216,2,88214,3,.\PerfLogs\Admin,31884290448,2026-03-10 11:34:04.8120270,DataExtend|FileCreate|BasicInfoChange,Archive,0x0012D680,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+rcl.exe,.exe,88216,2,88214,3,.\PerfLogs\Admin,31884290552,2026-03-10 11:34:04.8120770,DataExtend|FileCreate|BasicInfoChange|Close,Archive,0x0012D6E8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+rc.conf,.conf,88217,2,88214,3,.\PerfLogs\Admin,31884290656,2026-03-10 11:34:06.4503118,FileCreate,Archive,0x0012D750,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+rc.conf,.conf,88217,2,88214,3,.\PerfLogs\Admin,31884290760,2026-03-10 11:34:06.4504318,DataExtend|FileCreate,Archive,0x0012D7B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+rc.conf,.conf,88217,2,88214,3,.\PerfLogs\Admin,31884290864,2026-03-10 11:34:06.4505518,DataExtend|FileCreate|BasicInfoChange,Archive,0x0012D820,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+rc.conf,.conf,88217,2,88214,3,.\PerfLogs\Admin,31884290968,2026-03-10 11:34:06.4506018,DataExtend|FileCreate|BasicInfoChange|Close,Archive,0x0012D888,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Admin.lnk,.lnk,88218,2,77310,4,.\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent,31884291072,2026-03-10 11:34:11.5510002,FileCreate,Archive,0x0012D8F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Admin.lnk,.lnk,88218,2,77310,4,.\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent,31884291184,2026-03-10 11:34:11.5511202,DataExtend|FileCreate,Archive,0x0012D960,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Admin.lnk,.lnk,88218,2,77310,4,.\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent,31884291296,2026-03-10 11:34:11.5512402,DataExtend|FileCreate|Close,Archive,0x0012D9D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884291408,2026-03-10 11:37:26.2621669,DataExtend,Archive,0x0012DA40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884291584,2026-03-10 11:37:26.2622469,DataExtend|Close,Archive,0x0012DAF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884291760,2026-03-10 11:38:07.2375334,DataExtend,Archive,0x0012DBA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884291872,2026-03-10 11:38:07.2376134,DataExtend|Close,Archive,0x0012DC10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884291984,2026-03-10 11:46:28.4062023,DataExtend,Archive,0x0012DC80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884292096,2026-03-10 11:46:28.4062823,DataExtend|Close,Archive,0x0012DCF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884292208,2026-03-10 11:46:49.2758711,DataExtend,Archive,0x0012DD60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884292384,2026-03-10 11:46:49.2759511,DataExtend|Close,Archive,0x0012DE10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884292560,2026-03-10 11:47:24.5095292,DataExtend,Archive,0x0012DEC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884292688,2026-03-10 11:47:24.5096092,DataExtend|Close,Archive,0x0012DF40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884292816,2026-03-10 11:49:29.3282566,DataExtend,Archive,0x0012DFC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884292928,2026-03-10 11:49:29.3283366,DataExtend|Close,Archive,0x0012E030,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F3F2CE76.tmp,.tmp,90004,1,5120,1,.\Windows\Temp,31884293040,2026-03-10 11:51:29.4552825,FileCreate,Archive,0x0012E0A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F3F2CE76.tmp,.tmp,90004,1,5120,1,.\Windows\Temp,31884293152,2026-03-10 11:51:29.4554025,DataExtend|FileCreate,Archive,0x0012E110,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F3F2CE76.tmp,.tmp,90004,1,5120,1,.\Windows\Temp,31884293264,2026-03-10 11:51:29.4555225,DataExtend|FileCreate|Close,Archive,0x0012E180,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F3F2CE76.tmp,.tmp,90004,1,5120,1,.\Windows\Temp,31884293376,2026-03-10 11:52:13.6582871,FileDelete|Close,Archive|Temporary,0x0012E1F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884293488,2026-03-10 11:53:41.2097101,DataExtend,Archive,0x0012E260,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884293664,2026-03-10 11:53:41.2097901,DataExtend|Close,Archive,0x0012E310,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884293840,2026-03-10 11:54:49.3761207,DataExtend,Archive,0x0012E3C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884293952,2026-03-10 11:54:49.3762007,DataExtend|Close,Archive,0x0012E430,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+66AA9F4B.tmp,.tmp,90006,1,5120,1,.\Windows\Temp,31884294064,2026-03-10 11:57:28.3383403,FileCreate,Archive,0x0012E4A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+66AA9F4B.tmp,.tmp,90006,1,5120,1,.\Windows\Temp,31884294176,2026-03-10 11:57:28.3384603,DataExtend|FileCreate,Archive,0x0012E510,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+66AA9F4B.tmp,.tmp,90006,1,5120,1,.\Windows\Temp,31884294288,2026-03-10 11:57:28.3385803,DataExtend|FileCreate|Close,Archive,0x0012E580,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+66AA9F4B.tmp,.tmp,90006,1,5120,1,.\Windows\Temp,31884294400,2026-03-10 11:58:06.2654399,FileDelete|Close,Archive|Temporary,0x0012E5F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884294512,2026-03-10 12:03:00.0973351,DataExtend,Archive,0x0012E660,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884294688,2026-03-10 12:03:00.0974151,DataExtend|Close,Archive,0x0012E710,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884294864,2026-03-10 12:03:23.7191810,DataExtend,Archive,0x0012E7C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884294992,2026-03-10 12:03:23.7192610,DataExtend|Close,Archive,0x0012E840,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884295120,2026-03-10 12:05:01.2834587,DataExtend,Archive,0x0012E8C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884295232,2026-03-10 12:05:01.2835387,DataExtend|Close,Archive,0x0012E930,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+fin.7z,.7z,88219,2,88214,3,.\PerfLogs\Admin,31884295344,2026-03-10 12:05:19.0098331,FileCreate,Archive,0x0012E9A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+fin.7z,.7z,88219,2,88214,3,.\PerfLogs\Admin,31884295448,2026-03-10 12:05:19.0112870,DataExtend|FileCreate,Archive,0x0012EA08,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884295552,2026-03-10 12:09:02.2312442,DataExtend,Archive,0x0012EA70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884295728,2026-03-10 12:09:02.2313242,DataExtend|Close,Archive,0x0012EB20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884295904,2026-03-10 12:16:58.8921313,DataExtend,Archive,0x0012EBD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884296032,2026-03-10 12:16:58.8922113,DataExtend|Close,Archive,0x0012EC50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884296160,2026-03-10 12:17:51.7008748,DataExtend,Archive,0x0012ECD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884296272,2026-03-10 12:17:51.7009548,DataExtend|Close,Archive,0x0012ED40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884296384,2026-03-10 12:18:40.5899905,DataExtend,Archive,0x0012EDB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884296560,2026-03-10 12:18:40.5900705,DataExtend|Close,Archive,0x0012EE60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD49AB4D.tmp,.tmp,90001,1,5120,1,.\Windows\Temp,31884296736,2026-03-10 12:19:51.0865701,FileCreate,Archive,0x0012EF10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD49AB4D.tmp,.tmp,90001,1,5120,1,.\Windows\Temp,31884296848,2026-03-10 12:19:51.0866901,DataExtend|FileCreate,Archive,0x0012EF80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD49AB4D.tmp,.tmp,90001,1,5120,1,.\Windows\Temp,31884296960,2026-03-10 12:19:51.0868101,DataExtend|FileCreate|Close,Archive,0x0012EFF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+FD49AB4D.tmp,.tmp,90001,1,5120,1,.\Windows\Temp,31884297072,2026-03-10 12:20:27.1925453,FileDelete|Close,Archive|Temporary,0x0012F060,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884297184,2026-03-10 12:22:56.1867200,DataExtend,Archive,0x0012F0D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884297360,2026-03-10 12:22:56.1868000,DataExtend|Close,Archive,0x0012F180,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884297536,2026-03-10 12:26:36.0631044,DataExtend,Archive,0x0012F230,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884297648,2026-03-10 12:26:36.0631844,DataExtend|Close,Archive,0x0012F2A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884297760,2026-03-10 12:27:08.5155588,DataExtend,Archive,0x0012F310,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884297872,2026-03-10 12:27:08.5156388,DataExtend|Close,Archive,0x0012F380,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A304C86D.tmp,.tmp,90034,1,5120,1,.\Windows\Temp,31884297984,2026-03-10 12:30:25.2359876,FileCreate,Archive,0x0012F3F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A304C86D.tmp,.tmp,90034,1,5120,1,.\Windows\Temp,31884298096,2026-03-10 12:30:25.2361076,DataExtend|FileCreate,Archive,0x0012F460,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A304C86D.tmp,.tmp,90034,1,5120,1,.\Windows\Temp,31884298208,2026-03-10 12:30:25.2362276,DataExtend|FileCreate|Close,Archive,0x0012F4D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A304C86D.tmp,.tmp,90034,1,5120,1,.\Windows\Temp,31884298320,2026-03-10 12:30:59.6726317,FileDelete|Close,Archive|Temporary,0x0012F540,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884298432,2026-03-10 12:31:12.4879565,DataExtend,Archive,0x0012F5B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884298560,2026-03-10 12:31:12.4880365,DataExtend|Close,Archive,0x0012F630,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884298688,2026-03-10 12:31:57.0692020,DataExtend,Archive,0x0012F6B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884298864,2026-03-10 12:31:57.0692820,DataExtend|Close,Archive,0x0012F760,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884299040,2026-03-10 12:34:16.9137240,DataExtend,Archive,0x0012F810,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884299152,2026-03-10 12:34:16.9138040,DataExtend|Close,Archive,0x0012F880,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884299264,2026-03-10 12:36:15.8956790,DataExtend,Archive,0x0012F8F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884299440,2026-03-10 12:36:15.8957590,DataExtend|Close,Archive,0x0012F9A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+fin.7z,.7z,88219,2,88214,3,.\PerfLogs\Admin,31884299616,2026-03-10 12:41:55.0559334,DataExtend|FileCreate|Close,Archive,0x0012FA50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+fin.7z.lnk,.lnk,88221,2,77310,4,.\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent,31884299720,2026-03-10 12:42:30.1100454,FileCreate,Archive,0x0012FAB8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+fin.7z.lnk,.lnk,88221,2,77310,4,.\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent,31884299832,2026-03-10 12:42:30.1101654,DataExtend|FileCreate,Archive,0x0012FB28,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+fin.7z.lnk,.lnk,88221,2,77310,4,.\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent,31884299944,2026-03-10 12:42:30.1102854,DataExtend|FileCreate|Close,Archive,0x0012FB98,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884300056,2026-03-10 12:42:47.1040247,DataExtend,Archive,0x0012FC08,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884300232,2026-03-10 12:42:47.1041047,DataExtend|Close,Archive,0x0012FCB8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884300408,2026-03-10 12:44:26.4883895,DataExtend,Archive,0x0012FD68,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884300536,2026-03-10 12:44:26.4884695,DataExtend|Close,Archive,0x0012FDE8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884300664,2026-03-10 12:47:12.9467624,DataExtend,Archive,0x0012FE68,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884300776,2026-03-10 12:47:12.9468424,DataExtend|Close,Archive,0x0012FED8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884300888,2026-03-10 12:49:40.6859461,DataExtend,Archive,0x0012FF48,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884301064,2026-03-10 12:49:40.6860261,DataExtend|Close,Archive,0x0012FFF8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884301240,2026-03-10 12:53:11.1192371,DataExtend,Archive,0x001300A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884301344,2026-03-10 12:53:11.1193171,DataExtend|Close,Archive,0x00130110,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884301448,2026-03-10 12:57:27.8974377,DataExtend,Archive,0x00130178,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884301624,2026-03-10 12:57:27.8975177,DataExtend|Close,Archive,0x00130228,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884301800,2026-03-10 12:57:43.0799999,DataExtend,Archive,0x001302D8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884301912,2026-03-10 12:57:43.0800799,DataExtend|Close,Archive,0x00130348,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884302024,2026-03-10 12:59:45.0071299,DataExtend,Archive,0x001303B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884302152,2026-03-10 12:59:45.0072099,DataExtend|Close,Archive,0x00130438,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884302280,2026-03-10 13:03:15.0902765,DataExtend,Archive,0x001304B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884302456,2026-03-10 13:03:15.0903565,DataExtend|Close,Archive,0x00130568,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884302632,2026-03-10 13:04:09.7922584,DataExtend,Archive,0x00130618,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884302744,2026-03-10 13:04:09.7923384,DataExtend|Close,Archive,0x00130688,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884302856,2026-03-10 13:04:36.5235948,DataExtend,Archive,0x001306F8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884303088,2026-03-10 13:04:36.5236748,DataExtend|Close,Archive,0x001307E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884303320,2026-03-10 13:06:03.5734293,DataExtend,Archive,0x001308C8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884303432,2026-03-10 13:06:03.5735093,DataExtend|Close,Archive,0x00130938,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884303544,2026-03-10 13:10:34.8359324,DataExtend,Archive,0x001309A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884303720,2026-03-10 13:10:34.8360124,DataExtend|Close,Archive,0x00130A58,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884303896,2026-03-10 13:12:08.3944856,DataExtend,Archive,0x00130B08,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884304008,2026-03-10 13:12:08.3945656,DataExtend|Close,Archive,0x00130B78,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884304120,2026-03-10 13:15:00.3872870,DataExtend,Archive,0x00130BE8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884304248,2026-03-10 13:15:00.3873670,DataExtend|Close,Archive,0x00130C68,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+3B572834.tmp,.tmp,90022,1,5120,1,.\Windows\Temp,31884304376,2026-03-10 13:18:37.1412624,FileCreate,Archive,0x00130CE8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+3B572834.tmp,.tmp,90022,1,5120,1,.\Windows\Temp,31884304488,2026-03-10 13:18:37.1413824,DataExtend|FileCreate,Archive,0x00130D58,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+3B572834.tmp,.tmp,90022,1,5120,1,.\Windows\Temp,31884304600,2026-03-10 13:18:37.1415024,DataExtend|FileCreate|Close,Archive,0x00130DC8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+3B572834.tmp,.tmp,90022,1,5120,1,.\Windows\Temp,31884304712,2026-03-10 13:19:27.4294320,FileDelete|Close,Archive|Temporary,0x00130E38,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884304824,2026-03-10 13:19:40.9545841,DataExtend,Archive,0x00130EA8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884305000,2026-03-10 13:19:40.9546641,DataExtend|Close,Archive,0x00130F58,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884305176,2026-03-10 13:23:33.8308209,DataExtend,Archive,0x00131008,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884305288,2026-03-10 13:23:33.8309009,DataExtend|Close,Archive,0x00131078,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884305400,2026-03-10 13:24:11.9752634,DataExtend,Archive,0x001310E8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884305528,2026-03-10 13:24:11.9753434,DataExtend|Close,Archive,0x00131168,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884305656,2026-03-10 13:27:48.9397867,DataExtend,Archive,0x001311E8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884305832,2026-03-10 13:27:48.9398667,DataExtend|Close,Archive,0x00131298,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884306008,2026-03-10 13:31:25.6600942,DataExtend,Archive,0x00131348,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884306120,2026-03-10 13:31:25.6601742,DataExtend|Close,Archive,0x001313B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884306232,2026-03-10 13:33:27.9276330,DataExtend,Archive,0x00131428,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884306408,2026-03-10 13:33:27.9277130,DataExtend|Close,Archive,0x001314D8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884306584,2026-03-10 13:36:05.2101355,DataExtend,Archive,0x00131588,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884306712,2026-03-10 13:36:05.2102155,DataExtend|Close,Archive,0x00131608,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884306840,2026-03-10 13:40:50.0001702,DataExtend,Archive,0x00131688,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884307016,2026-03-10 13:40:50.0002502,DataExtend|Close,Archive,0x00131738,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884307192,2026-03-10 13:41:23.3529738,DataExtend,Archive,0x001317E8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884307304,2026-03-10 13:41:23.3530538,DataExtend|Close,Archive,0x00131858,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884307416,2026-03-10 13:43:57.6346724,DataExtend,Archive,0x001318C8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884307528,2026-03-10 13:43:57.6347524,DataExtend|Close,Archive,0x00131938,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884307640,2026-03-10 13:47:20.4886438,DataExtend,Archive,0x001319A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884307768,2026-03-10 13:47:20.4887238,DataExtend|Close,Archive,0x00131A28,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884307896,2026-03-10 13:47:30.7427644,DataExtend,Archive,0x00131AA8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884308072,2026-03-10 13:47:30.7428444,DataExtend|Close,Archive,0x00131B58,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+910E7AF6.tmp,.tmp,90008,1,5120,1,.\Windows\Temp,31884308248,2026-03-10 13:50:54.1657321,FileCreate,Archive,0x00131C08,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+910E7AF6.tmp,.tmp,90008,1,5120,1,.\Windows\Temp,31884308360,2026-03-10 13:50:54.1658521,DataExtend|FileCreate,Archive,0x00131C78,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+910E7AF6.tmp,.tmp,90008,1,5120,1,.\Windows\Temp,31884308472,2026-03-10 13:50:54.1659721,DataExtend|FileCreate|Close,Archive,0x00131CE8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+910E7AF6.tmp,.tmp,90008,1,5120,1,.\Windows\Temp,31884308584,2026-03-10 13:51:40.3598806,FileDelete|Close,Archive|Temporary,0x00131D58,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884308696,2026-03-10 13:52:40.0118384,DataExtend,Archive,0x00131DC8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884308872,2026-03-10 13:52:40.0119184,DataExtend|Close,Archive,0x00131E78,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884309048,2026-03-10 13:56:49.0160116,DataExtend,Archive,0x00131F28,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884309160,2026-03-10 13:56:49.0160916,DataExtend|Close,Archive,0x00131F98,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884309272,2026-03-10 14:00:29.6192051,DataExtend,Archive,0x00132008,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884309400,2026-03-10 14:00:29.6192851,DataExtend|Close,Archive,0x00132088,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884309528,2026-03-10 14:01:16.2188581,DataExtend,Archive,0x00132108,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884309704,2026-03-10 14:01:16.2189381,DataExtend|Close,Archive,0x001321B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+fin.7z,.7z,88219,2,88214,3,.\PerfLogs\Admin,31884309880,2026-03-10 14:03:41.2093771,FileDelete|Close,Archive,0x00132268,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884309984,2026-03-10 14:05:31.4633712,DataExtend,Archive,0x001322D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884310160,2026-03-10 14:05:31.4634512,DataExtend|Close,Archive,0x00132380,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884310336,2026-03-10 14:10:24.1975783,DataExtend,Archive,0x00132430,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884310448,2026-03-10 14:10:24.1976583,DataExtend|Close,Archive,0x001324A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884310560,2026-03-10 14:13:58.6515839,DataExtend,Archive,0x00132510,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884310736,2026-03-10 14:13:58.6516639,DataExtend|Close,Archive,0x001325C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884310912,2026-03-10 14:14:14.5269957,DataExtend,Archive,0x00132670,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884311024,2026-03-10 14:14:14.5270757,DataExtend|Close,Archive,0x001326E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884311136,2026-03-10 14:15:44.9547136,DataExtend,Archive,0x00132750,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884311264,2026-03-10 14:15:44.9547936,DataExtend|Close,Archive,0x001327D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884311392,2026-03-10 14:18:51.8378328,DataExtend,Archive,0x00132850,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884311504,2026-03-10 14:18:51.8379128,DataExtend|Close,Archive,0x001328C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884311616,2026-03-10 14:22:48.7673640,DataExtend,Archive,0x00132930,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884311848,2026-03-10 14:22:48.7674440,DataExtend|Close,Archive,0x00132A18,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884312080,2026-03-10 14:23:23.5835013,DataExtend,Archive,0x00132B00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884312256,2026-03-10 14:23:23.5835813,DataExtend|Close,Archive,0x00132BB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+0D645CF6.tmp,.tmp,90027,1,5120,1,.\Windows\Temp,31884312432,2026-03-10 14:24:02.4450695,FileCreate,Archive,0x00132C60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+0D645CF6.tmp,.tmp,90027,1,5120,1,.\Windows\Temp,31884312544,2026-03-10 14:24:02.4451895,DataExtend|FileCreate,Archive,0x00132CD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+0D645CF6.tmp,.tmp,90027,1,5120,1,.\Windows\Temp,31884312656,2026-03-10 14:24:02.4453095,DataExtend|FileCreate|Close,Archive,0x00132D40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+0D645CF6.tmp,.tmp,90027,1,5120,1,.\Windows\Temp,31884312768,2026-03-10 14:24:31.1952245,FileDelete|Close,Archive|Temporary,0x00132DB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884312880,2026-03-10 14:29:00.1551815,DataExtend,Archive,0x00132E20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884313008,2026-03-10 14:29:00.1552615,DataExtend|Close,Archive,0x00132EA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884313136,2026-03-10 14:31:38.9256025,DataExtend,Archive,0x00132F20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884313248,2026-03-10 14:31:38.9256825,DataExtend|Close,Archive,0x00132F90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884313360,2026-03-10 14:31:39.1921733,DataExtend,Archive,0x00133000,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884313536,2026-03-10 14:31:39.1922533,DataExtend|Close,Archive,0x001330B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884313712,2026-03-10 14:38:15.1269895,DataExtend,Archive,0x00133160,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884313888,2026-03-10 14:38:15.1270695,DataExtend|Close,Archive,0x00133210,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884314064,2026-03-10 14:40:51.6580531,DataExtend,Archive,0x001332C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884314176,2026-03-10 14:40:51.6581331,DataExtend|Close,Archive,0x00133330,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884314288,2026-03-10 14:43:15.6690209,DataExtend,Archive,0x001333A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884314416,2026-03-10 14:43:15.6691009,DataExtend|Close,Archive,0x00133420,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884314544,2026-03-10 14:43:46.7164827,DataExtend,Archive,0x001334A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884314648,2026-03-10 14:43:46.7165627,DataExtend|Close,Archive,0x00133508,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884314752,2026-03-10 14:47:04.8641521,DataExtend,Archive,0x00133570,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884314928,2026-03-10 14:47:04.8642321,DataExtend|Close,Archive,0x00133620,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884315104,2026-03-10 14:48:18.2017132,DataExtend,Archive,0x001336D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884315216,2026-03-10 14:48:18.2017932,DataExtend|Close,Archive,0x00133740,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884315328,2026-03-10 14:48:19.5749865,DataExtend,Archive,0x001337B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884315440,2026-03-10 14:48:19.5750665,DataExtend|Close,Archive,0x00133820,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884315552,2026-03-10 14:53:27.0862223,DataExtend,Archive,0x00133890,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884315680,2026-03-10 14:53:27.0863023,DataExtend|Close,Archive,0x00133910,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884315808,2026-03-10 14:54:13.4530766,DataExtend,Archive,0x00133990,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884315984,2026-03-10 14:54:13.4531566,DataExtend|Close,Archive,0x00133A40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884316160,2026-03-10 14:54:58.5582790,DataExtend,Archive,0x00133AF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884316272,2026-03-10 14:54:58.5583590,DataExtend|Close,Archive,0x00133B60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+C4411796.tmp,.tmp,90028,1,5120,1,.\Windows\Temp,31884316384,2026-03-10 14:59:48.0236945,FileCreate,Archive,0x00133BD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+C4411796.tmp,.tmp,90028,1,5120,1,.\Windows\Temp,31884316496,2026-03-10 14:59:48.0238145,DataExtend|FileCreate,Archive,0x00133C40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+C4411796.tmp,.tmp,90028,1,5120,1,.\Windows\Temp,31884316608,2026-03-10 14:59:48.0239345,DataExtend|FileCreate|Close,Archive,0x00133CB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+C4411796.tmp,.tmp,90028,1,5120,1,.\Windows\Temp,31884316720,2026-03-10 15:00:08.3611248,FileDelete|Close,Archive|Temporary,0x00133D20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884316832,2026-03-10 15:01:48.4789023,DataExtend,Archive,0x00133D90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884317008,2026-03-10 15:01:48.4789823,DataExtend|Close,Archive,0x00133E40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884317184,2026-03-10 15:05:57.7324538,DataExtend,Archive,0x00133EF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884317312,2026-03-10 15:05:57.7325338,DataExtend|Close,Archive,0x00133F70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884317440,2026-03-10 15:08:19.6646168,DataExtend,Archive,0x00133FF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884317552,2026-03-10 15:08:19.6646968,DataExtend|Close,Archive,0x00134060,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884317664,2026-03-10 15:09:22.8093868,DataExtend,Archive,0x001340D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884317840,2026-03-10 15:09:22.8094668,DataExtend|Close,Archive,0x00134180,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884318016,2026-03-10 15:12:44.8474270,DataExtend,Archive,0x00134230,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884318128,2026-03-10 15:12:44.8475070,DataExtend|Close,Archive,0x001342A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884318240,2026-03-10 15:18:19.1070698,DataExtend,Archive,0x00134310,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884318416,2026-03-10 15:18:19.1071498,DataExtend|Close,Archive,0x001343C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884318592,2026-03-10 15:18:52.0075371,DataExtend,Archive,0x00134470,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884318704,2026-03-10 15:18:52.0076171,DataExtend|Close,Archive,0x001344E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884318816,2026-03-10 15:22:27.0600515,DataExtend,Archive,0x00134550,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884318944,2026-03-10 15:22:27.0601315,DataExtend|Close,Archive,0x001345D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884319072,2026-03-10 15:23:50.8614084,DataExtend,Archive,0x00134650,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884319248,2026-03-10 15:23:50.8614884,DataExtend|Close,Archive,0x00134700,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884319424,2026-03-10 15:27:11.5895635,DataExtend,Archive,0x001347B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884319656,2026-03-10 15:27:11.5896435,DataExtend|Close,Archive,0x00134898,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884319888,2026-03-10 15:28:51.7062649,DataExtend,Archive,0x00134980,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884320064,2026-03-10 15:28:51.7063449,DataExtend|Close,Archive,0x00134A30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884320240,2026-03-10 15:29:22.2686374,DataExtend,Archive,0x00134AE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884320352,2026-03-10 15:29:22.2687174,DataExtend|Close,Archive,0x00134B50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884320464,2026-03-10 15:33:22.3572462,DataExtend,Archive,0x00134BC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884320576,2026-03-10 15:33:22.3573262,DataExtend|Close,Archive,0x00134C30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884320688,2026-03-10 15:35:24.0041675,DataExtend,Archive,0x00134CA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884320864,2026-03-10 15:35:24.0042475,DataExtend|Close,Archive,0x00134D50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884321040,2026-03-10 15:35:31.0741058,DataExtend,Archive,0x00134E00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884321168,2026-03-10 15:35:31.0741858,DataExtend|Close,Archive,0x00134E80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884321296,2026-03-10 15:40:12.2347761,DataExtend,Archive,0x00134F00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884321408,2026-03-10 15:40:12.2348561,DataExtend|Close,Archive,0x00134F70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884321520,2026-03-10 15:40:38.0556037,DataExtend,Archive,0x00134FE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884321696,2026-03-10 15:40:38.0556837,DataExtend|Close,Archive,0x00135090,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+C774EBBA.tmp,.tmp,90035,1,5120,1,.\Windows\Temp,31884321872,2026-03-10 15:45:19.0622039,FileCreate,Archive,0x00135140,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+C774EBBA.tmp,.tmp,90035,1,5120,1,.\Windows\Temp,31884321984,2026-03-10 15:45:19.0623239,DataExtend|FileCreate,Archive,0x001351B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+C774EBBA.tmp,.tmp,90035,1,5120,1,.\Windows\Temp,31884322096,2026-03-10 15:45:19.0624439,DataExtend|FileCreate|Close,Archive,0x00135220,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+C774EBBA.tmp,.tmp,90035,1,5120,1,.\Windows\Temp,31884322208,2026-03-10 15:45:34.6208656,FileDelete|Close,Archive|Temporary,0x00135290,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884322320,2026-03-10 15:46:02.0690367,DataExtend,Archive,0x00135300,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884322496,2026-03-10 15:46:02.0691167,DataExtend|Close,Archive,0x001353B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884322672,2026-03-10 15:46:25.6687661,DataExtend,Archive,0x00135460,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884322800,2026-03-10 15:46:25.6688461,DataExtend|Close,Archive,0x001354E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884322928,2026-03-10 15:48:52.7748866,DataExtend,Archive,0x00135560,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884323040,2026-03-10 15:48:52.7749666,DataExtend|Close,Archive,0x001355D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884323152,2026-03-10 15:52:15.4470308,DataExtend,Archive,0x00135640,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884323328,2026-03-10 15:52:15.4471108,DataExtend|Close,Archive,0x001356F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884323504,2026-03-10 15:56:26.9521677,DataExtend,Archive,0x001357A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884323632,2026-03-10 15:56:26.9522477,DataExtend|Close,Archive,0x00135820,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884323760,2026-03-10 16:01:23.2987666,DataExtend,Archive,0x001358A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884323872,2026-03-10 16:01:23.2988466,DataExtend|Close,Archive,0x00135910,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884323984,2026-03-10 16:01:30.8655891,DataExtend,Archive,0x00135980,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884324160,2026-03-10 16:01:30.8656691,DataExtend|Close,Archive,0x00135A30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884324336,2026-03-10 16:05:38.9787446,DataExtend,Archive,0x00135AE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884324464,2026-03-10 16:05:38.9788246,DataExtend|Close,Archive,0x00135B60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884324592,2026-03-10 16:07:39.0892965,DataExtend,Archive,0x00135BE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884324704,2026-03-10 16:07:39.0893765,DataExtend|Close,Archive,0x00135C50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884324816,2026-03-10 16:08:29.0184706,DataExtend,Archive,0x00135CC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884324992,2026-03-10 16:08:29.0185506,DataExtend|Close,Archive,0x00135D70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884325168,2026-03-10 16:10:43.7926248,DataExtend,Archive,0x00135E20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884325280,2026-03-10 16:10:43.7927048,DataExtend|Close,Archive,0x00135E90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884325392,2026-03-10 16:13:16.4813885,DataExtend,Archive,0x00135F00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884325568,2026-03-10 16:13:16.4814685,DataExtend|Close,Archive,0x00135FB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884325744,2026-03-10 16:18:37.2566610,DataExtend,Archive,0x00136060,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884325872,2026-03-10 16:18:37.2567410,DataExtend|Close,Archive,0x001360E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884326000,2026-03-10 16:21:55.7433921,DataExtend,Archive,0x00136160,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884326104,2026-03-10 16:21:55.7434721,DataExtend|Close,Archive,0x001361C8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884326208,2026-03-10 16:22:02.1917631,DataExtend,Archive,0x00136230,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884326384,2026-03-10 16:22:02.1918431,DataExtend|Close,Archive,0x001362E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884326560,2026-03-10 16:23:40.5989017,DataExtend,Archive,0x00136390,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884326672,2026-03-10 16:23:40.5989817,DataExtend|Close,Archive,0x00136400,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+97AB8EC5.tmp,.tmp,90031,1,5120,1,.\Windows\Temp,31884326784,2026-03-10 16:27:28.2560882,FileCreate,Archive,0x00136470,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+97AB8EC5.tmp,.tmp,90031,1,5120,1,.\Windows\Temp,31884326896,2026-03-10 16:27:28.2562082,DataExtend|FileCreate,Archive,0x001364E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+97AB8EC5.tmp,.tmp,90031,1,5120,1,.\Windows\Temp,31884327008,2026-03-10 16:27:28.2563282,DataExtend|FileCreate|Close,Archive,0x00136550,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884327120,2026-03-10 16:27:35.9900219,DataExtend,Archive,0x001365C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884327296,2026-03-10 16:27:35.9901019,DataExtend|Close,Archive,0x00136670,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+97AB8EC5.tmp,.tmp,90031,1,5120,1,.\Windows\Temp,31884327472,2026-03-10 16:28:04.2324758,FileDelete|Close,Archive|Temporary,0x00136720,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884327584,2026-03-10 16:30:04.6174800,DataExtend,Archive,0x00136790,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884327696,2026-03-10 16:30:04.6175600,DataExtend|Close,Archive,0x00136800,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884327808,2026-03-10 16:33:57.1230040,DataExtend,Archive,0x00136870,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884327920,2026-03-10 16:33:57.1230840,DataExtend|Close,Archive,0x001368E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884328032,2026-03-10 16:35:15.0683642,DataExtend,Archive,0x00136950,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884328160,2026-03-10 16:35:15.0684442,DataExtend|Close,Archive,0x001369D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884328288,2026-03-10 16:36:48.8274040,DataExtend,Archive,0x00136A50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884328464,2026-03-10 16:36:48.8274840,DataExtend|Close,Archive,0x00136B00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884328640,2026-03-10 16:41:52.5930146,DataExtend,Archive,0x00136BB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884328752,2026-03-10 16:41:52.5930946,DataExtend|Close,Archive,0x00136C20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884328864,2026-03-10 16:45:22.2529755,DataExtend,Archive,0x00136C90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884329040,2026-03-10 16:45:22.2530555,DataExtend|Close,Archive,0x00136D40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884329216,2026-03-10 16:48:56.1846795,DataExtend,Archive,0x00136DF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884329344,2026-03-10 16:48:56.1847595,DataExtend|Close,Archive,0x00136E70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884329472,2026-03-10 16:50:16.3824333,DataExtend,Archive,0x00136EF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884329648,2026-03-10 16:50:16.3825133,DataExtend|Close,Archive,0x00136FA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884329824,2026-03-10 16:53:39.3522276,DataExtend,Archive,0x00137050,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884329936,2026-03-10 16:53:39.3523076,DataExtend|Close,Archive,0x001370C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884330048,2026-03-10 16:56:01.8731947,DataExtend,Archive,0x00137130,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884330280,2026-03-10 16:56:01.8732747,DataExtend|Close,Archive,0x00137218,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884330512,2026-03-10 16:58:37.2059473,DataExtend,Archive,0x00137300,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884330624,2026-03-10 16:58:37.2060273,DataExtend|Close,Archive,0x00137370,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884330736,2026-03-10 16:59:19.0363674,DataExtend,Archive,0x001373E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884330912,2026-03-10 16:59:19.0364474,DataExtend|Close,Archive,0x00137490,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884331088,2026-03-10 17:00:16.1246625,DataExtend,Archive,0x00137540,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884331216,2026-03-10 17:00:16.1247425,DataExtend|Close,Archive,0x001375C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884331344,2026-03-10 17:00:36.4825675,DataExtend,Archive,0x00137640,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884331456,2026-03-10 17:00:36.4826475,DataExtend|Close,Archive,0x001376B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884331568,2026-03-10 17:06:53.0196260,DataExtend,Archive,0x00137720,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884331680,2026-03-10 17:06:53.0197060,DataExtend|Close,Archive,0x00137790,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884331792,2026-03-10 17:08:21.9695395,DataExtend,Archive,0x00137800,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884331968,2026-03-10 17:08:21.9696195,DataExtend|Close,Archive,0x001378B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884332144,2026-03-10 17:10:17.8994243,DataExtend,Archive,0x00137960,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884332272,2026-03-10 17:10:17.8995043,DataExtend|Close,Archive,0x001379E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884332400,2026-03-10 17:16:28.5772121,DataExtend,Archive,0x00137A60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884332576,2026-03-10 17:16:28.5772921,DataExtend|Close,Archive,0x00137B10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884332752,2026-03-10 17:17:17.3745493,DataExtend,Archive,0x00137BC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884332864,2026-03-10 17:17:17.3746293,DataExtend|Close,Archive,0x00137C30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884332976,2026-03-10 17:23:25.1375331,DataExtend,Archive,0x00137CA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884333088,2026-03-10 17:23:25.1376131,DataExtend|Close,Archive,0x00137D10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884333200,2026-03-10 17:25:16.5576403,DataExtend,Archive,0x00137D80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884333376,2026-03-10 17:25:16.5577203,DataExtend|Close,Archive,0x00137E30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B730A75B.tmp,.tmp,90026,1,5120,1,.\Windows\Temp,31884333552,2026-03-10 17:27:29.0075595,FileCreate,Archive,0x00137EE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B730A75B.tmp,.tmp,90026,1,5120,1,.\Windows\Temp,31884333664,2026-03-10 17:27:29.0076795,DataExtend|FileCreate,Archive,0x00137F50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B730A75B.tmp,.tmp,90026,1,5120,1,.\Windows\Temp,31884333776,2026-03-10 17:27:29.0077995,DataExtend|FileCreate|Close,Archive,0x00137FC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B730A75B.tmp,.tmp,90026,1,5120,1,.\Windows\Temp,31884333888,2026-03-10 17:28:00.7994105,FileDelete|Close,Archive|Temporary,0x00138030,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884334000,2026-03-10 17:29:50.8330425,DataExtend,Archive,0x001380A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884334128,2026-03-10 17:29:50.8331225,DataExtend|Close,Archive,0x00138120,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884334256,2026-03-10 17:30:38.6993789,DataExtend,Archive,0x001381A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884334368,2026-03-10 17:30:38.6994589,DataExtend|Close,Archive,0x00138210,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884334480,2026-03-10 17:30:44.3843977,DataExtend,Archive,0x00138280,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884334656,2026-03-10 17:30:44.3844777,DataExtend|Close,Archive,0x00138330,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884334832,2026-03-10 17:37:08.3225627,DataExtend,Archive,0x001383E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884335008,2026-03-10 17:37:08.3226427,DataExtend|Close,Archive,0x00138490,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884335184,2026-03-10 17:42:47.6929328,DataExtend,Archive,0x00138540,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884335296,2026-03-10 17:42:47.6930128,DataExtend|Close,Archive,0x001385B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884335408,2026-03-10 17:44:26.5176724,DataExtend,Archive,0x00138620,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884335536,2026-03-10 17:44:26.5177524,DataExtend|Close,Archive,0x001386A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884335664,2026-03-10 17:46:18.5469554,DataExtend,Archive,0x00138720,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884335840,2026-03-10 17:46:18.5470354,DataExtend|Close,Archive,0x001387D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884336016,2026-03-10 17:49:22.8447346,DataExtend,Archive,0x00138880,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884336128,2026-03-10 17:49:22.8448146,DataExtend|Close,Archive,0x001388F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B0740C75.tmp,.tmp,90011,1,5120,1,.\Windows\Temp,31884336240,2026-03-10 17:51:25.4181010,FileCreate,Archive,0x00138960,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B0740C75.tmp,.tmp,90011,1,5120,1,.\Windows\Temp,31884336352,2026-03-10 17:51:25.4182210,DataExtend|FileCreate,Archive,0x001389D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B0740C75.tmp,.tmp,90011,1,5120,1,.\Windows\Temp,31884336464,2026-03-10 17:51:25.4183410,DataExtend|FileCreate|Close,Archive,0x00138A40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B0740C75.tmp,.tmp,90011,1,5120,1,.\Windows\Temp,31884336576,2026-03-10 17:51:36.5941789,FileDelete|Close,Archive|Temporary,0x00138AB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884336688,2026-03-10 17:51:51.3294218,DataExtend,Archive,0x00138B20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884336864,2026-03-10 17:51:51.3295018,DataExtend|Close,Archive,0x00138BD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+CD118E59.tmp,.tmp,90010,1,5120,1,.\Windows\Temp,31884337040,2026-03-10 17:54:08.4878086,FileCreate,Archive,0x00138C80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+CD118E59.tmp,.tmp,90010,1,5120,1,.\Windows\Temp,31884337152,2026-03-10 17:54:08.4879286,DataExtend|FileCreate,Archive,0x00138CF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+CD118E59.tmp,.tmp,90010,1,5120,1,.\Windows\Temp,31884337264,2026-03-10 17:54:08.4880486,DataExtend|FileCreate|Close,Archive,0x00138D60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+CD118E59.tmp,.tmp,90010,1,5120,1,.\Windows\Temp,31884337376,2026-03-10 17:54:39.1004054,FileDelete|Close,Archive|Temporary,0x00138DD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884337488,2026-03-10 18:00:03.0331252,DataExtend,Archive,0x00138E40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884337664,2026-03-10 18:00:03.0332052,DataExtend|Close,Archive,0x00138EF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884337840,2026-03-10 18:00:58.9778192,DataExtend,Archive,0x00138FA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884337952,2026-03-10 18:00:58.9778992,DataExtend|Close,Archive,0x00139010,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884338064,2026-03-10 18:01:55.0220016,DataExtend,Archive,0x00139080,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884338176,2026-03-10 18:01:55.0220816,DataExtend|Close,Archive,0x001390F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884338288,2026-03-10 18:02:53.8329202,DataExtend,Archive,0x00139160,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884338416,2026-03-10 18:02:53.8330002,DataExtend|Close,Archive,0x001391E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884338544,2026-03-10 18:07:40.2785835,DataExtend,Archive,0x00139260,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884338656,2026-03-10 18:07:40.2786635,DataExtend|Close,Archive,0x001392D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884338768,2026-03-10 18:08:36.6758770,DataExtend,Archive,0x00139340,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884338944,2026-03-10 18:08:36.6759570,DataExtend|Close,Archive,0x001393F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884339120,2026-03-10 18:12:31.9232260,DataExtend,Archive,0x001394A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884339248,2026-03-10 18:12:31.9233060,DataExtend|Close,Archive,0x00139520,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884339376,2026-03-10 18:14:03.5132398,DataExtend,Archive,0x001395A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884339488,2026-03-10 18:14:03.5133198,DataExtend|Close,Archive,0x00139610,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D3FB5FEE.tmp,.tmp,90016,1,5120,1,.\Windows\Temp,31884339600,2026-03-10 18:14:47.1699829,FileCreate,Archive,0x00139680,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D3FB5FEE.tmp,.tmp,90016,1,5120,1,.\Windows\Temp,31884339712,2026-03-10 18:14:47.1701029,DataExtend|FileCreate,Archive,0x001396F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D3FB5FEE.tmp,.tmp,90016,1,5120,1,.\Windows\Temp,31884339824,2026-03-10 18:14:47.1702229,DataExtend|FileCreate|Close,Archive,0x00139760,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D3FB5FEE.tmp,.tmp,90016,1,5120,1,.\Windows\Temp,31884339936,2026-03-10 18:15:25.3535814,FileDelete|Close,Archive|Temporary,0x001397D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884340048,2026-03-10 18:17:37.6417579,DataExtend,Archive,0x00139840,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884340224,2026-03-10 18:17:37.6418379,DataExtend|Close,Archive,0x001398F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+0B30701C.tmp,.tmp,90039,1,5120,1,.\Windows\Temp,31884340400,2026-03-10 18:17:53.1766671,FileCreate,Archive,0x001399A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+0B30701C.tmp,.tmp,90039,1,5120,1,.\Windows\Temp,31884340512,2026-03-10 18:17:53.1767871,DataExtend|FileCreate,Archive,0x00139A10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+0B30701C.tmp,.tmp,90039,1,5120,1,.\Windows\Temp,31884340624,2026-03-10 18:17:53.1769071,DataExtend|FileCreate|Close,Archive,0x00139A80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+0B30701C.tmp,.tmp,90039,1,5120,1,.\Windows\Temp,31884340736,2026-03-10 18:17:55.2887976,FileDelete|Close,Archive|Temporary,0x00139AF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884340848,2026-03-10 18:22:44.7022896,DataExtend,Archive,0x00139B60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884341080,2026-03-10 18:22:44.7023696,DataExtend|Close,Archive,0x00139C48,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884341312,2026-03-10 18:23:20.0611883,DataExtend,Archive,0x00139D30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884341440,2026-03-10 18:23:20.0612683,DataExtend|Close,Archive,0x00139DB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884341568,2026-03-10 18:24:08.5546698,DataExtend,Archive,0x00139E30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884341680,2026-03-10 18:24:08.5547498,DataExtend|Close,Archive,0x00139EA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884341792,2026-03-10 18:24:34.4408875,DataExtend,Archive,0x00139F10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884341968,2026-03-10 18:24:34.4409675,DataExtend|Close,Archive,0x00139FC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884342144,2026-03-10 18:32:56.1887993,DataExtend,Archive,0x0013A070,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884342256,2026-03-10 18:32:56.1888793,DataExtend|Close,Archive,0x0013A0E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884342368,2026-03-10 18:34:20.4192559,DataExtend,Archive,0x0013A150,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884342544,2026-03-10 18:34:20.4193359,DataExtend|Close,Archive,0x0013A200,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884342720,2026-03-10 18:37:59.5291777,DataExtend,Archive,0x0013A2B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884342848,2026-03-10 18:37:59.5292577,DataExtend|Close,Archive,0x0013A330,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884342976,2026-03-10 18:38:52.9901913,DataExtend,Archive,0x0013A3B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884343152,2026-03-10 18:38:52.9902713,DataExtend|Close,Archive,0x0013A460,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884343328,2026-03-10 18:40:32.7659989,DataExtend,Archive,0x0013A510,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884343440,2026-03-10 18:40:32.7660789,DataExtend|Close,Archive,0x0013A580,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884343552,2026-03-10 18:40:57.7415983,DataExtend,Archive,0x0013A5F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884343656,2026-03-10 18:40:57.7416783,DataExtend|Close,Archive,0x0013A658,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884343760,2026-03-10 18:43:01.5476465,DataExtend,Archive,0x0013A6C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884343872,2026-03-10 18:43:01.5477265,DataExtend|Close,Archive,0x0013A730,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884343984,2026-03-10 18:47:43.2544221,DataExtend,Archive,0x0013A7A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884344096,2026-03-10 18:47:43.2545021,DataExtend|Close,Archive,0x0013A810,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884344208,2026-03-10 18:47:54.8212125,DataExtend,Archive,0x0013A880,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884344384,2026-03-10 18:47:54.8212925,DataExtend|Close,Archive,0x0013A930,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884344560,2026-03-10 18:49:40.7388286,DataExtend,Archive,0x0013A9E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884344688,2026-03-10 18:49:40.7389086,DataExtend|Close,Archive,0x0013AA60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884344816,2026-03-10 18:53:10.8135823,DataExtend,Archive,0x0013AAE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884344992,2026-03-10 18:53:10.8136623,DataExtend|Close,Archive,0x0013AB90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884345168,2026-03-10 18:55:18.5417200,DataExtend,Archive,0x0013AC40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884345280,2026-03-10 18:55:18.5418000,DataExtend|Close,Archive,0x0013ACB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884345392,2026-03-10 18:58:33.5704394,DataExtend,Archive,0x0013AD20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884345568,2026-03-10 18:58:33.5705194,DataExtend|Close,Archive,0x0013ADD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884345744,2026-03-10 18:58:49.0597695,DataExtend,Archive,0x0013AE80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884345872,2026-03-10 18:58:49.0598495,DataExtend|Close,Archive,0x0013AF00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884346000,2026-03-10 19:03:29.2833514,DataExtend,Archive,0x0013AF80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884346112,2026-03-10 19:03:29.2834314,DataExtend|Close,Archive,0x0013AFF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884346224,2026-03-10 19:04:23.3806194,DataExtend,Archive,0x0013B060,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884346400,2026-03-10 19:04:23.3806994,DataExtend|Close,Archive,0x0013B110,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+5BFE1692.tmp,.tmp,90033,1,5120,1,.\Windows\Temp,31884346576,2026-03-10 19:06:56.3272484,FileCreate,Archive,0x0013B1C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+5BFE1692.tmp,.tmp,90033,1,5120,1,.\Windows\Temp,31884346688,2026-03-10 19:06:56.3273684,DataExtend|FileCreate,Archive,0x0013B230,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+5BFE1692.tmp,.tmp,90033,1,5120,1,.\Windows\Temp,31884346800,2026-03-10 19:06:56.3274884,DataExtend|FileCreate|Close,Archive,0x0013B2A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+5BFE1692.tmp,.tmp,90033,1,5120,1,.\Windows\Temp,31884346912,2026-03-10 19:07:26.1065671,FileDelete|Close,Archive|Temporary,0x0013B310,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884347024,2026-03-10 19:12:02.0268771,DataExtend,Archive,0x0013B380,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884347200,2026-03-10 19:12:02.0269571,DataExtend|Close,Archive,0x0013B430,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884347376,2026-03-10 19:12:49.7377797,DataExtend,Archive,0x0013B4E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884347488,2026-03-10 19:12:49.7378597,DataExtend|Close,Archive,0x0013B550,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884347600,2026-03-10 19:16:42.4395727,DataExtend,Archive,0x0013B5C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884347728,2026-03-10 19:16:42.4396527,DataExtend|Close,Archive,0x0013B640,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884347856,2026-03-10 19:18:44.9771515,DataExtend,Archive,0x0013B6C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884348032,2026-03-10 19:18:44.9772315,DataExtend|Close,Archive,0x0013B770,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884348208,2026-03-10 19:19:51.5901062,DataExtend,Archive,0x0013B820,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884348320,2026-03-10 19:19:51.5901862,DataExtend|Close,Archive,0x0013B890,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884348432,2026-03-10 19:21:02.9949123,DataExtend,Archive,0x0013B900,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884348544,2026-03-10 19:21:02.9949923,DataExtend|Close,Archive,0x0013B970,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884348656,2026-03-10 19:27:22.8342390,DataExtend,Archive,0x0013B9E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884348832,2026-03-10 19:27:22.8343190,DataExtend|Close,Archive,0x0013BA90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884349008,2026-03-10 19:29:34.0901394,DataExtend,Archive,0x0013BB40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884349120,2026-03-10 19:29:34.0902194,DataExtend|Close,Archive,0x0013BBB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884349232,2026-03-10 19:32:33.7835855,DataExtend,Archive,0x0013BC20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884349360,2026-03-10 19:32:33.7836655,DataExtend|Close,Archive,0x0013BCA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884349488,2026-03-10 19:35:11.4040568,DataExtend,Archive,0x0013BD20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884349664,2026-03-10 19:35:11.4041368,DataExtend|Close,Archive,0x0013BDD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884349840,2026-03-10 19:37:19.6337188,DataExtend,Archive,0x0013BE80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884349952,2026-03-10 19:37:19.6337988,DataExtend|Close,Archive,0x0013BEF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884350064,2026-03-10 19:41:28.8105613,DataExtend,Archive,0x0013BF60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884350240,2026-03-10 19:41:28.8106413,DataExtend|Close,Archive,0x0013C010,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884350416,2026-03-10 19:47:05.9931347,DataExtend,Archive,0x0013C0C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884350592,2026-03-10 19:47:05.9932147,DataExtend|Close,Archive,0x0013C170,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884350768,2026-03-10 19:50:38.2832947,DataExtend,Archive,0x0013C220,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884350880,2026-03-10 19:50:38.2833747,DataExtend|Close,Archive,0x0013C290,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+9E0C4313.tmp,.tmp,90021,1,5120,1,.\Windows\Temp,31884350992,2026-03-10 19:50:50.3527038,FileCreate,Archive,0x0013C300,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+9E0C4313.tmp,.tmp,90021,1,5120,1,.\Windows\Temp,31884351104,2026-03-10 19:50:50.3528238,DataExtend|FileCreate,Archive,0x0013C370,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+9E0C4313.tmp,.tmp,90021,1,5120,1,.\Windows\Temp,31884351216,2026-03-10 19:50:50.3529438,DataExtend|FileCreate|Close,Archive,0x0013C3E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884351328,2026-03-10 19:50:53.8562637,DataExtend,Archive,0x0013C450,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884351456,2026-03-10 19:50:53.8563437,DataExtend|Close,Archive,0x0013C4D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+9E0C4313.tmp,.tmp,90021,1,5120,1,.\Windows\Temp,31884351584,2026-03-10 19:51:26.5827670,FileDelete|Close,Archive|Temporary,0x0013C550,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884351696,2026-03-10 19:51:46.0056412,DataExtend,Archive,0x0013C5C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884351872,2026-03-10 19:51:46.0057212,DataExtend|Close,Archive,0x0013C670,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884352048,2026-03-10 19:57:14.9432602,DataExtend,Archive,0x0013C720,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884352224,2026-03-10 19:57:14.9433402,DataExtend|Close,Archive,0x0013C7D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884352400,2026-03-10 19:59:24.1522874,DataExtend,Archive,0x0013C880,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884352512,2026-03-10 19:59:24.1523674,DataExtend|Close,Archive,0x0013C8F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884352624,2026-03-10 19:59:31.7702342,DataExtend,Archive,0x0013C960,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884352736,2026-03-10 19:59:31.7703142,DataExtend|Close,Archive,0x0013C9D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884352848,2026-03-10 20:03:13.8939262,DataExtend,Archive,0x0013CA40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884353024,2026-03-10 20:03:13.8940062,DataExtend|Close,Archive,0x0013CAF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884353200,2026-03-10 20:08:19.3049537,DataExtend,Archive,0x0013CBA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884353376,2026-03-10 20:08:19.3050337,DataExtend|Close,Archive,0x0013CC50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884353552,2026-03-10 20:10:55.0867361,DataExtend,Archive,0x0013CD00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884353680,2026-03-10 20:10:55.0868161,DataExtend|Close,Archive,0x0013CD80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884353808,2026-03-10 20:12:11.6299413,DataExtend,Archive,0x0013CE00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884354040,2026-03-10 20:12:11.6300213,DataExtend|Close,Archive,0x0013CEE8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884354272,2026-03-10 20:12:25.3022229,DataExtend,Archive,0x0013CFD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884354384,2026-03-10 20:12:25.3023029,DataExtend|Close,Archive,0x0013D040,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884354496,2026-03-10 20:12:35.8872500,DataExtend,Archive,0x0013D0B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884354672,2026-03-10 20:12:35.8873300,DataExtend|Close,Archive,0x0013D160,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884354848,2026-03-10 20:21:24.7177747,DataExtend,Archive,0x0013D210,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884355024,2026-03-10 20:21:24.7178547,DataExtend|Close,Archive,0x0013D2C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884355200,2026-03-10 20:21:32.9695919,DataExtend,Archive,0x0013D370,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884355312,2026-03-10 20:21:32.9696719,DataExtend|Close,Archive,0x0013D3E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884355424,2026-03-10 20:22:33.5511947,DataExtend,Archive,0x0013D450,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884355552,2026-03-10 20:22:33.5512747,DataExtend|Close,Archive,0x0013D4D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A19229A4.tmp,.tmp,90029,1,5120,1,.\Windows\Temp,31884355680,2026-03-10 20:28:39.3412248,FileCreate,Archive,0x0013D550,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A19229A4.tmp,.tmp,90029,1,5120,1,.\Windows\Temp,31884355792,2026-03-10 20:28:39.3413448,DataExtend|FileCreate,Archive,0x0013D5C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A19229A4.tmp,.tmp,90029,1,5120,1,.\Windows\Temp,31884355904,2026-03-10 20:28:39.3414648,DataExtend|FileCreate|Close,Archive,0x0013D630,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A19229A4.tmp,.tmp,90029,1,5120,1,.\Windows\Temp,31884356016,2026-03-10 20:28:45.1052426,FileDelete|Close,Archive|Temporary,0x0013D6A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884356128,2026-03-10 20:31:10.8653588,DataExtend,Archive,0x0013D710,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884356304,2026-03-10 20:31:10.8654388,DataExtend|Close,Archive,0x0013D7C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884356480,2026-03-10 20:34:57.2575656,DataExtend,Archive,0x0013D870,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884356608,2026-03-10 20:34:57.2576456,DataExtend|Close,Archive,0x0013D8F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884356736,2026-03-10 20:35:06.2861355,DataExtend,Archive,0x0013D970,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884356848,2026-03-10 20:35:06.2862155,DataExtend|Close,Archive,0x0013D9E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884356960,2026-03-10 20:36:21.0341508,DataExtend,Archive,0x0013DA50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884357072,2026-03-10 20:36:21.0342308,DataExtend|Close,Archive,0x0013DAC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884357184,2026-03-10 20:36:41.8833089,DataExtend,Archive,0x0013DB30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884357360,2026-03-10 20:36:41.8833889,DataExtend|Close,Archive,0x0013DBE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884357536,2026-03-10 20:44:33.6295247,DataExtend,Archive,0x0013DC90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884357712,2026-03-10 20:44:33.6296047,DataExtend|Close,Archive,0x0013DD40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884357888,2026-03-10 20:46:29.5579158,DataExtend,Archive,0x0013DDF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884358000,2026-03-10 20:46:29.5579958,DataExtend|Close,Archive,0x0013DE60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884358112,2026-03-10 20:49:18.3164441,DataExtend,Archive,0x0013DED0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884358288,2026-03-10 20:49:18.3165241,DataExtend|Close,Archive,0x0013DF80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F255F42E.tmp,.tmp,90000,1,5120,1,.\Windows\Temp,31884358464,2026-03-10 20:50:18.3961777,FileCreate,Archive,0x0013E030,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F255F42E.tmp,.tmp,90000,1,5120,1,.\Windows\Temp,31884358576,2026-03-10 20:50:18.3962977,DataExtend|FileCreate,Archive,0x0013E0A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F255F42E.tmp,.tmp,90000,1,5120,1,.\Windows\Temp,31884358688,2026-03-10 20:50:18.3964177,DataExtend|FileCreate|Close,Archive,0x0013E110,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+F255F42E.tmp,.tmp,90000,1,5120,1,.\Windows\Temp,31884358800,2026-03-10 20:51:07.3988029,FileDelete|Close,Archive|Temporary,0x0013E180,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884358912,2026-03-10 20:53:31.6639082,DataExtend,Archive,0x0013E1F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884359040,2026-03-10 20:53:31.6639882,DataExtend|Close,Archive,0x0013E270,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884359168,2026-03-10 20:53:59.3666853,DataExtend,Archive,0x0013E2F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884359344,2026-03-10 20:53:59.3667653,DataExtend|Close,Archive,0x0013E3A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884359520,2026-03-10 20:56:47.4542954,DataExtend,Archive,0x0013E450,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884359632,2026-03-10 20:56:47.4543754,DataExtend|Close,Archive,0x0013E4C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884359744,2026-03-10 20:58:31.0113538,DataExtend,Archive,0x0013E530,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884359856,2026-03-10 20:58:31.0114338,DataExtend|Close,Archive,0x0013E5A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884359968,2026-03-10 20:59:05.4410833,DataExtend,Archive,0x0013E610,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884360144,2026-03-10 20:59:05.4411633,DataExtend|Close,Archive,0x0013E6C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884360320,2026-03-10 21:04:33.2641825,DataExtend,Archive,0x0013E770,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884360496,2026-03-10 21:04:33.2642625,DataExtend|Close,Archive,0x0013E820,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884360672,2026-03-10 21:06:40.2045396,DataExtend,Archive,0x0013E8D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884360800,2026-03-10 21:06:40.2046196,DataExtend|Close,Archive,0x0013E950,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884360928,2026-03-10 21:09:09.1464985,DataExtend,Archive,0x0013E9D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884361104,2026-03-10 21:09:09.1465785,DataExtend|Close,Archive,0x0013EA80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884361280,2026-03-10 21:11:06.5070994,DataExtend,Archive,0x0013EB30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884361392,2026-03-10 21:11:06.5071794,DataExtend|Close,Archive,0x0013EBA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884361504,2026-03-10 21:11:53.1002739,DataExtend,Archive,0x0013EC10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884361608,2026-03-10 21:11:53.1003539,DataExtend|Close,Archive,0x0013EC78,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884361712,2026-03-10 21:13:26.3981807,DataExtend,Archive,0x0013ECE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884361944,2026-03-10 21:13:26.3982607,DataExtend|Close,Archive,0x0013EDC8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884362176,2026-03-10 21:16:16.5736255,DataExtend,Archive,0x0013EEB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884362352,2026-03-10 21:16:16.5737055,DataExtend|Close,Archive,0x0013EF60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884362528,2026-03-10 21:20:34.4020186,DataExtend,Archive,0x0013F010,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884362656,2026-03-10 21:20:34.4020986,DataExtend|Close,Archive,0x0013F090,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884362784,2026-03-10 21:21:41.5336842,DataExtend,Archive,0x0013F110,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884362960,2026-03-10 21:21:41.5337642,DataExtend|Close,Archive,0x0013F1C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884363136,2026-03-10 21:22:37.2629975,DataExtend,Archive,0x0013F270,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884363248,2026-03-10 21:22:37.2630775,DataExtend|Close,Archive,0x0013F2E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884363360,2026-03-10 21:23:31.1652175,DataExtend,Archive,0x0013F350,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884363472,2026-03-10 21:23:31.1652975,DataExtend|Close,Archive,0x0013F3C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884363584,2026-03-10 21:27:38.9116562,DataExtend,Archive,0x0013F430,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884363760,2026-03-10 21:27:38.9117362,DataExtend|Close,Archive,0x0013F4E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884363936,2026-03-10 21:33:27.9266921,DataExtend,Archive,0x0013F590,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884364064,2026-03-10 21:33:27.9267721,DataExtend|Close,Archive,0x0013F610,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884364192,2026-03-10 21:34:23.6190607,DataExtend,Archive,0x0013F690,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884364304,2026-03-10 21:34:23.6191407,DataExtend|Close,Archive,0x0013F700,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884364416,2026-03-10 21:35:19.5634035,DataExtend,Archive,0x0013F770,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884364592,2026-03-10 21:35:19.5634835,DataExtend|Close,Archive,0x0013F820,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884364768,2026-03-10 21:41:26.6033749,DataExtend,Archive,0x0013F8D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884364944,2026-03-10 21:41:26.6034549,DataExtend|Close,Archive,0x0013F980,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884365120,2026-03-10 21:42:07.7634441,DataExtend,Archive,0x0013FA30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884365232,2026-03-10 21:42:07.7635241,DataExtend|Close,Archive,0x0013FAA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884365344,2026-03-10 21:42:58.6363069,DataExtend,Archive,0x0013FB10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884365456,2026-03-10 21:42:58.6363869,DataExtend|Close,Archive,0x0013FB80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884365568,2026-03-10 21:50:27.0424768,DataExtend,Archive,0x0013FBF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884365680,2026-03-10 21:50:27.0425568,DataExtend|Close,Archive,0x0013FC60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884365792,2026-03-10 21:50:32.6469915,DataExtend,Archive,0x0013FCD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884365968,2026-03-10 21:50:32.6470715,DataExtend|Close,Archive,0x0013FD80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884366144,2026-03-10 21:52:42.6993757,DataExtend,Archive,0x0013FE30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884366272,2026-03-10 21:52:42.6994557,DataExtend|Close,Archive,0x0013FEB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884366400,2026-03-10 21:55:08.4146198,DataExtend,Archive,0x0013FF30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884366576,2026-03-10 21:55:08.4146998,DataExtend|Close,Archive,0x0013FFE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884366752,2026-03-10 21:58:34.9843262,DataExtend,Archive,0x00140090,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884366864,2026-03-10 21:58:34.9844062,DataExtend|Close,Archive,0x00140100,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884366976,2026-03-10 22:01:19.8424816,DataExtend,Archive,0x00140170,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884367152,2026-03-10 22:01:19.8425616,DataExtend|Close,Archive,0x00140220,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884367328,2026-03-10 22:03:43.4207016,DataExtend,Archive,0x001402D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884367456,2026-03-10 22:03:43.4207816,DataExtend|Close,Archive,0x00140350,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884367584,2026-03-10 22:05:44.2593576,DataExtend,Archive,0x001403D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884367760,2026-03-10 22:05:44.2594376,DataExtend|Close,Archive,0x00140480,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884367936,2026-03-10 22:07:36.4805652,DataExtend,Archive,0x00140530,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884368048,2026-03-10 22:07:36.4806452,DataExtend|Close,Archive,0x001405A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884368160,2026-03-10 22:08:45.2700612,DataExtend,Archive,0x00140610,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884368272,2026-03-10 22:08:45.2701412,DataExtend|Close,Archive,0x00140680,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884368384,2026-03-10 22:10:37.3405609,DataExtend,Archive,0x001406F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884368616,2026-03-10 22:10:37.3406409,DataExtend|Close,Archive,0x001407D8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884368848,2026-03-10 22:13:31.2957156,DataExtend,Archive,0x001408C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884369024,2026-03-10 22:13:31.2957956,DataExtend|Close,Archive,0x00140970,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884369200,2026-03-10 22:15:19.9003812,DataExtend,Archive,0x00140A20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884369328,2026-03-10 22:15:19.9004612,DataExtend|Close,Archive,0x00140AA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884369456,2026-03-10 22:19:56.8937550,DataExtend,Archive,0x00140B20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884369568,2026-03-10 22:19:56.8938350,DataExtend|Close,Archive,0x00140B90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884369680,2026-03-10 22:21:31.2762440,DataExtend,Archive,0x00140C00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884369856,2026-03-10 22:21:31.2763240,DataExtend|Close,Archive,0x00140CB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884370032,2026-03-10 22:27:09.3431131,DataExtend,Archive,0x00140D60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884370208,2026-03-10 22:27:09.3431931,DataExtend|Close,Archive,0x00140E10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884370384,2026-03-10 22:28:42.2469210,DataExtend,Archive,0x00140EC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884370496,2026-03-10 22:28:42.2470010,DataExtend|Close,Archive,0x00140F30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884370608,2026-03-10 22:35:03.7320942,DataExtend,Archive,0x00140FA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884370784,2026-03-10 22:35:03.7321742,DataExtend|Close,Archive,0x00141050,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884370960,2026-03-10 22:35:41.8721788,DataExtend,Archive,0x00141100,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884371088,2026-03-10 22:35:41.8722588,DataExtend|Close,Archive,0x00141180,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884371216,2026-03-10 22:41:25.5832778,DataExtend,Archive,0x00141200,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884371328,2026-03-10 22:41:25.5833578,DataExtend|Close,Archive,0x00141270,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884371440,2026-03-10 22:44:02.8862189,DataExtend,Archive,0x001412E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884371616,2026-03-10 22:44:02.8862989,DataExtend|Close,Archive,0x00141390,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884371792,2026-03-10 22:50:29.3105377,DataExtend,Archive,0x00141440,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884371904,2026-03-10 22:50:29.3106177,DataExtend|Close,Archive,0x001414B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884372016,2026-03-10 22:52:34.8513406,DataExtend,Archive,0x00141520,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884372192,2026-03-10 22:52:34.8514206,DataExtend|Close,Archive,0x001415D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884372368,2026-03-10 22:52:41.0703184,DataExtend,Archive,0x00141680,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884372480,2026-03-10 22:52:41.0703984,DataExtend|Close,Archive,0x001416F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884372592,2026-03-10 22:52:52.4298736,DataExtend,Archive,0x00141760,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884372720,2026-03-10 22:52:52.4299536,DataExtend|Close,Archive,0x001417E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884372848,2026-03-10 22:58:05.1516387,DataExtend,Archive,0x00141860,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884373024,2026-03-10 22:58:05.1517187,DataExtend|Close,Archive,0x00141910,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884373200,2026-03-10 23:05:11.4562793,DataExtend,Archive,0x001419C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884373312,2026-03-10 23:05:11.4563593,DataExtend|Close,Archive,0x00141A30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884373424,2026-03-10 23:05:13.7743951,DataExtend,Archive,0x00141AA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884373600,2026-03-10 23:05:13.7744751,DataExtend|Close,Archive,0x00141B50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884373776,2026-03-10 23:08:02.9110444,DataExtend,Archive,0x00141C00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884373880,2026-03-10 23:08:02.9111244,DataExtend|Close,Archive,0x00141C68,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884373984,2026-03-10 23:10:52.5771091,DataExtend,Archive,0x00141CD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884374112,2026-03-10 23:10:52.5771891,DataExtend|Close,Archive,0x00141D50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884374240,2026-03-10 23:11:57.7000249,DataExtend,Archive,0x00141DD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884374472,2026-03-10 23:11:57.7001049,DataExtend|Close,Archive,0x00141EB8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+6374C578.tmp,.tmp,90009,1,5120,1,.\Windows\Temp,31884374704,2026-03-10 23:12:14.2149323,FileCreate,Archive,0x00141FA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+6374C578.tmp,.tmp,90009,1,5120,1,.\Windows\Temp,31884374816,2026-03-10 23:12:14.2150523,DataExtend|FileCreate,Archive,0x00142010,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+6374C578.tmp,.tmp,90009,1,5120,1,.\Windows\Temp,31884374928,2026-03-10 23:12:14.2151723,DataExtend|FileCreate|Close,Archive,0x00142080,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+6374C578.tmp,.tmp,90009,1,5120,1,.\Windows\Temp,31884375040,2026-03-10 23:12:20.8892527,FileDelete|Close,Archive|Temporary,0x001420F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884375152,2026-03-10 23:13:55.9053261,DataExtend,Archive,0x00142160,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884375328,2026-03-10 23:13:55.9054061,DataExtend|Close,Archive,0x00142210,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884375504,2026-03-10 23:14:27.2921549,DataExtend,Archive,0x001422C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884375616,2026-03-10 23:14:27.2922349,DataExtend|Close,Archive,0x00142330,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884375728,2026-03-10 23:19:57.9072751,DataExtend,Archive,0x001423A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884375904,2026-03-10 23:19:57.9073551,DataExtend|Close,Archive,0x00142450,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884376080,2026-03-10 23:22:20.6740617,DataExtend,Archive,0x00142500,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884376192,2026-03-10 23:22:20.6741417,DataExtend|Close,Archive,0x00142570,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884376304,2026-03-10 23:23:37.2039629,DataExtend,Archive,0x001425E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884376432,2026-03-10 23:23:37.2040429,DataExtend|Close,Archive,0x00142660,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884376560,2026-03-10 23:26:43.3078009,DataExtend,Archive,0x001426E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884376736,2026-03-10 23:26:43.3078809,DataExtend|Close,Archive,0x00142790,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884376912,2026-03-10 23:27:45.5627958,DataExtend,Archive,0x00142840,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884377024,2026-03-10 23:27:45.5628758,DataExtend|Close,Archive,0x001428B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884377136,2026-03-10 23:31:33.5891681,DataExtend,Archive,0x00142920,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884377248,2026-03-10 23:31:33.5892481,DataExtend|Close,Archive,0x00142990,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884377360,2026-03-10 23:35:49.6229615,DataExtend,Archive,0x00142A00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884377536,2026-03-10 23:35:49.6230415,DataExtend|Close,Archive,0x00142AB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884377712,2026-03-10 23:36:37.7717633,DataExtend,Archive,0x00142B60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884377840,2026-03-10 23:36:37.7718433,DataExtend|Close,Archive,0x00142BE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+DBE0BC73.tmp,.tmp,90013,1,5120,1,.\Windows\Temp,31884377968,2026-03-10 23:38:34.1211460,FileCreate,Archive,0x00142C60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+DBE0BC73.tmp,.tmp,90013,1,5120,1,.\Windows\Temp,31884378080,2026-03-10 23:38:34.1212660,DataExtend|FileCreate,Archive,0x00142CD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+DBE0BC73.tmp,.tmp,90013,1,5120,1,.\Windows\Temp,31884378192,2026-03-10 23:38:34.1213860,DataExtend|FileCreate|Close,Archive,0x00142D40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+DBE0BC73.tmp,.tmp,90013,1,5120,1,.\Windows\Temp,31884378304,2026-03-10 23:38:52.8164746,FileDelete|Close,Archive|Temporary,0x00142DB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884378416,2026-03-10 23:44:21.3955862,DataExtend,Archive,0x00142E20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884378528,2026-03-10 23:44:21.3956662,DataExtend|Close,Archive,0x00142E90,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884378640,2026-03-10 23:45:36.4449417,DataExtend,Archive,0x00142F00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884378816,2026-03-10 23:45:36.4450217,DataExtend|Close,Archive,0x00142FB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884378992,2026-03-10 23:46:04.0618026,DataExtend,Archive,0x00143060,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884379120,2026-03-10 23:46:04.0618826,DataExtend|Close,Archive,0x001430E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884379248,2026-03-10 23:46:52.8540233,DataExtend,Archive,0x00143160,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884379360,2026-03-10 23:46:52.8541033,DataExtend|Close,Archive,0x001431D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884379472,2026-03-10 23:51:54.1867773,DataExtend,Archive,0x00143240,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884379648,2026-03-10 23:51:54.1868573,DataExtend|Close,Archive,0x001432F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+1A34FCA7.tmp,.tmp,90007,1,5120,1,.\Windows\Temp,31884379824,2026-03-10 23:53:08.2298282,FileCreate,Archive,0x001433A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+1A34FCA7.tmp,.tmp,90007,1,5120,1,.\Windows\Temp,31884379936,2026-03-10 23:53:08.2299482,DataExtend|FileCreate,Archive,0x00143410,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+1A34FCA7.tmp,.tmp,90007,1,5120,1,.\Windows\Temp,31884380048,2026-03-10 23:53:08.2300682,DataExtend|FileCreate|Close,Archive,0x00143480,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884380160,2026-03-10 23:53:41.4084279,DataExtend,Archive,0x001434F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884380272,2026-03-10 23:53:41.4085079,DataExtend|Close,Archive,0x00143560,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+1A34FCA7.tmp,.tmp,90007,1,5120,1,.\Windows\Temp,31884380384,2026-03-10 23:53:43.4588875,FileDelete|Close,Archive|Temporary,0x001435D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884380496,2026-03-10 23:55:14.4610849,DataExtend,Archive,0x00143640,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884380624,2026-03-10 23:55:14.4611649,DataExtend|Close,Archive,0x001436C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884380752,2026-03-10 23:58:39.4343073,DataExtend,Archive,0x00143740,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884380928,2026-03-10 23:58:39.4343873,DataExtend|Close,Archive,0x001437F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884381104,2026-03-11 00:02:56.3911220,DataExtend,Archive,0x001438A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884381280,2026-03-11 00:02:56.3912020,DataExtend|Close,Archive,0x00143950,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884381456,2026-03-11 00:05:59.3938763,DataExtend,Archive,0x00143A00,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884381568,2026-03-11 00:05:59.3939563,DataExtend|Close,Archive,0x00143A70,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+948BD489.tmp,.tmp,90005,1,5120,1,.\Windows\Temp,31884381680,2026-03-11 00:06:03.2132970,FileCreate,Archive,0x00143AE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+948BD489.tmp,.tmp,90005,1,5120,1,.\Windows\Temp,31884381792,2026-03-11 00:06:03.2134170,DataExtend|FileCreate,Archive,0x00143B50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+948BD489.tmp,.tmp,90005,1,5120,1,.\Windows\Temp,31884381904,2026-03-11 00:06:03.2135370,DataExtend|FileCreate|Close,Archive,0x00143BC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+948BD489.tmp,.tmp,90005,1,5120,1,.\Windows\Temp,31884382016,2026-03-11 00:06:05.1046809,FileDelete|Close,Archive|Temporary,0x00143C30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+6D14CF1A.tmp,.tmp,90038,1,5120,1,.\Windows\Temp,31884382128,2026-03-11 00:06:10.4471221,FileCreate,Archive,0x00143CA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+6D14CF1A.tmp,.tmp,90038,1,5120,1,.\Windows\Temp,31884382240,2026-03-11 00:06:10.4472421,DataExtend|FileCreate,Archive,0x00143D10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+6D14CF1A.tmp,.tmp,90038,1,5120,1,.\Windows\Temp,31884382352,2026-03-11 00:06:10.4473621,DataExtend|FileCreate|Close,Archive,0x00143D80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+6D14CF1A.tmp,.tmp,90038,1,5120,1,.\Windows\Temp,31884382464,2026-03-11 00:06:27.7183192,FileDelete|Close,Archive|Temporary,0x00143DF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D4638F8A.tmp,.tmp,90032,1,5120,1,.\Windows\Temp,31884382576,2026-03-11 00:09:15.0398808,FileCreate,Archive,0x00143E60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D4638F8A.tmp,.tmp,90032,1,5120,1,.\Windows\Temp,31884382688,2026-03-11 00:09:15.0400008,DataExtend|FileCreate,Archive,0x00143ED0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D4638F8A.tmp,.tmp,90032,1,5120,1,.\Windows\Temp,31884382800,2026-03-11 00:09:15.0401208,DataExtend|FileCreate|Close,Archive,0x00143F40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D4638F8A.tmp,.tmp,90032,1,5120,1,.\Windows\Temp,31884382912,2026-03-11 00:10:05.8003588,FileDelete|Close,Archive|Temporary,0x00143FB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884383024,2026-03-11 00:12:35.1305235,DataExtend,Archive,0x00144020,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884383200,2026-03-11 00:12:35.1306035,DataExtend|Close,Archive,0x001440D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884383376,2026-03-11 00:15:55.8491403,DataExtend,Archive,0x00144180,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884383504,2026-03-11 00:15:55.8492203,DataExtend|Close,Archive,0x00144200,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A1D8BA89.tmp,.tmp,90036,1,5120,1,.\Windows\Temp,31884383632,2026-03-11 00:16:10.1987368,FileCreate,Archive,0x00144280,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A1D8BA89.tmp,.tmp,90036,1,5120,1,.\Windows\Temp,31884383744,2026-03-11 00:16:10.1988568,DataExtend|FileCreate,Archive,0x001442F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A1D8BA89.tmp,.tmp,90036,1,5120,1,.\Windows\Temp,31884383856,2026-03-11 00:16:10.1989768,DataExtend|FileCreate|Close,Archive,0x00144360,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+A1D8BA89.tmp,.tmp,90036,1,5120,1,.\Windows\Temp,31884383968,2026-03-11 00:16:35.2527195,FileDelete|Close,Archive|Temporary,0x001443D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884384080,2026-03-11 00:16:42.8430346,DataExtend,Archive,0x00144440,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884384192,2026-03-11 00:16:42.8431146,DataExtend|Close,Archive,0x001444B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884384304,2026-03-11 00:21:07.2047373,DataExtend,Archive,0x00144520,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884384480,2026-03-11 00:21:07.2048173,DataExtend|Close,Archive,0x001445D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884384656,2026-03-11 00:24:12.5793035,DataExtend,Archive,0x00144680,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884384768,2026-03-11 00:24:12.5793835,DataExtend|Close,Archive,0x001446F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884384880,2026-03-11 00:25:34.2779733,DataExtend,Archive,0x00144760,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884384992,2026-03-11 00:25:34.2780533,DataExtend|Close,Archive,0x001447D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884385104,2026-03-11 00:30:29.3150197,DataExtend,Archive,0x00144840,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884385280,2026-03-11 00:30:29.3150997,DataExtend|Close,Archive,0x001448F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D5501D49.tmp,.tmp,90018,1,5120,1,.\Windows\Temp,31884385456,2026-03-11 00:31:39.1571788,FileCreate,Archive,0x001449A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D5501D49.tmp,.tmp,90018,1,5120,1,.\Windows\Temp,31884385568,2026-03-11 00:31:39.1572988,DataExtend|FileCreate,Archive,0x00144A10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D5501D49.tmp,.tmp,90018,1,5120,1,.\Windows\Temp,31884385680,2026-03-11 00:31:39.1574188,DataExtend|FileCreate|Close,Archive,0x00144A80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D5501D49.tmp,.tmp,90018,1,5120,1,.\Windows\Temp,31884385792,2026-03-11 00:32:07.1486246,FileDelete|Close,Archive|Temporary,0x00144AF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884385904,2026-03-11 00:32:36.1545586,DataExtend,Archive,0x00144B60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884386032,2026-03-11 00:32:36.1546386,DataExtend|Close,Archive,0x00144BE0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D950A40F.tmp,.tmp,90023,1,5120,1,.\Windows\Temp,31884386160,2026-03-11 00:32:43.3750730,FileCreate,Archive,0x00144C60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D950A40F.tmp,.tmp,90023,1,5120,1,.\Windows\Temp,31884386272,2026-03-11 00:32:43.3751930,DataExtend|FileCreate,Archive,0x00144CD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D950A40F.tmp,.tmp,90023,1,5120,1,.\Windows\Temp,31884386384,2026-03-11 00:32:43.3753130,DataExtend|FileCreate|Close,Archive,0x00144D40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884386496,2026-03-11 00:32:55.1412606,DataExtend,Archive,0x00144DB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884386600,2026-03-11 00:32:55.1413406,DataExtend|Close,Archive,0x00144E18,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+D950A40F.tmp,.tmp,90023,1,5120,1,.\Windows\Temp,31884386704,2026-03-11 00:33:26.4367831,FileDelete|Close,Archive|Temporary,0x00144E80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884386816,2026-03-11 00:34:12.5822226,DataExtend,Archive,0x00144EF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884386928,2026-03-11 00:34:12.5823026,DataExtend|Close,Archive,0x00144F60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884387040,2026-03-11 00:38:51.3382024,DataExtend,Archive,0x00144FD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884387216,2026-03-11 00:38:51.3382824,DataExtend|Close,Archive,0x00145080,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884387392,2026-03-11 00:44:53.9180924,DataExtend,Archive,0x00145130,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884387520,2026-03-11 00:44:53.9181724,DataExtend|Close,Archive,0x001451B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884387648,2026-03-11 00:45:18.0145031,DataExtend,Archive,0x00145230,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884387760,2026-03-11 00:45:18.0145831,DataExtend|Close,Archive,0x001452A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884387872,2026-03-11 00:48:02.6063030,DataExtend,Archive,0x00145310,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884388048,2026-03-11 00:48:02.6063830,DataExtend|Close,Archive,0x001453C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884388224,2026-03-11 00:56:18.3848351,DataExtend,Archive,0x00145470,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884388336,2026-03-11 00:56:18.3849151,DataExtend|Close,Archive,0x001454E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884388448,2026-03-11 00:56:58.8752897,DataExtend,Archive,0x00145550,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884388624,2026-03-11 00:56:58.8753697,DataExtend|Close,Archive,0x00145600,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884388800,2026-03-11 00:58:38.3366138,DataExtend,Archive,0x001456B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884389032,2026-03-11 00:58:38.3366938,DataExtend|Close,Archive,0x00145798,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884389264,2026-03-11 01:03:07.2786239,DataExtend,Archive,0x00145880,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884389376,2026-03-11 01:03:07.2787039,DataExtend|Close,Archive,0x001458F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884389488,2026-03-11 01:03:35.9705052,DataExtend,Archive,0x00145960,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884389616,2026-03-11 01:03:35.9705852,DataExtend|Close,Archive,0x001459E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884389744,2026-03-11 01:04:24.7426957,DataExtend,Archive,0x00145A60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884389856,2026-03-11 01:04:24.7427757,DataExtend|Close,Archive,0x00145AD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884389968,2026-03-11 01:06:00.3743509,DataExtend,Archive,0x00145B40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884390144,2026-03-11 01:06:00.3744309,DataExtend|Close,Archive,0x00145BF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+1BCD43FE.tmp,.tmp,90030,1,5120,1,.\Windows\Temp,31884390320,2026-03-11 01:06:37.0844159,FileCreate,Archive,0x00145CA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+1BCD43FE.tmp,.tmp,90030,1,5120,1,.\Windows\Temp,31884390432,2026-03-11 01:06:37.0845359,DataExtend|FileCreate,Archive,0x00145D10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+1BCD43FE.tmp,.tmp,90030,1,5120,1,.\Windows\Temp,31884390544,2026-03-11 01:06:37.0846559,DataExtend|FileCreate|Close,Archive,0x00145D80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+1BCD43FE.tmp,.tmp,90030,1,5120,1,.\Windows\Temp,31884390656,2026-03-11 01:07:21.0699187,FileDelete|Close,Archive|Temporary,0x00145DF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884390768,2026-03-11 01:11:27.4485430,DataExtend,Archive,0x00145E60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884390944,2026-03-11 01:11:27.4486230,DataExtend|Close,Archive,0x00145F10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884391120,2026-03-11 01:13:13.1196053,DataExtend,Archive,0x00145FC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884391232,2026-03-11 01:13:13.1196853,DataExtend|Close,Archive,0x00146030,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884391344,2026-03-11 01:17:31.3967163,DataExtend,Archive,0x001460A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884391520,2026-03-11 01:17:31.3967963,DataExtend|Close,Archive,0x00146150,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884391696,2026-03-11 01:19:36.2902827,DataExtend,Archive,0x00146200,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884391808,2026-03-11 01:19:36.2903627,DataExtend|Close,Archive,0x00146270,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884391920,2026-03-11 01:20:18.0705493,DataExtend,Archive,0x001462E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884392048,2026-03-11 01:20:18.0706293,DataExtend|Close,Archive,0x00146360,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884392176,2026-03-11 01:25:27.8923210,DataExtend,Archive,0x001463E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884392352,2026-03-11 01:25:27.8924010,DataExtend|Close,Archive,0x00146490,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884392528,2026-03-11 01:29:45.3441818,DataExtend,Archive,0x00146540,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884392640,2026-03-11 01:29:45.3442618,DataExtend|Close,Archive,0x001465B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884392752,2026-03-11 01:30:59.4598895,DataExtend,Archive,0x00146620,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884392864,2026-03-11 01:30:59.4599695,DataExtend|Close,Archive,0x00146690,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884392976,2026-03-11 01:32:41.9548089,DataExtend,Archive,0x00146700,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884393152,2026-03-11 01:32:41.9548889,DataExtend|Close,Archive,0x001467B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884393328,2026-03-11 01:37:23.3908760,DataExtend,Archive,0x00146860,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884393504,2026-03-11 01:37:23.3909560,DataExtend|Close,Archive,0x00146910,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884393680,2026-03-11 01:38:21.4564445,DataExtend,Archive,0x001469C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884393792,2026-03-11 01:38:21.4565245,DataExtend|Close,Archive,0x00146A30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884393904,2026-03-11 01:40:48.6033380,DataExtend,Archive,0x00146AA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884394032,2026-03-11 01:40:48.6034180,DataExtend|Close,Archive,0x00146B20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7BECD377.tmp,.tmp,90017,1,5120,1,.\Windows\Temp,31884394160,2026-03-11 01:41:23.4899019,FileCreate,Archive,0x00146BA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7BECD377.tmp,.tmp,90017,1,5120,1,.\Windows\Temp,31884394272,2026-03-11 01:41:23.4900219,DataExtend|FileCreate,Archive,0x00146C10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7BECD377.tmp,.tmp,90017,1,5120,1,.\Windows\Temp,31884394384,2026-03-11 01:41:23.4901419,DataExtend|FileCreate|Close,Archive,0x00146C80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+7BECD377.tmp,.tmp,90017,1,5120,1,.\Windows\Temp,31884394496,2026-03-11 01:42:04.3038835,FileDelete|Close,Archive|Temporary,0x00146CF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884394608,2026-03-11 01:43:01.6160038,DataExtend,Archive,0x00146D60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884394784,2026-03-11 01:43:01.6160838,DataExtend|Close,Archive,0x00146E10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884394960,2026-03-11 01:45:16.7077272,DataExtend,Archive,0x00146EC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884395072,2026-03-11 01:45:16.7078072,DataExtend|Close,Archive,0x00146F30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884395184,2026-03-11 01:47:44.5024761,DataExtend,Archive,0x00146FA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884395360,2026-03-11 01:47:44.5025561,DataExtend|Close,Archive,0x00147050,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B3948513.tmp,.tmp,90012,1,5120,1,.\Windows\Temp,31884395536,2026-03-11 01:48:18.1156067,FileCreate,Archive,0x00147100,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B3948513.tmp,.tmp,90012,1,5120,1,.\Windows\Temp,31884395648,2026-03-11 01:48:18.1157267,DataExtend|FileCreate,Archive,0x00147170,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B3948513.tmp,.tmp,90012,1,5120,1,.\Windows\Temp,31884395760,2026-03-11 01:48:18.1158467,DataExtend|FileCreate|Close,Archive,0x001471E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+B3948513.tmp,.tmp,90012,1,5120,1,.\Windows\Temp,31884395872,2026-03-11 01:48:38.0619208,FileDelete|Close,Archive|Temporary,0x00147250,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884395984,2026-03-11 01:52:12.8778715,DataExtend,Archive,0x001472C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884396160,2026-03-11 01:52:12.8779515,DataExtend|Close,Archive,0x00147370,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884396336,2026-03-11 01:56:36.8214936,DataExtend,Archive,0x00147420,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884396464,2026-03-11 01:56:36.8215736,DataExtend|Close,Archive,0x001474A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884396592,2026-03-11 01:57:46.9725705,DataExtend,Archive,0x00147520,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884396768,2026-03-11 01:57:46.9726505,DataExtend|Close,Archive,0x001475D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884396944,2026-03-11 01:57:55.9595797,DataExtend,Archive,0x00147680,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884397056,2026-03-11 01:57:55.9596597,DataExtend|Close,Archive,0x001476F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884397168,2026-03-11 01:57:57.9044788,DataExtend,Archive,0x00147760,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884397280,2026-03-11 01:57:57.9045588,DataExtend|Close,Archive,0x001477D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+NTUSER.DAT,.DAT,77306,4,77301,4,.\Users\j.pires,31884397392,2026-03-11 01:58:19.2294913,DataOverwrite|Close,Archive|Hidden,0x00147840,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884397504,2026-03-11 02:05:22.4893172,DataExtend,Archive,0x001478B0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884397680,2026-03-11 02:05:22.4893972,DataExtend|Close,Archive,0x00147960,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884397856,2026-03-11 02:08:50.3495821,DataExtend,Archive,0x00147A10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884397968,2026-03-11 02:08:50.3496621,DataExtend|Close,Archive,0x00147A80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884398080,2026-03-11 02:09:59.2753185,DataExtend,Archive,0x00147AF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884398256,2026-03-11 02:09:59.2753985,DataExtend|Close,Archive,0x00147BA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884398432,2026-03-11 02:11:07.8608980,DataExtend,Archive,0x00147C50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884398664,2026-03-11 02:11:07.8609780,DataExtend|Close,Archive,0x00147D38,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884398896,2026-03-11 02:13:53.7459648,DataExtend,Archive,0x00147E20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884399024,2026-03-11 02:13:53.7460448,DataExtend|Close,Archive,0x00147EA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884399152,2026-03-11 02:18:26.4069829,DataExtend,Archive,0x00147F20,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884399328,2026-03-11 02:18:26.4070629,DataExtend|Close,Archive,0x00147FD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884399504,2026-03-11 02:19:31.8460572,DataExtend,Archive,0x00148080,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884399616,2026-03-11 02:19:31.8461372,DataExtend|Close,Archive,0x001480F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884399728,2026-03-11 02:23:35.0909038,DataExtend,Archive,0x00148160,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884399904,2026-03-11 02:23:35.0909838,DataExtend|Close,Archive,0x00148210,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884400080,2026-03-11 02:24:02.7583897,DataExtend,Archive,0x001482C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884400208,2026-03-11 02:24:02.7584697,DataExtend|Close,Archive,0x00148340,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884400336,2026-03-11 02:28:08.8502226,DataExtend,Archive,0x001483C0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884400448,2026-03-11 02:28:08.8503026,DataExtend|Close,Archive,0x00148430,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884400560,2026-03-11 02:28:54.0341481,DataExtend,Archive,0x001484A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884400736,2026-03-11 02:28:54.0342281,DataExtend|Close,Archive,0x00148550,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+crs.exe,.exe,88219,3,88214,3,.\PerfLogs\Admin,31884400912,2026-03-11 02:31:52.6620918,FileCreate,Archive,0x00148600,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+crs.exe,.exe,88219,3,88214,3,.\PerfLogs\Admin,31884401016,2026-03-11 02:31:52.6622118,DataExtend|FileCreate,Archive,0x00148668,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+crs.exe,.exe,88219,3,88214,3,.\PerfLogs\Admin,31884401120,2026-03-11 02:31:52.6623318,DataExtend|FileCreate|BasicInfoChange,Archive,0x001486D0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+crs.exe,.exe,88219,3,88214,3,.\PerfLogs\Admin,31884401224,2026-03-11 02:31:52.6623818,DataExtend|FileCreate|BasicInfoChange|Close,Archive,0x00148738,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Admin.lnk,.lnk,88218,2,77310,4,.\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent,31884401328,2026-03-11 02:31:55.2771406,DataOverwrite,Archive,0x001487A0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Admin.lnk,.lnk,88218,2,77310,4,.\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent,31884401440,2026-03-11 02:31:55.2772606,DataOverwrite|BasicInfoChange|Close,Archive,0x00148810,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884401552,2026-03-11 02:34:02.2031176,DataExtend,Archive,0x00148880,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884401728,2026-03-11 02:34:02.2031976,DataExtend|Close,Archive,0x00148930,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884401904,2026-03-11 02:35:45.3775989,DataExtend,Archive,0x001489E0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884402016,2026-03-11 02:35:45.3776789,DataExtend|Close,Archive,0x00148A50,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+SYSTEM.LOG1,.LOG1,12801,1,12744,1,.\Windows\System32\config,31884402128,2026-03-11 02:36:15.3318220,DataOverwrite,Archive|Hidden|System,0x00148AC0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+SYSTEM.LOG1,.LOG1,12801,1,12744,1,.\Windows\System32\config,31884402240,2026-03-11 02:36:15.3402966,DataOverwrite|Close,Archive|Hidden|System,0x00148B30,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+BBF6F8AE.tmp,.tmp,90025,1,5120,1,.\Windows\Temp,31884402352,2026-03-11 02:37:00.0095359,FileCreate,Archive,0x00148BA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+BBF6F8AE.tmp,.tmp,90025,1,5120,1,.\Windows\Temp,31884402464,2026-03-11 02:37:00.0096559,DataExtend|FileCreate,Archive,0x00148C10,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+BBF6F8AE.tmp,.tmp,90025,1,5120,1,.\Windows\Temp,31884402576,2026-03-11 02:37:00.0097759,DataExtend|FileCreate|Close,Archive,0x00148C80,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+4782852B.tmp,.tmp,90002,1,5120,1,.\Windows\Temp,31884402688,2026-03-11 02:37:29.3730339,FileCreate,Archive,0x00148CF0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+4782852B.tmp,.tmp,90002,1,5120,1,.\Windows\Temp,31884402800,2026-03-11 02:37:29.3731539,DataExtend|FileCreate,Archive,0x00148D60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+4782852B.tmp,.tmp,90002,1,5120,1,.\Windows\Temp,31884402912,2026-03-11 02:37:29.3732739,DataExtend|FileCreate|Close,Archive,0x00148DD0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+BBF6F8AE.tmp,.tmp,90025,1,5120,1,.\Windows\Temp,31884403024,2026-03-11 02:37:32.7308039,FileDelete|Close,Archive|Temporary,0x00148E40,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+{a51bc3e2-9d1e-11f0-b8e2-00155d0a1414}{3808876b-c176-4e48-b7ae-04046e6cc752},,51102,7,39,1,.\System Volume Information,31884403136,2026-03-11 02:37:44.6115400,FileDelete|Close,Archive|Hidden|System,0x00148EB0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+{a51bc3f7-9d1e-11f0-b8e2-00155d0a1414}{3808876b-c176-4e48-b7ae-04046e6cc752},,51103,7,39,1,.\System Volume Information,31884403376,2026-03-11 02:37:44.6116300,FileDelete|Close,Archive|Hidden|System,0x00148FA0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+4782852B.tmp,.tmp,90002,1,5120,1,.\Windows\Temp,31884403616,2026-03-11 02:38:19.8219550,FileDelete|Close,Archive|Temporary,0x00149090,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Security.evtx,.evtx,12455,1,12390,1,.\Windows\System32\winevt\Logs,31884403728,2026-03-11 02:38:30.0512870,DataTruncation,Archive,0x00149100,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Security.evtx,.evtx,12455,1,12390,1,.\Windows\System32\winevt\Logs,31884403848,2026-03-11 02:38:30.0518331,DataTruncation|DataExtend,Archive,0x00149178,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Security.evtx,.evtx,12455,1,12390,1,.\Windows\System32\winevt\Logs,31884403968,2026-03-11 02:38:30.0601442,DataTruncation|DataExtend|Close,Archive,0x001491F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884404088,2026-03-11 02:39:27.2940663,DataExtend,Archive,0x00149268,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884404200,2026-03-11 02:39:27.2941463,DataExtend|Close,Archive,0x001492D8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884404312,2026-03-11 02:42:02.0759848,DataExtend,Archive,0x00149348,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884404488,2026-03-11 02:42:02.0760648,DataExtend|Close,Archive,0x001493F8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884404664,2026-03-11 02:43:05.9931442,DataExtend,Archive,0x001494A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884404792,2026-03-11 02:43:05.9932242,DataExtend|Close,Archive,0x00149528,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+CABF6620.tmp,.tmp,90037,1,5120,1,.\Windows\Temp,31884404920,2026-03-11 02:43:46.3751849,FileCreate,Archive,0x001495A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+CABF6620.tmp,.tmp,90037,1,5120,1,.\Windows\Temp,31884405032,2026-03-11 02:43:46.3753049,DataExtend|FileCreate,Archive,0x00149618,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+CABF6620.tmp,.tmp,90037,1,5120,1,.\Windows\Temp,31884405144,2026-03-11 02:43:46.3754249,DataExtend|FileCreate|Close,Archive,0x00149688,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+CABF6620.tmp,.tmp,90037,1,5120,1,.\Windows\Temp,31884405256,2026-03-11 02:43:54.0718436,FileDelete|Close,Archive|Temporary,0x001496F8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884405368,2026-03-11 02:47:29.8660776,DataExtend,Archive,0x00149768,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884405480,2026-03-11 02:47:29.8661576,DataExtend|Close,Archive,0x001497D8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884405592,2026-03-11 02:49:39.2861892,DataExtend,Archive,0x00149848,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884405768,2026-03-11 02:49:39.2862692,DataExtend|Close,Archive,0x001498F8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884405944,2026-03-11 02:52:53.7856359,DataExtend,Archive,0x001499A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884406072,2026-03-11 02:52:53.7857159,DataExtend|Close,Archive,0x00149A28,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884406200,2026-03-11 02:55:23.8023483,DataExtend,Archive,0x00149AA8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884406376,2026-03-11 02:55:23.8024283,DataExtend|Close,Archive,0x00149B58,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884406552,2026-03-11 02:58:06.6574548,DataExtend,Archive,0x00149C08,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884406664,2026-03-11 02:58:06.6575348,DataExtend|Close,Archive,0x00149C78,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884406776,2026-03-11 02:59:53.6871375,DataExtend,Archive,0x00149CE8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884406952,2026-03-11 02:59:53.6872175,DataExtend|Close,Archive,0x00149D98,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884407128,2026-03-11 03:04:57.0182680,DataExtend,Archive,0x00149E48,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884407304,2026-03-11 03:04:57.0183480,DataExtend|Close,Archive,0x00149EF8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884407480,2026-03-11 03:06:31.1831552,DataExtend,Archive,0x00149FA8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884407608,2026-03-11 03:06:31.1832352,DataExtend|Close,Archive,0x0014A028,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884407736,2026-03-11 03:09:49.5870307,DataExtend,Archive,0x0014A0A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884407848,2026-03-11 03:09:49.5871107,DataExtend|Close,Archive,0x0014A118,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884407960,2026-03-11 03:11:07.1995867,DataExtend,Archive,0x0014A188,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+edb.log,.log,22870,5,22861,1,.\Windows\SoftwareDistribution\DataStore\Logs,31884408064,2026-03-11 03:11:07.1996667,DataExtend|Close,Archive,0x0014A1F0,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884408168,2026-03-11 03:14:26.8702819,DataExtend,Archive,0x0014A258,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884408344,2026-03-11 03:14:26.8703619,DataExtend|Close,Archive,0x0014A308,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884408520,2026-03-11 03:18:00.1103147,DataExtend,Archive,0x0014A3B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884408648,2026-03-11 03:18:00.1103947,DataExtend|Close,Archive,0x0014A438,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884408776,2026-03-11 03:18:37.7454792,DataExtend,Archive,0x0014A4B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884408888,2026-03-11 03:18:37.7455592,DataExtend|Close,Archive,0x0014A528,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884409000,2026-03-11 03:19:08.4579184,DataExtend,Archive,0x0014A598,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884409176,2026-03-11 03:19:08.4579984,DataExtend|Close,Archive,0x0014A648,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884409352,2026-03-11 03:20:41.1024494,DataExtend,Archive,0x0014A6F8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884409464,2026-03-11 03:20:41.1025294,DataExtend|Close,Archive,0x0014A768,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884409576,2026-03-11 03:25:02.8017291,DataExtend,Archive,0x0014A7D8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884409752,2026-03-11 03:25:02.8018091,DataExtend|Close,Archive,0x0014A888,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884409928,2026-03-11 03:29:40.1429376,DataExtend,Archive,0x0014A938,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884410056,2026-03-11 03:29:40.1430176,DataExtend|Close,Archive,0x0014A9B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884410184,2026-03-11 03:32:27.8492021,DataExtend,Archive,0x0014AA38,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884410296,2026-03-11 03:32:27.8492821,DataExtend|Close,Archive,0x0014AAA8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884410408,2026-03-11 03:34:17.5515144,DataExtend,Archive,0x0014AB18,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884410584,2026-03-11 03:34:17.5515944,DataExtend|Close,Archive,0x0014ABC8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884410760,2026-03-11 03:35:24.2166724,DataExtend,Archive,0x0014AC78,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,.evtx,12612,1,12390,1,.\Windows\System32\winevt\Logs,31884410992,2026-03-11 03:35:24.2167524,DataExtend|Close,Archive,0x0014AD60,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884411224,2026-03-11 03:38:43.7381492,DataExtend,Archive,0x0014AE48,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884411352,2026-03-11 03:38:43.7382292,DataExtend|Close,Archive,0x0014AEC8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884411480,2026-03-11 03:39:53.1353738,DataExtend,Archive,0x0014AF48,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884411656,2026-03-11 03:39:53.1354538,DataExtend|Close,Archive,0x0014AFF8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884411832,2026-03-11 03:44:53.9781904,DataExtend,Archive,0x0014B0A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884411944,2026-03-11 03:44:53.9782704,DataExtend|Close,Archive,0x0014B118,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884412056,2026-03-11 03:44:56.0137255,DataExtend,Archive,0x0014B188,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884412232,2026-03-11 03:44:56.0138055,DataExtend|Close,Archive,0x0014B238,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884412408,2026-03-11 03:45:30.2086446,DataExtend,Archive,0x0014B2E8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884412520,2026-03-11 03:45:30.2087246,DataExtend|Close,Archive,0x0014B358,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884412632,2026-03-11 03:50:10.3463866,DataExtend,Archive,0x0014B3C8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884412808,2026-03-11 03:50:10.3464666,DataExtend|Close,Archive,0x0014B478,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884412984,2026-03-11 03:51:53.3703852,DataExtend,Archive,0x0014B528,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884413112,2026-03-11 03:51:53.3704652,DataExtend|Close,Archive,0x0014B5A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+SYSTEM.LOG1,.LOG1,12801,1,12744,1,.\Windows\System32\config,31884413240,2026-03-11 03:52:10.4480113,DataOverwrite,Archive|Hidden|System,0x0014B628,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+SYSTEM.LOG1,.LOG1,12801,1,12744,1,.\Windows\System32\config,31884413352,2026-03-11 03:52:10.4490870,DataOverwrite|Close,Archive|Hidden|System,0x0014B698,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884413464,2026-03-11 03:53:47.1538475,DataExtend,Archive,0x0014B708,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884413576,2026-03-11 03:53:47.1539275,DataExtend|Close,Archive,0x0014B778,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884413688,2026-03-11 03:59:16.9816730,DataExtend,Archive,0x0014B7E8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884413864,2026-03-11 03:59:16.9817530,DataExtend|Close,Archive,0x0014B898,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884414040,2026-03-11 04:01:10.0992773,DataExtend,Archive,0x0014B948,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884414152,2026-03-11 04:01:10.0993573,DataExtend|Close,Archive,0x0014B9B8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884414264,2026-03-11 04:05:42.7180009,DataExtend,Archive,0x0014BA28,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+System.evtx,.evtx,12451,1,12390,1,.\Windows\System32\winevt\Logs,31884414376,2026-03-11 04:05:42.7180809,DataExtend|Close,Archive,0x0014BA98,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884414488,2026-03-11 04:08:25.0317422,DataExtend,Archive,0x0014BB08,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884414664,2026-03-11 04:08:25.0318222,DataExtend|Close,Archive,0x0014BBB8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884414840,2026-03-11 04:11:16.8949431,DataExtend,Archive,0x0014BC68,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884414952,2026-03-11 04:11:16.8950231,DataExtend|Close,Archive,0x0014BCD8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884415064,2026-03-11 04:11:53.7391906,DataExtend,Archive,0x0014BD48,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884415192,2026-03-11 04:11:53.7392706,DataExtend|Close,Archive,0x0014BDC8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884415320,2026-03-11 04:12:41.5701238,DataExtend,Archive,0x0014BE48,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884415496,2026-03-11 04:12:41.5702038,DataExtend|Close,Archive,0x0014BEF8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884415672,2026-03-11 04:17:16.1131458,DataExtend,Archive,0x0014BFA8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884415784,2026-03-11 04:17:16.1132258,DataExtend|Close,Archive,0x0014C018,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884415896,2026-03-11 04:19:53.9065161,DataExtend,Archive,0x0014C088,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884416072,2026-03-11 04:19:53.9065961,DataExtend|Close,Archive,0x0014C138,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884416248,2026-03-11 04:25:15.8652563,DataExtend,Archive,0x0014C1E8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+ossec.log,.log,60211,2,60198,2,.\Program Files (x86)\ossec-agent,31884416360,2026-03-11 04:25:15.8653363,DataExtend|Close,Archive,0x0014C258,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884416472,2026-03-11 04:25:45.3250467,DataExtend,Archive,0x0014C2C8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+Microsoft-Windows-Sysmon%4Operational.evtx,.evtx,14002,1,12390,1,.\Windows\System32\winevt\Logs,31884416648,2026-03-11 04:25:45.3251267,DataExtend|Close,Archive,0x0014C378,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884416824,2026-03-11 04:26:55.2013714,DataExtend,Archive,0x0014C428,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J
+wazuh-agent.state,.state,60230,2,60198,2,.\Program Files (x86)\ossec-agent,31884416952,2026-03-11 04:26:55.2014514,DataExtend|Close,Archive,0x0014C4A8,F:\FDFIR\INC-2026-007\FS01\C\$Extend\$J

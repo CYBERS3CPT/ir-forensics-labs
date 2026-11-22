@@ -1,0 +1,27 @@
+title: RDP logon (type 10) to a server
+id: s04-sec-rdp-type10-server
+status: test
+description: |
+  Logon type 10 is RemoteInteractive. On a server it is an admin session:
+  expected from admin workstations, worth a look from anywhere else.
+references:
+  - https://attack.mitre.org/techniques/T1021/001/
+tags:
+  - attack.lateral-movement
+  - attack.t1021.001
+logsource:
+  product: windows
+  service: security
+detection:
+  selection:
+    EventID: 4624
+    LogonType: 10
+  selection_server:
+    Computer|startswith:
+      - 'FS'
+      - 'DC'
+      - 'SRV'
+  condition: selection and selection_server
+falsepositives:
+  - Administrators from their admin workstations
+level: medium

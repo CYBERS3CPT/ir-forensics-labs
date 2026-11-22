@@ -1,0 +1,55 @@
+Mar 11 00:17:01 SRV-BKP01 CRON[217356]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 00:38:53 SRV-BKP01 systemd[1]: Starting Rotate log files...
+Mar 11 00:39:00 SRV-BKP01 systemd[1]: logrotate.service: Deactivated successfully.
+Mar 11 00:39:17 SRV-BKP01 systemd[1]: Finished Rotate log files.
+Mar 11 01:17:01 SRV-BKP01 CRON[218256]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 01:30:00 SRV-BKP01 systemd[1]: Starting restic backup of FS01 and DC01...
+Mar 11 01:30:02 SRV-BKP01 restic-backup.sh[218450]: mounting //10.20.10.20/Finance,HR,Logistica read-only on /mnt/fs01
+Mar 11 01:42:05 SRV-BKP01 restic-backup.sh[218450]: fs01: snapshot f2c84b53 saved
+Mar 11 01:45:27 SRV-BKP01 restic-backup.sh[218450]: dc01: snapshot bcf54fbd saved
+Mar 11 01:45:30 SRV-BKP01 systemd[1]: restic-backup.service: Deactivated successfully.
+Mar 11 01:45:30 SRV-BKP01 systemd[1]: Finished restic backup of FS01 and DC01.
+Mar 11 01:45:30 SRV-BKP01 systemd[1]: restic-backup.service: Consumed 9min 10.524s CPU time.
+Mar 11 02:10:05 SRV-BKP01 systemd[1]: Created slice User Slice of UID 1001.
+Mar 11 02:10:05 SRV-BKP01 systemd[1]: Starting User Runtime Directory /run/user/1001...
+Mar 11 02:10:05 SRV-BKP01 systemd[1]: Finished User Runtime Directory /run/user/1001.
+Mar 11 02:10:05 SRV-BKP01 systemd[1]: Starting User Manager for UID 1001...
+Mar 11 02:10:05 SRV-BKP01 systemd[1]: Started User Manager for UID 1001.
+Mar 11 02:10:05 SRV-BKP01 systemd[1]: Started Session 87 of User bkpadmin.
+Mar 11 02:12:55 SRV-BKP01 systemd[1]: restic-backup.timer: Deactivated successfully.
+Mar 11 02:12:55 SRV-BKP01 systemd[1]: Stopped Daily restic backup (FS01, DC01).
+Mar 11 02:13:10 SRV-BKP01 systemd[1]: Reloading.
+Mar 11 02:15:41 SRV-BKP01 crontab[219135]: (bkpadmin) DELETE (bkpadmin)
+Mar 11 02:17:01 SRV-BKP01 CRON[219156]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 02:17:02 SRV-BKP01 systemd[1]: session-87.scope: Deactivated successfully.
+Mar 11 02:17:12 SRV-BKP01 systemd[1]: Stopping User Manager for UID 1001...
+Mar 11 02:17:12 SRV-BKP01 systemd[1]: user@1001.service: Deactivated successfully.
+Mar 11 02:17:12 SRV-BKP01 systemd[1]: Stopped User Manager for UID 1001.
+Mar 11 02:17:12 SRV-BKP01 systemd[1]: Removed slice User Slice of UID 1001.
+Mar 11 03:17:01 SRV-BKP01 CRON[220056]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 04:17:01 SRV-BKP01 CRON[220956]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 05:17:01 SRV-BKP01 CRON[221856]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 06:17:01 SRV-BKP01 CRON[222756]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 06:25:01 SRV-BKP01 CRON[222876]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Mar 11 06:26:34 SRV-BKP01 systemd[1]: Starting Daily apt upgrade and clean activities...
+Mar 11 06:26:51 SRV-BKP01 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+Mar 11 06:26:57 SRV-BKP01 systemd[1]: Finished Daily apt upgrade and clean activities.
+Mar 11 07:17:01 SRV-BKP01 CRON[223656]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 08:17:01 SRV-BKP01 CRON[224556]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 09:17:01 SRV-BKP01 CRON[225456]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 09:49:45 SRV-BKP01 systemd[1]: Starting Message of the Day...
+Mar 11 09:49:52 SRV-BKP01 systemd[1]: motd-news.service: Deactivated successfully.
+Mar 11 09:50:07 SRV-BKP01 systemd[1]: Finished Message of the Day.
+Mar 11 10:17:01 SRV-BKP01 CRON[226356]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 11:17:01 SRV-BKP01 CRON[227256]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 12:17:01 SRV-BKP01 CRON[228156]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 13:17:01 SRV-BKP01 CRON[229056]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 14:12:17 SRV-BKP01 systemd[1]: Starting Cleanup of Temporary Directories...
+Mar 11 14:12:30 SRV-BKP01 systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+Mar 11 14:12:37 SRV-BKP01 systemd[1]: Finished Cleanup of Temporary Directories.
+Mar 11 14:17:01 SRV-BKP01 CRON[229956]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 11 14:55:10 SRV-BKP01 systemd[1]: Created slice User Slice of UID 1003.
+Mar 11 14:55:10 SRV-BKP01 systemd[1]: Starting User Runtime Directory /run/user/1003...
+Mar 11 14:55:10 SRV-BKP01 systemd[1]: Finished User Runtime Directory /run/user/1003.
+Mar 11 14:55:10 SRV-BKP01 systemd[1]: Starting User Manager for UID 1003...
+Mar 11 14:55:10 SRV-BKP01 systemd[1]: Started User Manager for UID 1003.

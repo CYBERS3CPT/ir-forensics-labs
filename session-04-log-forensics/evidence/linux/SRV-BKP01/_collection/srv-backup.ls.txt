@@ -1,0 +1,21 @@
+$ sudo ls -la --time-style=full-iso /srv/backup /srv/backup/fs01 /srv/backup/dc01
+/srv/backup:
+total 16
+drwxr-x---  4 bkpadmin backupops 4096 2026-02-12 10:38:52.118402211 +0000 .
+drwxr-xr-x  3 root     root      4096 2026-02-12 10:31:07.502113870 +0000 ..
+drwxr-x---  2 bkpadmin backupops 4096 2026-03-11 02:15:09.774310552 +0000 dc01
+drwxr-x---  2 bkpadmin backupops 4096 2026-03-11 02:14:31.408877123 +0000 fs01
+
+/srv/backup/fs01:
+total 8
+drwxr-x--- 2 bkpadmin backupops 4096 2026-03-11 02:14:31.408877123 +0000 .
+drwxr-x--- 4 bkpadmin backupops 4096 2026-02-12 10:38:52.118402211 +0000 ..
+
+/srv/backup/dc01:
+total 8
+drwxr-x--- 2 bkpadmin backupops 4096 2026-03-11 02:15:09.774310552 +0000 .
+drwxr-x--- 4 bkpadmin backupops 4096 2026-02-12 10:38:52.118402211 +0000 ..
+
+$ sudo df -h /srv/backup
+Filesystem                 Size  Used Avail Use% Mounted on
+/dev/mapper/vg_backup-srv  4.0T   28M  3.8T   1% /srv/backup

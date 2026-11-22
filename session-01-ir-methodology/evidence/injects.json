@@ -1,0 +1,117 @@
+{
+  "case": "Ceres Alimentar, S.A.",
+  "incident": "INC-2026-007",
+  "scenario_start_utc": "2026-03-11T07:50:00Z",
+  "scenario_end_utc": "2026-03-11T12:00:00Z",
+  "clock_note": "Scenario time is UTC (Portugal is on WET = UTC+0 in March).",
+  "injects": [
+    {
+      "id": "I01",
+      "time_utc": "2026-03-11T07:55:40Z",
+      "from": "Helpdesk queue",
+      "channel": "ticket",
+      "title": "HD-4490: the delivery schedule will not open",
+      "text": "Carlos Mendes, shift supervisor at Carregado, opens HD-4490: he cannot open Plano_Entregas_S11.xlsx on \\\\FS01\\Logistica. 'Excel diz que o ficheiro está corrompido.' Trucks start loading at 09:00.",
+      "prompt": "What do you do with this ticket, and who does it?"
+    },
+    {
+      "id": "I02",
+      "time_utc": "2026-03-11T08:20:00Z",
+      "from": "João Pires",
+      "channel": "phone call",
+      "title": "Files renamed .crs3 on three shares",
+      "text": "João Pires calls Rui Calado: every folder he opened on Logistica, Finance and HR has files ending in .crs3 and a LEIA-ME_CRS3.txt. HD-4491 (Finance) and HD-4492 (HR) came in meanwhile. FS01 is still on the network and users keep trying to open files.",
+      "prompt": "Is this an incident? Who declares it, at what time? Who is incident manager, who is scribe?"
+    },
+    {
+      "id": "I03",
+      "time_utc": "2026-03-11T08:35:00Z",
+      "from": "João Pires",
+      "channel": "chat",
+      "title": "The ransom note",
+      "text": "João Pires pastes the content of LEIA-ME_CRS3.txt into the incident chat (evidence/ransom-note.txt). He also says: 'Shall I pull FS01's power cable? That stops it for sure.'",
+      "prompt": "Containment of FS01: what exactly do you do, who authorises it, what does it cost, and what do you preserve first?"
+    },
+    {
+      "id": "I04",
+      "time_utc": "2026-03-11T08:55:00Z",
+      "from": "Paulo Ramos",
+      "channel": "phone call",
+      "title": "Logistics cannot dispatch",
+      "text": "Paulo Ramos (Logistics director): 'Trucks leave Carregado at 10:00 for 140 stores. Without the schedules we are blind. I need FS01 back by 09:30, or at least the schedules.'",
+      "prompt": "What business workaround do you authorise, and who owns it? What do you tell him about FS01?"
+    },
+    {
+      "id": "I05",
+      "time_utc": "2026-03-11T09:05:00Z",
+      "from": "Ana Fonseca",
+      "channel": "Teams message",
+      "title": "The DPO asks",
+      "text": "Ana Fonseca (DPO): 'The HR share has payroll, IBAN and NIF of every employee, and some medical certificates. Is this a personal data breach? When did our 72 hours start? Who decides whether we notify the CNPD?'",
+      "prompt": "Answer her three questions. Record the 'aware' time you are using and why."
+    },
+    {
+      "id": "I06",
+      "time_utc": "2026-03-11T09:30:00Z",
+      "from": "João Pires",
+      "channel": "phone call",
+      "title": "The backups are gone",
+      "text": "João Pires: 'SRV-BKP01: /srv/backup/fs01 and /srv/backup/dc01 are empty. The restic timer is disabled. The last thing we have is the monthly tape from 1 March, in the Carregado safe.'",
+      "prompt": "What do you do with SRV-BKP01, and with the tape? Who owns each?"
+    },
+    {
+      "id": "I07",
+      "time_utc": "2026-03-11T09:50:00Z",
+      "from": "Sofia Teixeira",
+      "channel": "Teams message",
+      "title": "'Let me wipe FS01 now'",
+      "text": "Sofia Teixeira: 'FS01 is dead anyway. Let me wipe it now and restore the 1 March tape, we would be back by tonight. Every hour we wait costs Logistics.'",
+      "prompt": "Do you authorise it? If not now, what has to happen first, and who decides when?"
+    },
+    {
+      "id": "I08",
+      "time_utc": "2026-03-11T10:15:00Z",
+      "from": "Mútua Atlântica Seguros (fictional)",
+      "channel": "phone call",
+      "title": "The insurer",
+      "text": "The broker for Mútua Atlântica Seguros (fictional) calls back the CFO: the policy (CYB-2025-004417) requires written notice within 48 h and the use of the panel firm Faroleiro DFIR, Lda. (fictional). 'Do not talk to the attackers before you talk to us. Have you notified anyone yet?'",
+      "prompt": "Who notifies the insurer, when, and what do you send? What other clocks are running right now?"
+    },
+    {
+      "id": "I09",
+      "time_utc": "2026-03-11T10:30:00Z",
+      "from": "Negotiation portal",
+      "channel": "screenshot",
+      "title": "The leak threat",
+      "text": "Someone in Finance opened the portal from the note. The chat says: 'We have 2.1 GB of your Finance and HR. Sample attached: Processamento_Salarios_2026-02.xlsx, IBAN_Fornecedores.xlsx. Pay EUR 450 000 in 5 days or everything goes on our blog.'",
+      "prompt": "What does this change for GDPR (arts. 33/34), for NIS2, and for your communications? Who opened the portal, from which machine, and should they have?"
+    },
+    {
+      "id": "I10",
+      "time_utc": "2026-03-11T10:50:00Z",
+      "from": "Luís Moreira",
+      "channel": "meeting",
+      "title": "The CFO wants to pay",
+      "text": "Luís Moreira (CFO): 'The insurance covers it. Let us pay today and get the decryptor: every day without deliveries costs more than that.'",
+      "prompt": "Who has the authority to decide on payment? What must be true before anyone could even consider it?"
+    },
+    {
+      "id": "I11",
+      "time_utc": "2026-03-11T11:20:00Z",
+      "from": "Journalist",
+      "channel": "phone call to reception",
+      "title": "A journalist calls",
+      "text": "A reporter from Diário do Norte (fictional) calls reception: supermarkets in Porto say Ceres deliveries did not arrive, and a post on a ransomware forum names Ceres. 'Can you confirm a cyberattack?'",
+      "prompt": "Who answers, and with what words? Write the holding statement (three sentences maximum)."
+    },
+    {
+      "id": "I12",
+      "time_utc": "2026-03-11T11:40:00Z",
+      "from": "João Pires",
+      "channel": "Teams message",
+      "title": "'That was not me'",
+      "text": "João Pires: 'FS01's TerminalServices log shows RDP sessions as CERES\\j.pires from 10.20.30.47 — that is Marta's PC, WS-FIN-07. I was not connected. And I am a Domain Admin.'",
+      "prompt": "What does this change: scope, containment, accounts, and who is on the response team?"
+    }
+  ]
+}

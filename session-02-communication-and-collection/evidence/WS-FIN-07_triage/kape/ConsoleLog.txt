@@ -1,0 +1,20 @@
+2026-03-11 12:19:08.0000 | INF | KAPE version 1.3.0.2
+2026-03-11 12:19:08.2272 | INF | Command line: --tsource C: --tdest E:\EXH-WSFIN07-01\tout --tflush --target !SANS_Triage --msource E:\EXH-WSFIN07-01\tout --mdest E:\EXH-WSFIN07-01\mout --module !EZParser --gui
+2026-03-11 12:19:08.7257 | INF | System info: Machine name: WS-FIN-07, 64-bit: True, User: ir-local, OS: Windows 11 Pro (10.0.26100)
+2026-03-11 12:19:09.5979 | INF | Using Target operations
+2026-03-11 12:19:10.4686 | INF | Found 18 targets. Expanding targets to file list...
+2026-03-11 12:20:17.1423 | INF | Found 6,912 files in 67.9 seconds. Beginning copy...
+2026-03-11 12:21:39.1122 | INF | Deferring 'C:\$MFT' due to IOException...
+2026-03-11 12:21:40.4031 | INF | Deferring 'C:\Users\m.antunes\NTUSER.DAT' due to IOException...
+2026-03-11 12:28:18.8486 | INF | Deferred file count: 41. Copying locked files...
+2026-03-11 12:28:27.1472 | INF | Copied 6,912 (Deferred: 41) files in 557.4 seconds. Total size: 1.87 GB
+2026-03-11 12:28:35.8319 | INF | Using Module operations
+2026-03-11 12:28:42.5167 | INF | Running PECmd.exe: -d E:\EXH-WSFIN07-01\tout\C\Windows\prefetch --csv E:\EXH-WSFIN07-01\mout\ProgramExecution
+2026-03-11 12:30:17.0857 | INF | Running AmcacheParser.exe: -f E:\EXH-WSFIN07-01\tout\C\Windows\AppCompat\Programs\Amcache.hve -i --csv E:\EXH-WSFIN07-01\mout\ProgramExecution
+2026-03-11 12:30:52.5672 | INF | Running AppCompatCacheParser.exe: -f E:\EXH-WSFIN07-01\tout\C\Windows\System32\config\SYSTEM --csv E:\EXH-WSFIN07-01\mout\ProgramExecution
+2026-03-11 12:31:39.1833 | INF | Running LECmd.exe: -d E:\EXH-WSFIN07-01\tout\C --csv E:\EXH-WSFIN07-01\mout\FileFolderAccess -q
+2026-03-11 12:34:07.0977 | INF | Running RECmd.exe: -d E:\EXH-WSFIN07-01\tout\C --bn BatchExamples\Kroll_Batch.reb --nl false --csv E:\EXH-WSFIN07-01\mout\Registry
+2026-03-11 12:36:25.0732 | INF | Running MFTECmd.exe: -f E:\EXH-WSFIN07-01\tout\C\$MFT --csv E:\EXH-WSFIN07-01\mout\FileSystem
+2026-03-11 12:40:57.1736 | INF | Running MFTECmd.exe: -f E:\EXH-WSFIN07-01\tout\C\$Extend\$J -m E:\EXH-WSFIN07-01\tout\C\$MFT --csv E:\EXH-WSFIN07-01\mout\FileSystem
+2026-03-11 12:44:08.2658 | INF | Executed 7 processors in 932.6 seconds
+2026-03-11 12:44:08.4262 | INF | Total execution time: 1500.4 seconds

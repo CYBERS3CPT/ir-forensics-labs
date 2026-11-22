@@ -1,0 +1,8 @@
+Exhibit      EXH-BKP01-01
+Host         SRV-BKP01 (10.20.10.30), Ubuntu 22.04.4 LTS
+Collected by s.teixeira, local console (tty1), 2026-03-11 14:55 - 15:02 UTC
+Method       live: sudo tar of /var/log /etc /home /root /var/spool/cron to USB (EXH-BKP01-01),
+             plus the command outputs in this folder, captured to the USB with `script`.
+Not taken    memory; a disk image (the server stays up until the restore plan exists).
+Note         the files in var/log are as found. wtmp and btmp are binary (glibc x86_64 utmp).
+             syslog-format logs carry no year and no time zone: see timedatectl.txt.

@@ -1,0 +1,280 @@
+Mar  8 00:17:01 SRV-BKP01 CRON[152555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 00:17:03 SRV-BKP01 CRON[152555]: pam_unix(cron:session): session closed for user root
+Mar  8 01:17:01 SRV-BKP01 CRON[153455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 01:17:02 SRV-BKP01 CRON[153455]: pam_unix(cron:session): session closed for user root
+Mar  8 02:17:01 SRV-BKP01 CRON[154355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 02:17:02 SRV-BKP01 CRON[154355]: pam_unix(cron:session): session closed for user root
+Mar  8 03:17:01 SRV-BKP01 CRON[155255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 03:17:03 SRV-BKP01 CRON[155255]: pam_unix(cron:session): session closed for user root
+Mar  8 04:17:01 SRV-BKP01 CRON[156155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 04:17:02 SRV-BKP01 CRON[156155]: pam_unix(cron:session): session closed for user root
+Mar  8 05:15:01 SRV-BKP01 CRON[157025]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 05:15:02 SRV-BKP01 CRON[157025]: pam_unix(cron:session): session closed for user root
+Mar  8 05:17:01 SRV-BKP01 CRON[157055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 05:17:02 SRV-BKP01 CRON[157055]: pam_unix(cron:session): session closed for user root
+Mar  8 06:17:01 SRV-BKP01 CRON[157955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 06:17:02 SRV-BKP01 CRON[157955]: pam_unix(cron:session): session closed for user root
+Mar  8 06:25:01 SRV-BKP01 CRON[158075]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 06:25:03 SRV-BKP01 CRON[158075]: pam_unix(cron:session): session closed for user root
+Mar  8 06:30:01 SRV-BKP01 CRON[158150]: pam_unix(cron:session): session opened for user bkpadmin(uid=1001) by (uid=0)
+Mar  8 06:30:01 SRV-BKP01 CRON[158150]: pam_unix(cron:session): session closed for user bkpadmin
+Mar  8 06:47:01 SRV-BKP01 CRON[158405]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 06:47:03 SRV-BKP01 CRON[158405]: pam_unix(cron:session): session closed for user root
+Mar  8 07:17:01 SRV-BKP01 CRON[158855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 07:17:03 SRV-BKP01 CRON[158855]: pam_unix(cron:session): session closed for user root
+Mar  8 08:17:01 SRV-BKP01 CRON[159755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 08:17:03 SRV-BKP01 CRON[159755]: pam_unix(cron:session): session closed for user root
+Mar  8 09:17:01 SRV-BKP01 CRON[160655]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 09:17:03 SRV-BKP01 CRON[160655]: pam_unix(cron:session): session closed for user root
+Mar  8 10:17:01 SRV-BKP01 CRON[161555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 10:17:01 SRV-BKP01 CRON[161555]: pam_unix(cron:session): session closed for user root
+Mar  8 11:17:01 SRV-BKP01 CRON[162455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 11:17:02 SRV-BKP01 CRON[162455]: pam_unix(cron:session): session closed for user root
+Mar  8 12:17:01 SRV-BKP01 CRON[163355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 12:17:03 SRV-BKP01 CRON[163355]: pam_unix(cron:session): session closed for user root
+Mar  8 13:17:01 SRV-BKP01 CRON[164255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 13:17:03 SRV-BKP01 CRON[164255]: pam_unix(cron:session): session closed for user root
+Mar  8 14:17:01 SRV-BKP01 CRON[165155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 14:17:02 SRV-BKP01 CRON[165155]: pam_unix(cron:session): session closed for user root
+Mar  8 15:17:01 SRV-BKP01 CRON[166055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 15:17:01 SRV-BKP01 CRON[166055]: pam_unix(cron:session): session closed for user root
+Mar  8 16:17:01 SRV-BKP01 CRON[166955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 16:17:03 SRV-BKP01 CRON[166955]: pam_unix(cron:session): session closed for user root
+Mar  8 17:17:01 SRV-BKP01 CRON[167855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 17:17:03 SRV-BKP01 CRON[167855]: pam_unix(cron:session): session closed for user root
+Mar  8 18:17:01 SRV-BKP01 CRON[168755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 18:17:01 SRV-BKP01 CRON[168755]: pam_unix(cron:session): session closed for user root
+Mar  8 19:17:01 SRV-BKP01 CRON[169655]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 19:17:03 SRV-BKP01 CRON[169655]: pam_unix(cron:session): session closed for user root
+Mar  8 20:17:01 SRV-BKP01 CRON[170555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 20:17:02 SRV-BKP01 CRON[170555]: pam_unix(cron:session): session closed for user root
+Mar  8 21:17:01 SRV-BKP01 CRON[171455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 21:17:03 SRV-BKP01 CRON[171455]: pam_unix(cron:session): session closed for user root
+Mar  8 22:17:01 SRV-BKP01 CRON[172355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 22:17:01 SRV-BKP01 CRON[172355]: pam_unix(cron:session): session closed for user root
+Mar  8 23:17:01 SRV-BKP01 CRON[173255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  8 23:17:03 SRV-BKP01 CRON[173255]: pam_unix(cron:session): session closed for user root
+Mar  9 00:17:01 SRV-BKP01 CRON[174155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 00:17:02 SRV-BKP01 CRON[174155]: pam_unix(cron:session): session closed for user root
+Mar  9 01:17:01 SRV-BKP01 CRON[175055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 01:17:03 SRV-BKP01 CRON[175055]: pam_unix(cron:session): session closed for user root
+Mar  9 02:17:01 SRV-BKP01 CRON[175955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 02:17:02 SRV-BKP01 CRON[175955]: pam_unix(cron:session): session closed for user root
+Mar  9 03:17:01 SRV-BKP01 CRON[176855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 03:17:03 SRV-BKP01 CRON[176855]: pam_unix(cron:session): session closed for user root
+Mar  9 04:17:01 SRV-BKP01 CRON[177755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 04:17:02 SRV-BKP01 CRON[177755]: pam_unix(cron:session): session closed for user root
+Mar  9 05:17:01 SRV-BKP01 CRON[178655]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 05:17:02 SRV-BKP01 CRON[178655]: pam_unix(cron:session): session closed for user root
+Mar  9 06:17:01 SRV-BKP01 CRON[179555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 06:17:02 SRV-BKP01 CRON[179555]: pam_unix(cron:session): session closed for user root
+Mar  9 06:25:01 SRV-BKP01 CRON[179675]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 06:25:02 SRV-BKP01 CRON[179675]: pam_unix(cron:session): session closed for user root
+Mar  9 06:30:01 SRV-BKP01 CRON[179750]: pam_unix(cron:session): session opened for user bkpadmin(uid=1001) by (uid=0)
+Mar  9 06:30:01 SRV-BKP01 CRON[179750]: pam_unix(cron:session): session closed for user bkpadmin
+Mar  9 07:17:01 SRV-BKP01 CRON[180455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 07:17:03 SRV-BKP01 CRON[180455]: pam_unix(cron:session): session closed for user root
+Mar  9 08:17:01 SRV-BKP01 CRON[181355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 08:17:02 SRV-BKP01 CRON[181355]: pam_unix(cron:session): session closed for user root
+Mar  9 09:17:01 SRV-BKP01 CRON[182255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 09:17:02 SRV-BKP01 CRON[182255]: pam_unix(cron:session): session closed for user root
+Mar  9 10:17:01 SRV-BKP01 CRON[183155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 10:17:01 SRV-BKP01 CRON[183155]: pam_unix(cron:session): session closed for user root
+Mar  9 11:01:48 SRV-BKP01 sshd[183827]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.20.30.12  user=jpires
+Mar  9 11:01:50 SRV-BKP01 sshd[183827]: Failed password for jpires from 10.20.30.12 port 51499 ssh2
+Mar  9 11:01:58 SRV-BKP01 sshd[183827]: Connection closed by authenticating user jpires 10.20.30.12 port 51499 [preauth]
+Mar  9 11:02:16 SRV-BKP01 sshd[183834]: Accepted publickey for jpires from 10.20.30.12 port 51502 ssh2: ED25519 SHA256:k0Q8m2rTzYw3pX7vB1nL5eH9cJ4aF6dS2uG8iO0yRqE
+Mar  9 11:02:16 SRV-BKP01 sshd[183834]: pam_unix(sshd:session): session opened for user jpires(uid=1002) by (uid=0)
+Mar  9 11:02:16 SRV-BKP01 systemd-logind[641]: New session 65 of user jpires.
+Mar  9 11:02:16 SRV-BKP01 systemd[183848]: pam_unix(systemd-user:session): session opened for user jpires(uid=1002) by (uid=0)
+Mar  9 11:03:05 SRV-BKP01 sudo:   jpires : TTY=pts/0 ; PWD=/home/jpires ; USER=root ; COMMAND=/usr/bin/apt list --upgradable
+Mar  9 11:03:05 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jpires(uid=1002)
+Mar  9 11:03:41 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 11:05:20 SRV-BKP01 sudo:   jpires : TTY=pts/0 ; PWD=/home/jpires ; USER=root ; COMMAND=/usr/bin/systemctl list-timers restic-backup.timer
+Mar  9 11:05:20 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jpires(uid=1002)
+Mar  9 11:05:52 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar  9 11:17:01 SRV-BKP01 CRON[184055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 11:17:01 SRV-BKP01 CRON[184055]: pam_unix(cron:session): session closed for user root
+Mar  9 11:25:43 SRV-BKP01 sshd[183836]: Received disconnect from 10.20.30.12 port 51502:11: disconnected by user
+Mar  9 11:25:43 SRV-BKP01 sshd[183836]: Disconnected from user jpires 10.20.30.12 port 51502
+Mar  9 11:25:43 SRV-BKP01 sshd[183834]: pam_unix(sshd:session): session closed for user jpires
+Mar  9 11:25:43 SRV-BKP01 systemd-logind[641]: Session 65 logged out. Waiting for processes to exit.
+Mar  9 11:25:43 SRV-BKP01 systemd-logind[641]: Removed session 65.
+Mar  9 11:25:53 SRV-BKP01 systemd[183848]: pam_unix(systemd-user:session): session closed for user jpires
+Mar  9 12:17:01 SRV-BKP01 CRON[184955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 12:17:02 SRV-BKP01 CRON[184955]: pam_unix(cron:session): session closed for user root
+Mar  9 13:17:01 SRV-BKP01 CRON[185855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 13:17:03 SRV-BKP01 CRON[185855]: pam_unix(cron:session): session closed for user root
+Mar  9 14:17:01 SRV-BKP01 CRON[186755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 14:17:03 SRV-BKP01 CRON[186755]: pam_unix(cron:session): session closed for user root
+Mar  9 15:17:01 SRV-BKP01 CRON[187655]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 15:17:01 SRV-BKP01 CRON[187655]: pam_unix(cron:session): session closed for user root
+Mar  9 16:17:01 SRV-BKP01 CRON[188555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 16:17:02 SRV-BKP01 CRON[188555]: pam_unix(cron:session): session closed for user root
+Mar  9 17:17:01 SRV-BKP01 CRON[189455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 17:17:02 SRV-BKP01 CRON[189455]: pam_unix(cron:session): session closed for user root
+Mar  9 18:17:01 SRV-BKP01 CRON[190355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 18:17:01 SRV-BKP01 CRON[190355]: pam_unix(cron:session): session closed for user root
+Mar  9 19:17:01 SRV-BKP01 CRON[191255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 19:17:01 SRV-BKP01 CRON[191255]: pam_unix(cron:session): session closed for user root
+Mar  9 20:17:01 SRV-BKP01 CRON[192155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 20:17:03 SRV-BKP01 CRON[192155]: pam_unix(cron:session): session closed for user root
+Mar  9 21:17:01 SRV-BKP01 CRON[193055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 21:17:03 SRV-BKP01 CRON[193055]: pam_unix(cron:session): session closed for user root
+Mar  9 22:17:01 SRV-BKP01 CRON[193955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 22:17:01 SRV-BKP01 CRON[193955]: pam_unix(cron:session): session closed for user root
+Mar  9 23:17:01 SRV-BKP01 CRON[194855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar  9 23:17:01 SRV-BKP01 CRON[194855]: pam_unix(cron:session): session closed for user root
+Mar 10 00:17:01 SRV-BKP01 CRON[195755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 00:17:02 SRV-BKP01 CRON[195755]: pam_unix(cron:session): session closed for user root
+Mar 10 01:17:01 SRV-BKP01 CRON[196655]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 01:17:02 SRV-BKP01 CRON[196655]: pam_unix(cron:session): session closed for user root
+Mar 10 02:17:01 SRV-BKP01 CRON[197555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 02:17:02 SRV-BKP01 CRON[197555]: pam_unix(cron:session): session closed for user root
+Mar 10 03:17:01 SRV-BKP01 CRON[198455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 03:17:03 SRV-BKP01 CRON[198455]: pam_unix(cron:session): session closed for user root
+Mar 10 04:17:01 SRV-BKP01 CRON[199355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 04:17:01 SRV-BKP01 CRON[199355]: pam_unix(cron:session): session closed for user root
+Mar 10 05:17:01 SRV-BKP01 CRON[200255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 05:17:02 SRV-BKP01 CRON[200255]: pam_unix(cron:session): session closed for user root
+Mar 10 06:17:01 SRV-BKP01 CRON[201155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 06:17:02 SRV-BKP01 CRON[201155]: pam_unix(cron:session): session closed for user root
+Mar 10 06:25:01 SRV-BKP01 CRON[201275]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 06:25:03 SRV-BKP01 CRON[201275]: pam_unix(cron:session): session closed for user root
+Mar 10 06:30:01 SRV-BKP01 CRON[201350]: pam_unix(cron:session): session opened for user bkpadmin(uid=1001) by (uid=0)
+Mar 10 06:30:02 SRV-BKP01 CRON[201350]: pam_unix(cron:session): session closed for user bkpadmin
+Mar 10 07:03:12 SRV-BKP01 sshd[201848]: error: kex_exchange_identification: Connection closed by remote host
+Mar 10 07:03:12 SRV-BKP01 sshd[201848]: Connection closed by 10.20.10.60 port 39013
+Mar 10 07:03:19 SRV-BKP01 sshd[201849]: Unable to negotiate with 10.20.10.60 port 42202: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1 [preauth]
+Mar 10 07:03:26 SRV-BKP01 sshd[201851]: Connection closed by 10.20.10.60 port 45159 [preauth]
+Mar 10 07:03:33 SRV-BKP01 sshd[201853]: error: kex_exchange_identification: Connection closed by remote host
+Mar 10 07:03:33 SRV-BKP01 sshd[201853]: Connection closed by 10.20.10.60 port 57803
+Mar 10 07:03:40 SRV-BKP01 sshd[201855]: Unable to negotiate with 10.20.10.60 port 50771: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1 [preauth]
+Mar 10 07:03:47 SRV-BKP01 sshd[201856]: Connection closed by 10.20.10.60 port 53742 [preauth]
+Mar 10 07:17:01 SRV-BKP01 CRON[202055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 07:17:02 SRV-BKP01 CRON[202055]: pam_unix(cron:session): session closed for user root
+Mar 10 08:17:01 SRV-BKP01 CRON[202955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 08:17:01 SRV-BKP01 CRON[202955]: pam_unix(cron:session): session closed for user root
+Mar 10 09:17:01 SRV-BKP01 CRON[203855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 09:17:01 SRV-BKP01 CRON[203855]: pam_unix(cron:session): session closed for user root
+Mar 10 09:47:31 SRV-BKP01 sshd[204312]: Accepted publickey for jpires from 10.20.30.12 port 52977 ssh2: ED25519 SHA256:k0Q8m2rTzYw3pX7vB1nL5eH9cJ4aF6dS2uG8iO0yRqE
+Mar 10 09:47:31 SRV-BKP01 sshd[204312]: pam_unix(sshd:session): session opened for user jpires(uid=1002) by (uid=0)
+Mar 10 09:47:31 SRV-BKP01 systemd-logind[641]: New session 66 of user jpires.
+Mar 10 09:47:31 SRV-BKP01 systemd[204326]: pam_unix(systemd-user:session): session opened for user jpires(uid=1002) by (uid=0)
+Mar 10 09:48:02 SRV-BKP01 sudo:   jpires : TTY=pts/0 ; PWD=/home/jpires ; USER=root ; COMMAND=/usr/bin/journalctl -u restic-backup --since today
+Mar 10 09:48:02 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jpires(uid=1002)
+Mar 10 09:48:09 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar 10 10:03:12 SRV-BKP01 sshd[204314]: Received disconnect from 10.20.30.12 port 52977:11: disconnected by user
+Mar 10 10:03:12 SRV-BKP01 sshd[204314]: Disconnected from user jpires 10.20.30.12 port 52977
+Mar 10 10:03:12 SRV-BKP01 sshd[204312]: pam_unix(sshd:session): session closed for user jpires
+Mar 10 10:03:12 SRV-BKP01 systemd-logind[641]: Session 66 logged out. Waiting for processes to exit.
+Mar 10 10:03:12 SRV-BKP01 systemd-logind[641]: Removed session 66.
+Mar 10 10:03:22 SRV-BKP01 systemd[204326]: pam_unix(systemd-user:session): session closed for user jpires
+Mar 10 10:17:01 SRV-BKP01 CRON[204755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 10:17:03 SRV-BKP01 CRON[204755]: pam_unix(cron:session): session closed for user root
+Mar 10 11:17:01 SRV-BKP01 CRON[205655]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 11:17:01 SRV-BKP01 CRON[205655]: pam_unix(cron:session): session closed for user root
+Mar 10 12:17:01 SRV-BKP01 CRON[206555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 12:17:03 SRV-BKP01 CRON[206555]: pam_unix(cron:session): session closed for user root
+Mar 10 13:17:01 SRV-BKP01 CRON[207455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 13:17:01 SRV-BKP01 CRON[207455]: pam_unix(cron:session): session closed for user root
+Mar 10 14:17:01 SRV-BKP01 CRON[208355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 14:17:02 SRV-BKP01 CRON[208355]: pam_unix(cron:session): session closed for user root
+Mar 10 15:17:01 SRV-BKP01 CRON[209255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 15:17:01 SRV-BKP01 CRON[209255]: pam_unix(cron:session): session closed for user root
+Mar 10 16:17:01 SRV-BKP01 CRON[210155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 16:17:03 SRV-BKP01 CRON[210155]: pam_unix(cron:session): session closed for user root
+Mar 10 17:17:01 SRV-BKP01 CRON[211055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 17:17:02 SRV-BKP01 CRON[211055]: pam_unix(cron:session): session closed for user root
+Mar 10 18:17:01 SRV-BKP01 CRON[211955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 18:17:02 SRV-BKP01 CRON[211955]: pam_unix(cron:session): session closed for user root
+Mar 10 19:17:01 SRV-BKP01 CRON[212855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 19:17:03 SRV-BKP01 CRON[212855]: pam_unix(cron:session): session closed for user root
+Mar 10 20:17:01 SRV-BKP01 CRON[213755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 20:17:03 SRV-BKP01 CRON[213755]: pam_unix(cron:session): session closed for user root
+Mar 10 21:17:01 SRV-BKP01 CRON[214655]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 21:17:01 SRV-BKP01 CRON[214655]: pam_unix(cron:session): session closed for user root
+Mar 10 22:17:01 SRV-BKP01 CRON[215555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 22:17:02 SRV-BKP01 CRON[215555]: pam_unix(cron:session): session closed for user root
+Mar 10 23:17:01 SRV-BKP01 CRON[216455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 10 23:17:02 SRV-BKP01 CRON[216455]: pam_unix(cron:session): session closed for user root
+Mar 11 00:17:01 SRV-BKP01 CRON[217355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 00:17:01 SRV-BKP01 CRON[217355]: pam_unix(cron:session): session closed for user root
+Mar 11 01:17:01 SRV-BKP01 CRON[218255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 01:17:01 SRV-BKP01 CRON[218255]: pam_unix(cron:session): session closed for user root
+Mar 11 02:09:38 SRV-BKP01 sshd[219044]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.20.10.20  user=root
+Mar 11 02:09:40 SRV-BKP01 sshd[219044]: Failed password for root from 10.20.10.20 port 50122 ssh2
+Mar 11 02:09:44 SRV-BKP01 sshd[219044]: Failed password for root from 10.20.10.20 port 50122 ssh2
+Mar 11 02:09:49 SRV-BKP01 sshd[219044]: Failed password for root from 10.20.10.20 port 50122 ssh2
+Mar 11 02:09:49 SRV-BKP01 sshd[219044]: Connection closed by authenticating user root 10.20.10.20 port 50122 [preauth]
+Mar 11 02:09:49 SRV-BKP01 sshd[219044]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.20.10.20  user=root
+Mar 11 02:09:55 SRV-BKP01 sshd[219048]: Invalid user admin from 10.20.10.20 port 50138
+Mar 11 02:09:57 SRV-BKP01 sshd[219048]: pam_unix(sshd:auth): check pass; user unknown
+Mar 11 02:09:57 SRV-BKP01 sshd[219048]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.20.10.20
+Mar 11 02:09:57 SRV-BKP01 sshd[219048]: Failed password for invalid user admin from 10.20.10.20 port 50138 ssh2
+Mar 11 02:09:58 SRV-BKP01 sshd[219048]: Connection closed by invalid user admin 10.20.10.20 port 50138 [preauth]
+Mar 11 02:10:05 SRV-BKP01 sshd[219051]: Accepted password for bkpadmin from 10.20.10.20 port 50146 ssh2
+Mar 11 02:10:05 SRV-BKP01 sshd[219051]: pam_unix(sshd:session): session opened for user bkpadmin(uid=1001) by (uid=0)
+Mar 11 02:10:05 SRV-BKP01 systemd-logind[641]: New session 87 of user bkpadmin.
+Mar 11 02:10:05 SRV-BKP01 systemd[219065]: pam_unix(systemd-user:session): session opened for user bkpadmin(uid=1001) by (uid=0)
+Mar 11 02:10:36 SRV-BKP01 sudo:   bkpadmin : TTY=pts/0 ; PWD=/home/bkpadmin ; USER=root ; COMMAND=list
+Mar 11 02:12:41 SRV-BKP01 sudo:   bkpadmin : TTY=pts/0 ; PWD=/home/bkpadmin ; USER=root ; COMMAND=/bin/bash
+Mar 11 02:12:41 SRV-BKP01 sudo: pam_unix(sudo-i:session): session opened for user root(uid=0) by bkpadmin(uid=1001)
+Mar 11 02:15:30 SRV-BKP01 sudo: pam_unix(sudo-i:session): session closed for user root
+Mar 11 02:17:01 SRV-BKP01 CRON[219155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 02:17:01 SRV-BKP01 CRON[219155]: pam_unix(cron:session): session closed for user root
+Mar 11 02:17:02 SRV-BKP01 sshd[219053]: Received disconnect from 10.20.10.20 port 50146:11: disconnected by user
+Mar 11 02:17:02 SRV-BKP01 sshd[219053]: Disconnected from user bkpadmin 10.20.10.20 port 50146
+Mar 11 02:17:02 SRV-BKP01 sshd[219051]: pam_unix(sshd:session): session closed for user bkpadmin
+Mar 11 02:17:02 SRV-BKP01 systemd-logind[641]: Session 87 logged out. Waiting for processes to exit.
+Mar 11 02:17:02 SRV-BKP01 systemd-logind[641]: Removed session 87.
+Mar 11 02:17:12 SRV-BKP01 systemd[219065]: pam_unix(systemd-user:session): session closed for user bkpadmin
+Mar 11 03:17:01 SRV-BKP01 CRON[220055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 03:17:03 SRV-BKP01 CRON[220055]: pam_unix(cron:session): session closed for user root
+Mar 11 04:17:01 SRV-BKP01 CRON[220955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 04:17:01 SRV-BKP01 CRON[220955]: pam_unix(cron:session): session closed for user root
+Mar 11 05:17:01 SRV-BKP01 CRON[221855]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 05:17:03 SRV-BKP01 CRON[221855]: pam_unix(cron:session): session closed for user root
+Mar 11 06:17:01 SRV-BKP01 CRON[222755]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 06:17:01 SRV-BKP01 CRON[222755]: pam_unix(cron:session): session closed for user root
+Mar 11 06:25:01 SRV-BKP01 CRON[222875]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 06:25:03 SRV-BKP01 CRON[222875]: pam_unix(cron:session): session closed for user root
+Mar 11 07:17:01 SRV-BKP01 CRON[223655]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 07:17:02 SRV-BKP01 CRON[223655]: pam_unix(cron:session): session closed for user root
+Mar 11 08:17:01 SRV-BKP01 CRON[224555]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 08:17:03 SRV-BKP01 CRON[224555]: pam_unix(cron:session): session closed for user root
+Mar 11 09:17:01 SRV-BKP01 CRON[225455]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 09:17:02 SRV-BKP01 CRON[225455]: pam_unix(cron:session): session closed for user root
+Mar 11 10:17:01 SRV-BKP01 CRON[226355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 10:17:01 SRV-BKP01 CRON[226355]: pam_unix(cron:session): session closed for user root
+Mar 11 11:17:01 SRV-BKP01 CRON[227255]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 11:17:03 SRV-BKP01 CRON[227255]: pam_unix(cron:session): session closed for user root
+Mar 11 12:17:01 SRV-BKP01 CRON[228155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 12:17:03 SRV-BKP01 CRON[228155]: pam_unix(cron:session): session closed for user root
+Mar 11 13:17:01 SRV-BKP01 CRON[229055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 13:17:03 SRV-BKP01 CRON[229055]: pam_unix(cron:session): session closed for user root
+Mar 11 14:17:01 SRV-BKP01 CRON[229955]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Mar 11 14:17:02 SRV-BKP01 CRON[229955]: pam_unix(cron:session): session closed for user root
+Mar 11 14:55:10 SRV-BKP01 login[230527]: pam_unix(login:session): session opened for user steixeira(uid=1003) by LOGIN(uid=0)
+Mar 11 14:55:10 SRV-BKP01 systemd-logind[641]: New session 91 of user steixeira.
+Mar 11 14:55:50 SRV-BKP01 sudo:   steixeira : TTY=tty1 ; PWD=/home/steixeira ; USER=root ; COMMAND=/usr/bin/mount /dev/sdb1 /media/usb
+Mar 11 14:55:50 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by steixeira(uid=1003)
+Mar 11 14:55:52 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar 11 14:56:35 SRV-BKP01 sudo:   steixeira : TTY=tty1 ; PWD=/home/steixeira ; USER=root ; COMMAND=/usr/bin/timedatectl
+Mar 11 14:56:35 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by steixeira(uid=1003)
+Mar 11 14:56:37 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar 11 14:57:20 SRV-BKP01 sudo:   steixeira : TTY=tty1 ; PWD=/home/steixeira ; USER=root ; COMMAND=/usr/bin/ls -la --time-style=full-iso /srv/backup /srv/backup/fs01 /srv/backup/dc01
+Mar 11 14:57:20 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by steixeira(uid=1003)
+Mar 11 14:57:22 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar 11 14:58:05 SRV-BKP01 sudo:   steixeira : TTY=tty1 ; PWD=/home/steixeira ; USER=root ; COMMAND=/usr/bin/stat /root/.bash_history /home/bkpadmin/.bash_history /var/spool/cron/crontabs /etc/systemd/system/timers.target.wants /srv/backup/fs01 /srv/backup/dc01
+Mar 11 14:58:05 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by steixeira(uid=1003)
+Mar 11 14:58:36 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar 11 14:58:50 SRV-BKP01 sudo:   steixeira : TTY=tty1 ; PWD=/home/steixeira ; USER=root ; COMMAND=/usr/bin/df -h /srv/backup
+Mar 11 14:58:50 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by steixeira(uid=1003)
+Mar 11 14:58:52 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar 11 14:59:35 SRV-BKP01 sudo:   steixeira : TTY=tty1 ; PWD=/home/steixeira ; USER=root ; COMMAND=/usr/bin/tar -cpzf /media/usb/EXH-BKP01-01/srv-bkp01-logs.tgz /var/log /etc /home /root /var/spool/cron
+Mar 11 14:59:35 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by steixeira(uid=1003)
+Mar 11 15:00:06 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root
+Mar 11 15:00:20 SRV-BKP01 sudo:   steixeira : TTY=tty1 ; PWD=/home/steixeira ; USER=root ; COMMAND=/usr/bin/sha256sum /media/usb/EXH-BKP01-01/srv-bkp01-logs.tgz
+Mar 11 15:00:20 SRV-BKP01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by steixeira(uid=1003)
+Mar 11 15:00:22 SRV-BKP01 sudo: pam_unix(sudo:session): session closed for user root

@@ -1,0 +1,32 @@
+title: rclone-like transfer (possibly renamed)
+id: s04-proc-rclone
+status: test
+description: |
+  rclone copies files to almost any cloud storage. Attackers rename it, but the
+  PE metadata (OriginalFileName) and the shape of its arguments stay.
+references:
+  - https://attack.mitre.org/techniques/T1567/002/
+tags:
+  - attack.exfiltration
+  - attack.t1567.002
+logsource:
+  product: windows
+  category: process_creation
+detection:
+  sel_pe:
+    OriginalFileName: 'rclone.exe'
+  sel_args_verb:
+    CommandLine|contains:
+      - ' copy '
+      - ' sync '
+      - ' move '
+      - ' copyto '
+  sel_args_cfg:
+    CommandLine|contains:
+      - '--config'
+      - '--transfers'
+      - '--no-check-certificate'
+  condition: sel_pe or (sel_args_verb and sel_args_cfg)
+falsepositives:
+  - Sanctioned rclone backup jobs (they run from a known path, as a known account)
+level: high

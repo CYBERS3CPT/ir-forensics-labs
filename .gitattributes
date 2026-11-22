@@ -1,0 +1,7 @@
+# Evidence is verified byte for byte against SHA256SUMS. Some of it has
+# Windows (CRLF) line endings on purpose. Never let git convert it.
+session-*/evidence/** -text
+
+# Scripts must keep LF endings or the shebang breaks on Linux.
+*.sh text eol=lf
+*.py text eol=lf

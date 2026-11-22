@@ -1,0 +1,9 @@
+ticket,opened_utc,requester,host,category,summary,status,assignee,closed_utc,worklog
+HD-4466,2026-03-09T09:12:40Z,s.cunha,WS-MKT-03,Account,"Password expired, cannot log in to VPN from home ('a password expirou')",closed,j.pires,2026-03-09T09:20:02Z,"Reset via AD, user changed password at first logon."
+HD-4469,2026-03-09T15:31:07Z,f.alves,WS-FIN-03,Software,Browser keeps opening coupon pages,open,s.teixeira,,Waiting for user availability to remove the extension.
+HD-4471,2026-03-10T10:05:12Z,m.antunes,WS-FIN-07,Printer,Cannot print invoices to PRN-MAIA-03 ('a impressora não imprime as faturas'),closed,j.pires,2026-03-10T10:41:30Z,10:20 remote session (RDP from WS-IT-02) to WS-FIN-07. Removed and reinstalled PrintVendor driver 4.2.1. Test page OK. 10:38 logged off. User confirmed.
+HD-4474,2026-03-10T11:48:19Z,d.lopes,WS-SAL-09,Hardware,Second monitor flickers,open,s.teixeira,,Cable swap scheduled Thursday.
+HD-4479,2026-03-10T16:02:55Z,t.gomes,WS-HR-02,Access,Request access to \\FS01\HR\Recrutamento for new HR intern (approved by HR director),closed,j.pires,2026-03-10T16:30:11Z,Added to group FS-HR-Recrutamento-R.
+HD-4490,2026-03-11T07:55:40Z,c.mendes,WS-WH-02,Files,Cannot open delivery schedule Plano_Entregas_S11.xlsx on \\FS01\Logistica - 'Excel diz que o ficheiro está corrompido',in progress,j.pires,,"08:12 assigned. 08:20 opened \\FS01\Logistica from WS-IT-02: files renamed *.crs3, a file LEIA-ME_CRS3.txt in each folder. Same in Finance and HR. Called Rui Calado."
+HD-4491,2026-03-11T08:03:18Z,f.alves,WS-FIN-03,Files,"Invoices folder on \\FS01\Finance shows strange files, cannot open any PDF",new,,,
+HD-4492,2026-03-11T08:09:51Z,t.gomes,WS-HR-02,Files,Payroll file for March has 'a weird extension' and a text file appeared in the folder,new,,,

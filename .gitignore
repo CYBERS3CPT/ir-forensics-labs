@@ -1,0 +1,30 @@
+# What YOUR lab runs produce does not belong here. The case evidence under
+# session-*/evidence/ is shipped on purpose and is NOT ignored.
+out/
+output/
+work/
+*-out/
+*-report/
+collection-*/
+*.E01
+*.dd
+*.raw
+*.lime
+*.plaso
+my-*.pcap
+custody-*.json
+
+# Credentials. Obviously.
+.env
+*.pem
+*.key
+credentials
+config.local.*
+
+# The usual suspects
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/

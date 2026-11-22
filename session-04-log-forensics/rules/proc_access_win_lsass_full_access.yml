@@ -1,0 +1,29 @@
+title: Process opened LSASS with full access
+id: s04-pa-lsass-full
+status: test
+description: |
+  Reading credentials out of LSASS needs a handle with PROCESS_VM_READ, and
+  dumping tools typically ask for everything (0x1FFFFF). Security products
+  also open LSASS: know which ones you run before you filter them out.
+references:
+  - https://attack.mitre.org/techniques/T1003/001/
+tags:
+  - attack.credential-access
+  - attack.t1003.001
+logsource:
+  product: windows
+  category: process_access
+detection:
+  selection:
+    TargetImage|endswith: '\lsass.exe'
+    GrantedAccess:
+      - '0x1FFFFF'
+      - '0x1F3FFF'
+      - '0x1410'
+      - '0x1010'
+  filter_defender:
+    SourceImage|startswith: 'C:\ProgramData\Microsoft\Windows Defender\'
+  condition: selection and not filter_defender
+falsepositives:
+  - EDR and backup agents (filter them by full path AND signer, never by file name alone)
+level: high

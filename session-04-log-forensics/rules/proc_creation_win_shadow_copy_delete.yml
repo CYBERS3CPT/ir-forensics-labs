@@ -1,0 +1,38 @@
+title: Shadow copies or backup catalog deleted
+id: s04-proc-inhibit-recovery
+status: test
+description: |
+  Ransomware deletes Volume Shadow Copies and the Windows Server Backup
+  catalog just before encrypting, so you cannot roll the files back.
+references:
+  - https://attack.mitre.org/techniques/T1490/
+tags:
+  - attack.impact
+  - attack.t1490
+logsource:
+  product: windows
+  category: process_creation
+detection:
+  sel_vss:
+    Image|endswith: '\vssadmin.exe'
+    CommandLine|contains|all:
+      - 'delete'
+      - 'shadows'
+  sel_wb:
+    Image|endswith: '\wbadmin.exe'
+    CommandLine|contains|all:
+      - 'delete'
+      - 'catalog'
+  sel_wmic:
+    CommandLine|contains|all:
+      - 'shadowcopy'
+      - 'delete'
+  sel_bcd:
+    CommandLine|contains|all:
+      - 'bcdedit'
+      - 'recoveryenabled'
+      - 'no'
+  condition: 1 of sel_*
+falsepositives:
+  - Storage administrators cleaning up shadows (rarely with /all /quiet)
+level: critical

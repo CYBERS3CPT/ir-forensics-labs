@@ -1,0 +1,44 @@
+==================  CRS3  ==================
+
+[PT]
+Olá, Ceres Alimentar.
+
+Os ficheiros dos vossos servidores foram cifrados com um algoritmo forte.
+Todos os ficheiros têm agora a extensão .crs3.
+
+NÃO renomeiem os ficheiros, NÃO usem ferramentas de recuperação e NÃO
+desliguem os servidores: podem perder os dados para sempre.
+
+Antes da cifra copiámos dados confidenciais da vossa empresa.
+Se não nos contactarem, esses dados serão publicados.
+
+Para receber o programa de decifra e garantias:
+  1. Abram http://negotiate.crs3-support.example.org/
+  2. Introduzam o vosso ID:  CERES-0311-7F4A
+  3. Podem decifrar 2 ficheiros pequenos grátis, como prova.
+
+Não contactem a polícia nem empresas de recuperação. Eles não vos ajudam.
+
+[EN]
+Hello, Ceres Alimentar.
+
+Files on your servers were encrypted with a strong algorithm.
+Every file now has the extension .crs3.
+
+Do NOT rename files, do NOT use recovery tools and do NOT shut the servers
+down: you may lose the data forever.
+
+Before encryption we copied confidential data from your company.
+If you do not contact us, that data will be published.
+
+To get the decryptor and guarantees:
+  1. Open http://negotiate.crs3-support.example.org/
+  2. Enter your ID:  CERES-0311-7F4A
+  3. You may decrypt 2 small files for free, as proof.
+
+Do not contact the police or recovery companies. They will not help you.
+
+============================================
+
+[Training material — Ceres Alimentar, S.A. is a fictional case. The address above uses a
+reserved example domain and reaches nothing.]

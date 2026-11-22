@@ -1,0 +1,63 @@
+COLLECTION NOTES — contemporaneous, written as I went
+=====================================================
+Case:       INC-2026-007 (Ceres Alimentar, S.A.)
+Exhibit:    EXH-WSFIN07-01  — triage collection, host WS-FIN-07 (10.20.30.47), user m.antunes
+Examiner:   Sofia Teixeira (s.teixeira), IT systems administrator, Ceres Alimentar
+Authority:  instruction from the incident manager (r.calado), response log entry 18, 12:05Z
+Tool:       KAPE 1.3.0.2 (targets !SANS_Triage, modules !EZParser) from USB
+Media:      USB SSD, serial 4C530001230811117452, wiped and formatted exFAT 2026-03-04 (wipe log on file)
+Reference clock: my laptop LT-IT-04, chrony-synchronised; `chronyc tracking` at 12:09Z: system time
+            0.003 s fast of NTP time. ALL TIMES IN THESE NOTES ARE FROM LT-IT-04, IN UTC.
+
+12:09:40Z  Laptop clock checked (above). Portugal is on WET (UTC+0) today; local = UTC.
+12:12:10Z  At the desk (Finance, floor 1, Maia). WS-FIN-07 is ON. Screen locked, m.antunes
+           session present (she was sent home at 11:45Z; she did not log off). EDR console:
+           "Network contained" since 11:40Z; containment policy still allows DC01.
+12:13:00Z  Photographs: screen, rear cabling, asset tag CER-PC-0447 (photos P1031-P1036).
+12:13:40Z  Taskbar clock on WS-FIN-07 reads 12:18:17. Reference reads 12:13:40.
+           -> host AHEAD by about 4 min 37 s. Recorded before touching anything else.
+12:14:05Z  "Switch user" -> signed in as local account ir-local (LAPS password, retrieved by
+           r.calado 12:07Z). NOTE: this creates a logon, a profile (C:\Users\ir-local) and
+           prefetch entries on the evidence host. Unavoidable; recorded.
+12:14:12Z  Admin cmd.exe. Ran:
+             w32tm /query /status
+               Leap Indicator: 3(not synchronized)
+               Stratum: 0 (unspecified)
+               Last Successful Sync Time: 02/03/2026 07:13:40
+               Source: Local CMOS Clock
+               Poll Interval: 10 (1024s)
+             (date format on this host is dd/mm/yyyy — that is 2 March, not 3 February)
+12:14:15Z    w32tm /stripchart /computer:10.20.10.10 /samples:3 /dataonly
+               Tracking 10.20.10.10 [10.20.10.10:123].
+               Collecting 3 samples.
+               The current time is 11/03/2026 12:18:52.
+               12:18:52, -277.1843117s
+               12:18:54, -277.1842950s
+               12:18:56, -277.1843302s
+           -> WS-FIN-07 clock is 277.18 s AHEAD of DC01 (DC01 is NTP-synced; agrees with my laptop
+              to within a second). I did NOT correct the clock: changing it now would alter the
+              evidence and break the relationship between its existing timestamps.
+12:14:30Z  USB inserted (E:). KAPE started from E:\KAPE, output to E:\EXH-WSFIN07-01\ (never to C:).
+           Targets !SANS_Triage, modules !EZParser. Command line is in kape\ConsoleLog.txt.
+12:23:50Z  Target copy finished (6 912 files, 41 locked files copied via raw access).
+12:39:31Z  Modules finished.
+12:41:10Z  KAPE closed. USB ejected safely. Signed out ir-local. m.antunes session left locked,
+           host left ON and contained. Not done: memory capture (no approved tool in the jump
+           kit — gap reported to r.calado); full disk image (deferred to the panel firm).
+12:43:00Z  On LT-IT-04 (USB mounted read-only): computed SHA-256 of every file on the exhibit
+           -> exhibit manifest, 6 951 lines (kept with the exhibit).
+12:50:30Z  Prepared the ANALYST PACKAGE: module output (mout\), KAPE logs (kape\) and the Edge
+           History database. MANIFEST.sha256 = those 11 lines of the exhibit manifest.
+           sha256(MANIFEST.sha256) = 06462e86a91b422d1845a82003b53255d77f485f196992239ea5a280a93efc7f
+12:52:00Z  USB in evidence bag, seal CER-0412. Bag label: case, exhibit, serial, date, my initials.
+12:58:00Z  Handed bag (seal intact) to Rui Calado, incident manager. He signed the label
+           and the transfer line on the custody form. Stored in the IT safe (Maia), key holders:
+           r.calado, CFO.
+
+Remarks
+- KAPE's own logs (ConsoleLog.txt, CopyLog.csv) are timestamped by WS-FIN-07's clock, so they
+  are ~277 s ahead of these notes. Expected.
+- Analyst package handed over separately (see response log). This file is NOT in the manifest:
+  it is my statement, not a collected artefact.
+
+S. Teixeira

@@ -1,0 +1,12 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	x509
+#open	2026-03-10-07-00-00
+#fields	ts	fingerprint	certificate.version	certificate.serial	certificate.subject	certificate.issuer	certificate.not_valid_before	certificate.not_valid_after	certificate.key_alg	certificate.sig_alg	certificate.key_type	certificate.key_length	certificate.exponent	certificate.curve	san.dns	san.uri	san.email	san.ip	basic_constraints.ca	basic_constraints.path_len	host_cert	client_cert
+#types	time	string	count	string	string	string	time	time	string	string	string	count	string	string	vector[string]	vector[string]	vector[string]	vector[addr]	bool	count	bool	bool
+1773126331.048954	298eee8b7d09cbefdb2cd23f48474fbf586911c7da431c9a95009e579243e70c	3	12DE8D7262E84761074B29788E026286	CN=telemetry.printvendor.example.com,O=PrintVendor Example K.K.,C=JP	CN=Example Trust RSA CA 2024,O=Example Trust Ltd,C=GB	1762041600.000000	1793663999.000000	rsaEncryption	sha256WithRSAEncryption	rsa	2048	65537	-	telemetry.printvendor.example.com	-	-	-	F	-	T	F
+1773126331.048954	9bb2b18334321184ba8ea60afc05f91419c36b164547bd76b82fb20acec074d7	3	7CA02F794F6617F8A0DBFF6C250A160C	CN=Example Trust RSA CA 2024,O=Example Trust Ltd,C=GB	CN=Example Trust Root R1,O=Example Trust Ltd,C=GB	1704844800.000000	1862697599.000000	rsaEncryption	sha256WithRSAEncryption	rsa	2048	65537	-	-	-	-	-	T	-	T	F
+1773132178.294222	4faf84d785ef03cdc99ca28b26fe24e26a1792af3e6d32a40082c4b599dca8d6	3	25C9C1571FD251306C3AE0637597EF38	CN=cdn.update-telemetry.example.net	CN=cdn.update-telemetry.example.net	1773004449.000000	1804540449.000000	rsaEncryption	sha256WithRSAEncryption	rsa	2048	65537	-	cdn.update-telemetry.example.net	-	-	-	F	-	T	F
+#close	2026-03-11-12-00-00

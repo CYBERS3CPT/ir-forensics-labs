@@ -1,0 +1,53 @@
+HANDOVER — new evidence released for the forensic report (INC-2026-007)
+==========================================================================
+
+Received by the panel firm (Faroleiro DFIR, Lda. (fictional)) between 2026-03-12 and 2026-03-13.
+Hashes below were computed on receipt (SHA-256). They must match evidence/SHA256SUMS.
+All times UTC. Portugal is on WET (UTC+0) on these dates.
+
+phish_FT2026_1187.eml
+  sha256  2a72822ab7db996dc23c7e9f9ddc2e2c54b0d45b308fbb719852d646d7064cb3
+  Original message exported from m.antunes' mailbox (Exchange Online, eDiscovery export of the item, MIME preserved). Exported by Ceres IT (s.teixeira) 2026-03-12 11:05 UTC, delivered to the panel firm by SharePoint link, downloaded 11:20 UTC.
+
+m365_message_trace.csv
+  sha256  1eec63cd87f5bcf96b1a9c90defd7648377c063c400aeb8cca6f0abd714c2c9f
+  Exchange Online message trace, search: sender domain *fornecedores* OR agrotamega*, 2026-03-01..2026-03-11. Exported by Ceres IT 2026-03-12 11:12 UTC. Times are UTC in the US date format the portal uses (M/D/YYYY).
+
+FS01_C_MFT_PerfLogs.csv
+  sha256  20c2d3ac3c8475f4c288ecd601244731d5e0aaf5f2eeb282ad59fe1941b972f8
+  MFTECmd 1.2.2.1 over $MFT of FS01 C:, from the panel firm's E01 image of FS01 (live acquisition from the FS01 console, 2026-03-12 10:10-13:52 UTC, FTK Imager 4.7.1 to an external disk; the server was not powered off). Filtered to ParentPath .\PerfLogs*.
+
+FS01_C_UsnJrnl.csv
+  sha256  454f10b724eccb83d91d055437625077a657e0787acda727f696c75317062411
+  MFTECmd 1.2.2.1 over C:\$Extend\$UsnJrnl:$J from the same image. Filtered to 2026-03-10 10:00 .. 2026-03-11 04:30 UTC.
+
+FS01_D_UsnJrnl_sample.csv
+  sha256  09ade8ecafebea027cf2be3f45d0cf55bab270e74abc4bfae38cd461154fff59
+  MFTECmd over D:\$Extend\$UsnJrnl:$J. The full output is ~1 million rows; this is a SAMPLE made by the panel firm: the first and last 25 files encrypted, about one file in 420, one file in 20 of the Logistica planning folder, the ransom-note creation in every folder, and the VSS deletion. Do not count files from it: use FS01_crs3_counts.txt.
+
+FS01_LECmd_jpires_Recent.csv
+  sha256  61f8ef865dbce1a01a6da50db1e9f98b30aeecfff8a0350ef4ea589b5a9e9a4f
+  LECmd 1.5.0.0 over C:\Users\j.pires\AppData\Roaming\Microsoft\Windows\Recent\*.lnk from the same FS01 image (the two shortcuts that point into C:\PerfLogs).
+
+FS01_crs3_counts.txt
+  sha256  7b666c02087aa2a54d42516464158074ec036216dfb356388f75e7345f534d50
+  PowerShell transcript of s.teixeira on the FS01 console, 2026-03-12 09:44-09:51 UTC, BEFORE imaging (read-only Get-ChildItem; recorded as a deviation).
+
+rc.conf
+  sha256  bb78939b9bd4d8882a676973ac0be02b55cf4773ef59608474054e6d6eb8c098
+  Exported from the FS01 image, C:\PerfLogs\Admin\rc.conf (allocated file).
+
+LEIA-ME_CRS3.txt
+  sha256  c710fb9a7f08060a7e187166d63253df3badd99d6ae8f77beac54ccff5364115
+  Exported from the FS01 image, D:\Shares\Finance\LEIA-ME_CRS3.txt. The notes in other folders were sampled and are identical (same SHA-256).
+
+panel_initial_findings_2026-03-12.md
+  sha256  a64e7e67cc0e15d053724c9a34e018a30d19f871a32883b2bbc33badc5a4298c
+  Initial memo sent by Faroleiro DFIR, Lda. (fictional) to Mútua Atlântica Seguros (fictional) on 2026-03-12 18:40 UTC. Provided for review: it was written on partial data.
+
+hr_finance_data_subjects.csv
+  sha256  2a9444d06aeba4dc3314e28e00b477043c05dd9f459af457217bb8a4029c3bdf
+  Aggregate counts prepared by the DPO (a.fonseca) on 2026-03-13 from the HR and Finance systems of record. No individual records were provided or are needed.
+
+Custody: each item was copied to the case share \\FDFIR-CASE\INC-2026-007\received\ on
+receipt, hashed, and the share marked read-only. Working copies only from then on.

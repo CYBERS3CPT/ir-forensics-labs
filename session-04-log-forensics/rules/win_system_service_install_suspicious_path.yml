@@ -1,0 +1,34 @@
+title: Service installed from an unusual folder
+id: s04-sys-service-path
+status: test
+description: |
+  Event 7045 (System log) records every new service. Real services live in
+  Program Files or System32; PerfLogs, Public, Temp and user profiles are
+  where tools get dropped.
+references:
+  - https://attack.mitre.org/techniques/T1543/003/
+  - https://attack.mitre.org/techniques/T1569/002/
+tags:
+  - attack.persistence
+  - attack.execution
+  - attack.t1543.003
+  - attack.t1569.002
+logsource:
+  product: windows
+  service: system
+detection:
+  selection:
+    EventID: 7045
+  selection_path:
+    ImagePath|contains:
+      - '\PerfLogs\'
+      - '\Users\Public\'
+      - '\AppData\'
+      - '\Temp\'
+      - '\ProgramData\'
+  filter_defender:
+    ImagePath|contains: '\ProgramData\Microsoft\Windows Defender\'
+  condition: selection and selection_path and not filter_defender
+falsepositives:
+  - Some vendor agents install from ProgramData
+level: high

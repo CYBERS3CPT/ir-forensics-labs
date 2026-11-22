@@ -1,0 +1,43 @@
+$ sudo stat /root/.bash_history /home/bkpadmin/.bash_history /var/spool/cron/crontabs /etc/systemd/system/timers.target.wants /srv/backup/fs01 /srv/backup/dc01
+  File: /root/.bash_history
+  Size: 393       	Blocks: 8          IO Block: 4096   regular file
+Access: (0600/-rw-------)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2026-03-11 14:57:23.909798649 +0000
+Modify: 2026-03-11 02:15:30.112480061 +0000
+Change: 2026-03-11 02:15:30.112480061 +0000
+ Birth: -
+  File: /home/bkpadmin/.bash_history
+  Size: 412       	Blocks: 8          IO Block: 4096   regular file
+Access: (0600/-rw-------)  Uid: ( 1001/bkpadmin)   Gid: ( 1001/bkpadmin)
+Access: 2026-03-11 14:57:40.334965913 +0000
+Modify: 2026-03-03 14:31:10.644201395 +0000
+Change: 2026-03-03 14:31:10.644201395 +0000
+ Birth: -
+  File: /var/spool/cron/crontabs
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Access: (1730/drwx-wx--T)  Uid: (    0/    root)   Gid: (  107/ crontab)
+Access: 2026-03-11 14:57:18.405323489 +0000
+Modify: 2026-03-11 02:15:41.020933871 +0000
+Change: 2026-03-11 02:15:41.020933871 +0000
+ Birth: -
+  File: /etc/systemd/system/timers.target.wants
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2026-03-11 14:57:41.993705140 +0000
+Modify: 2026-03-11 02:13:10.338410947 +0000
+Change: 2026-03-11 02:13:10.338410947 +0000
+ Birth: -
+  File: /srv/backup/fs01
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Access: (0750/drwxr-x---)  Uid: ( 1001/bkpadmin)   Gid: ( 1010/backupops)
+Access: 2026-03-11 14:57:18.152027403 +0000
+Modify: 2026-03-11 02:14:31.408877123 +0000
+Change: 2026-03-11 02:14:31.408877123 +0000
+ Birth: -
+  File: /srv/backup/dc01
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Access: (0750/drwxr-x---)  Uid: ( 1001/bkpadmin)   Gid: ( 1010/backupops)
+Access: 2026-03-11 14:57:19.991170111 +0000
+Modify: 2026-03-11 02:15:09.774310552 +0000
+Change: 2026-03-11 02:15:09.774310552 +0000
+ Birth: -

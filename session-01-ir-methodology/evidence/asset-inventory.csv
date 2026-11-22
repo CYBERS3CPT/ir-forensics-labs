@@ -1,0 +1,18 @@
+hostname,ip,os,role,business_owner,criticality,data_classification,edr,siem_forwarding,backup,notes
+FW01,10.20.0.1,firewall appliance,"Perimeter firewall, SSL-VPN, egress web proxy",IT manager,Tier 1,Internal,n/a,FW + proxy logs,config export weekly,public NAT 198.51.100.24
+DC01,10.20.10.10,Windows Server 2022,"Active Directory domain controller, DNS (ceres.local)",IT manager,Tier 1,Confidential,no,Sysmon + System,restic daily to SRV-BKP01; tape monthly,"only DC; Domain Admins: Administrator, j.pires"
+FS01,10.20.10.20,Windows Server 2019,"File server: \\FS01\Finance, \\FS01\HR, \\FS01\Logistica","CFO (Finance), HR director (HR), Logistics director (Logistica)",Tier 1,"Finance: Confidential (supplier IBANs, invoices); HR: Confidential - personal data incl. health (payroll, NIF, NISS, IBAN, sick-leave certificates); Logistica: Internal, business-critical (delivery schedules)",no,Sysmon + System (Security NOT forwarded),restic daily to SRV-BKP01; tape monthly,Logistica holds the daily delivery schedules for ~1 900 customers; trucks leave Carregado from 10:00
+SRV-BKP01,10.20.10.30,Ubuntu 22.04,"Backup server, restic repositories under /srv/backup",IT manager,Tier 1,Confidential (copies of everything),no,not enrolled,"monthly tape (offline, Carregado warehouse safe)","local account bkpadmin, password known to the IT team; restic-backup.timer nightly"
+SIEM01,10.20.10.40,Ubuntu 22.04,Wazuh manager + indexer,IT manager,Tier 2,Internal,no,self,config only,no on-call; alert e-mails to shared mailbox it-alerts
+VULN01,10.20.10.60,Ubuntu 22.04,"Greenbone vulnerability scanner, weekly scan Tuesdays 07:00 UTC",IT manager,Tier 3,Internal,no,not enrolled,none,scan window Tue 07:00-08:00 UTC
+WS-IT-02,10.20.30.12,Windows 11,Workstation - João Pires (IT helpdesk / sysadmin),IT manager,Tier 2,Internal,yes (audit mode),Sysmon + System,none (no local data policy),admin tools; user is Domain Admin
+WS-FIN-07,10.20.30.47,Windows 11,Workstation - Marta Antunes (accounts payable),CFO,Tier 3,"Confidential (invoices, supplier bank details)",yes (audit mode),Sysmon + System,none (no local data policy),printer PRN-MAIA-03 via PrintVendor driver 4.2.1
+WS-FIN-03,10.20.30.41,Windows 11,Workstation - Finance,CFO,Tier 3,Confidential,yes (audit mode),Sysmon + System,none,
+WS-HR-02,10.20.30.61,Windows 11,Workstation - HR,HR director,Tier 3,Confidential - personal data,yes (audit mode),Sysmon + System,none,
+WS-MKT-03,10.20.30.88,Windows 11,Workstation - Marketing,Head of marketing,Tier 3,Internal,yes (audit mode),Sysmon + System,none,
+WS-SAL-09,10.20.30.95,Windows 11,Workstation - Sales,Sales director,Tier 3,Internal,yes (audit mode),Sysmon + System,none,
+WS-LOG-12,10.20.30.112,Windows 11,Workstation - Logistics planning (Maia),Logistics director,Tier 3,Internal,yes (audit mode),Sysmon + System,none,
+WS-WH-02,10.20.30.142,Windows 11,Workstation - warehouse shift office (Carregado),Logistics director,Tier 2,Internal,yes (audit mode),Sysmon + System,none,shared by shift supervisors
+WS-WH-05,10.20.30.145,Windows 11,Workstation - warehouse dispatch (Carregado),Logistics director,Tier 2,Internal,yes (audit mode),Sysmon + System,none,known flaky Wi-Fi bridge
+PRN-MAIA-03,10.20.40.13,printer firmware,"Printer, Finance floor (Maia)",IT manager,Tier 3,Internal,n/a,syslog,none,vendor telemetry to telemetry.printvendor.example.com via driver
+PRN-CAR-02,10.20.40.22,printer firmware,"Printer, warehouse (Carregado)",IT manager,Tier 3,Internal,n/a,syslog,none,
